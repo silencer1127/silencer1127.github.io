@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Custom CSS
+   ========================================================================== */
+
+.pagination .left {
+    background-color: #eeeeee;
+    color: #222831;
+    border: 1px solid #505050;
+    border-radius: 7px;
+    padding: 5px;
+    float: left;
+    font-size: 0.75em;
+    text-decoration: none;
+}
+
+.pagination .right {
+    background-color: #eeeeee;
+    color: #222831;
+    border: 1px solid #505050;
+    border-radius: 7px;
+    padding: 5px;
+    float: right;
+    font-size: 0.75em;
+    text-decoration: none;
+}

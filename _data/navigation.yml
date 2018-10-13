@@ -1,0 +1,56 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Profile"
+    url: /profile
+  - title: "Publications"
+    url: /pub
+  - title: "Software"
+    url: /software
+  - title: "Resources"
+    url: /resources
+
+ezf:
+    - title: "Return to Software"
+      url: /software
+    - title: "Introduction"
+      url: /software/EZ_Fingerprint/ezf_main
+    - title: "Download"
+      url: /software/EZ_Fingerprint/ezf_download
+    - title: "Installation"
+      url: /software/EZ_Fingerprint/ezf_install
+    - title: "Tutorial"
+      url: /software/EZ_Fingerprint/ezf_tutorial
+    - title: "About"
+      url: /software/EZ_Fingerprint/ezf_about
+    - title: "FAQs"
+      url: /software/EZ_Fingerprint/ezf_faqs
+
+ezf_tt:
+    - title: "Return to Tutorial"
+      url: /software/EZ_Fingerprint/ezf_tutorial
+    - title: "Prerequisite"
+      url: /software/EZ_Fingerprint/tutorial/ezf_bst
+    - title: "Setup"
+      url: /software/EZ_Fingerprint/tutorial/ezf_setup
+    - title: "EZF Processing Pipeline"
+      url: /software/EZ_Fingerprint/tutorial/ezf_pipeline
+    - title: "Miscellaneous"
+      url: /software/EZ_Fingerprint/tutorial/ezf_misc
+
+ezf_pl:
+    - title: "Return to Pipeline"
+      url: /software/EZ_Fingerprint/tutorial/ezf_pipeline
+    - title: "Data"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_data
+    - title: "Preprocessing"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_preprocess
+    - title: "Labeling"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_label
+    - title: "Training"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_train
+    - title: "Testing"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_test
+    - title: "Prediction"
+      url: /software/EZ_Fingerprint/tutorial/pipeline/ezf_predict
