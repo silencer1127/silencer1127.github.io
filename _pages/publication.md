@@ -60,7 +60,7 @@ Neuroimage, vol. 172, pp. 740-752, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i
 
 * O. Grinenko<sup>\*</sup>, **J. Li**<sup>\*</sup>, J. C. Mosher, Z. Wang, J. Bulacio, J. Gonźalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel,  
 [A fingerprint of the epileptogenic zone in human epilepsies](https://doi.org/10.1093/brain/awx306){:.pub_j_web}{:#pub_brain_2017_fingerprint_web}{:target="pub_brain_2017_fingerprint_web"},  
-Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/brain_2017_fingerprint.pdf){:.pub_j_pdf}{:#pub_brain_2017_fingerprint_pdf}{:target="pub_brain_2017_fingerprint_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/brain_2017_fingerprint.bib)
+Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/brain_2017_fingerprint.pdf){:.pub_j_pdf}{:#pub_brain_2017_fingerprint_pdf}{:target="pub_brain_2017_fingerprint_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/brain_2017_fingerprint.bib) &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -114,7 +114,7 @@ In search of biomarkers for the epileptogenic zone: A machine learning approach,
 
 * **J. Li**, S. Y. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 [Global PDF-based temporal non-local means filtering reveals individual differences of brain connectivity](https://doi.org/10.1109/ISBI.2018.8363513){:.pub_c_web}{:#pub_isbi_2018_gpdf_web}{:target="pub_isbi_2018_gpdf_web"},  
-IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington D.C., 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2018_gpdf.bib)
+IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington D.C., 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2018_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -144,7 +144,7 @@ IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA,
 
 * **J. Li**, S. Y. Choi, R. M. Leahy,  
 Global PDF-based non-local means filtering of resting fMRI data,  
-23rd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Vancouver, BC, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib)
+23rd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Vancouver, BC, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
 
 * **J. Li**, R. M. Leahy,  
 [Parameter selection for optimized non-local means filtering of task fMRI](https://doi.org/10.1109/ISBI.2017.7950564){:.pub_c_web}{:#pub_isbi_2017_tnlm_web}{:target="pub_isbi_2017_tnlm_web"},  
