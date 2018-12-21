@@ -4,7 +4,7 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2018-10-13
+date: 2018-12-21
 ---
 
 {% comment %}
@@ -19,17 +19,14 @@ Authors marked with \* are co-first authors that contributed to the work equally
 {% comment %}
 
 * GPDF, TMI
-* EZF 2, brain/neuroimage
+* EZF 2, brain
 * Tensor fMRI, neuroimage
-
-add citation link to the TBME paper
-add pdf to the ebcr paper
 
 {% endcomment %}
 
 * **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
 [Scalable and robust tensor decomposition for brain network identification in spontaneous stereotactic EEG data](https://doi.org/10.1109/TBME.2018.2875467){:.pub_j_web}{:#pub_tbme_2018_srscpd_web}{:target="pub_tbme_2018_srscpd_web"},  
-IEEE Transactions on Biomedical Engineering, 2018. (In press)
+IEEE Transactions on Biomedical Engineering, 2018. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/tbme_2018_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -39,7 +36,7 @@ IEEE Transactions on Biomedical Engineering, 2018. (In press)
 
 * E. Cvetkovska, W. A. Martins, J. Gonźalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
 [Heterotopia or overlaying cortex: what about in-between?](https://doi.org/10.1016/j.ebcr.2018.09.007){:.pub_j_web}{:#pub_ebcr_2018_heterotopia_web}{:target="pub_ebcr_2018_heterotopia_web"},  
-Epilepsy & Behavior Case Reports, 2018. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib)
+Epilepsy & Behavior Case Reports, vol. 11, pp. 4-9, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ebcr_2018_pnh.pdf){:.pub_j_pdf}{:#pub_ebcr_2018_pnh_pdf}{:target="pub_ebcr_2018_pnh_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib) 
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -72,23 +69,31 @@ Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"><
 
 {% comment %}
 
-* **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,
-Brain Network Identification in Asynchronous Task fMRI Data Using Robust and Scalable Tensor Decomposition
-SPIE Medical Imaging, 2019.
+* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. Wood, R. M. Leahy,  
+Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states,  
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, Italy.
 
-* A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,
-Predicting Cognitive Scores from Resting fMRI Data and Geometric Features,
-SPIE Medical Imaging, 2019.
-
-* H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,
-Group-wise Alignment of Resting fMRI in Space and Time,
-SPIE Medical Imaging, 2019.
+* A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
+A matched filter decomposition of task fmri for extraction of dynamical components,  
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, Italy.
 
 {% endcomment %}
 
-* **J. Li**<sup>\*</sup>, O. Grinenko<sup>\*</sup>, J. C. Mosher, J. Bulacio, J. Gonźalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
-In search of biomarkers for the epileptogenic zone: A machine learning approach,  
-72nd Annual Meeting of the American Epilepsy Society, New Orleans, 2018. (Accepted)
+* **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
+Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition,  
+Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+
+* A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
+Predicting cognitive scores from resting fMRI data and geometric features,  
+Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+
+* H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
+Group-wise alignment of resting fMRI in space and time,  
+Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+
+* O. Grinenko<sup>\*</sup>, **J. Li**<sup>\*</sup>, J. C. Mosher, J. Bulacio, J. Gonźalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
+[In search of biomarkers for the epileptogenic zone: A machine learning approach](https://www.aesnet.org/meetings_events/annual_meeting_abstracts/view/502570){:.pub_c_web}{:#pub_aes_2019_ezfmri_web}{:target="pub_aes_2019_ezfmri_web"},  
+72nd Annual Meeting of the American Epilepsy Society, New Orleans, 2018.
 
 * A. A. Joshi, **J. Li**, M. Chong, H. Akrami, R. M. Leahy,  
 [rfDemons: resting fMRI-based cortical surface registration using BrainSync transform](https://doi.org/10.1007/978-3-030-00931-1_23){:.pub_c_web}{:#pub_miccai_2018_rfdemons_web}{:target="pub_rmiccai_2018_rfdemons_web"},  
@@ -124,7 +129,7 @@ IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington D.C.,
 
 * **J. Li**, J. C. Mosher, D. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
 [Robust tensor decomposition of resting brain networks in stereotactic EEG](https://doi.org/10.1109/ACSSC.2017.8335616){:.pub_c_web}{:#pub_asilomar_2017_srscpd_web}{:target="pub_asilomar_2017_srscpd_web"},  
-IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib)
+IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
