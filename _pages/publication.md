@@ -4,7 +4,7 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2018-12-21
+date: 2019-01-11
 ---
 
 {% comment %}
@@ -23,6 +23,16 @@ Authors marked with \* are co-first authors that contributed to the work equally
 * Tensor fMRI, neuroimage
 
 {% endcomment %}
+
+* **J. Li**, S. E. Luczak, I. G. Rosen,  
+Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems,  
+Journal of Inverse and Ill-posed Problems, 2019. (In press)
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			Three methods for the estimation of blood or breath alcohol concentration (BAC/BrAC) from biosensor measured transdermal alcohol concentration (TAC) are evaluated and compared. Specifically, we consider a system identification/quasi-blind deconvolution scheme based on a distributed parameter model with unbounded input and output for ethanol transport in the skin and compare it to two more conventional system identification and filtering/deconvolution techniques for ill-posed inverse problems, one based on frequency domain methods, and the other on a time series approach using an ARMA input/output model. Our basis for comparison are five statistical measures of interest to alcohol researchers and clinicians: peak BAC/BrAC, time of peak BAC/BrAC, the ascending and descending slopes of the BAC/BrAC curve, and the area underneath the BAC/BrAC curve.
+			</p>
+	</details>
 
 * **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
 [Scalable and robust tensor decomposition for brain network identification in spontaneous stereotactic EEG data](https://doi.org/10.1109/TBME.2018.2875467){:.pub_j_web}{:#pub_tbme_2018_srscpd_web}{:target="pub_tbme_2018_srscpd_web"},  
@@ -69,27 +79,27 @@ Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"><
 
 {% comment %}
 
-* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. Wood, R. M. Leahy,  
-Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, Italy.
+* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
+Detecting alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic conditions,  
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 A matched filter decomposition of task fmri for extraction of dynamical components,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, Italy.
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
 
 {% endcomment %}
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition,  
-Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+Proc. SPIE Medical Imaging: Image Processing, San Diego, 2019 (In press)
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 Predicting cognitive scores from resting fMRI data and geometric features,  
-Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+Proc. SPIE Medical Imaging: Image Processing, San Diego, 2019. (In press)
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
 Group-wise alignment of resting fMRI in space and time,  
-Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
+Proc. SPIE Medical Imaging: Image Processing, San Diego, 2019 (In press)
 
 * O. Grinenko<sup>\*</sup>, **J. Li**<sup>\*</sup>, J. C. Mosher, J. Bulacio, J. Gonźalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
 [In search of biomarkers for the epileptogenic zone: A machine learning approach](https://www.aesnet.org/meetings_events/annual_meeting_abstracts/view/502570){:.pub_c_web}{:#pub_aes_2019_ezfmri_web}{:target="pub_aes_2019_ezfmri_web"},  
@@ -97,7 +107,7 @@ Proc. SPIE, Medical Imaging 2019, Image Processing. (Accepted)
 
 * A. A. Joshi, **J. Li**, M. Chong, H. Akrami, R. M. Leahy,  
 [rfDemons: resting fMRI-based cortical surface registration using BrainSync transform](https://doi.org/10.1007/978-3-030-00931-1_23){:.pub_c_web}{:#pub_miccai_2018_rfdemons_web}{:target="pub_rmiccai_2018_rfdemons_web"},  
-21st International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Spain, 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/miccai_2018_rfdemons.bib)
+21st International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Granada, 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/miccai_2018_rfdemons.bib)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -129,7 +139,7 @@ IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington D.C.,
 
 * **J. Li**, J. C. Mosher, D. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
 [Robust tensor decomposition of resting brain networks in stereotactic EEG](https://doi.org/10.1109/ACSSC.2017.8335616){:.pub_c_web}{:#pub_asilomar_2017_srscpd_web}{:target="pub_asilomar_2017_srscpd_web"},  
-IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
+IEEE 51st Asilomar Conference on Signal, System and Computers, Pacific Grove, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -139,7 +149,7 @@ IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA,
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
 [On the modeling and deconvolution of blood or breath alcohol concentration (BrAC/BAC) from biosensor-measured transdermal alcohol concentration (TAC)](https://doi.org/10.1111/acer.13391){:.pub_c_web}{:#pub_rsa_2017_alcohol_web}{:target="pub_rsa_2017_alcohol_web"},  
-40th Annual Meeting of the Research Society on Alcoholism (RSA), Denver, CO, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/rsa_2017_alcohol.pdf){:.pub_c_pdf}{:#pub_rsa_2017_alcohol_pdf}{:target="pub_rsa_2017_alcohol_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/rsa_2017_alcohol.bib)
+40th Annual Meeting of the Research Society on Alcoholism (RSA), Denver, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/rsa_2017_alcohol.pdf){:.pub_c_pdf}{:#pub_rsa_2017_alcohol_pdf}{:target="pub_rsa_2017_alcohol_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/rsa_2017_alcohol.bib)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -149,11 +159,11 @@ IEEE 51st Asilomar Conference on Signal, System and Computers, Pacfic Grove, CA,
 
 * **J. Li**, S. Y. Choi, R. M. Leahy,  
 Global PDF-based non-local means filtering of resting fMRI data,  
-23rd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Vancouver, BC, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
+23rd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Vancouver, 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
 
 * **J. Li**, R. M. Leahy,  
 [Parameter selection for optimized non-local means filtering of task fMRI](https://doi.org/10.1109/ISBI.2017.7950564){:.pub_c_web}{:#pub_isbi_2017_tnlm_web}{:target="pub_isbi_2017_tnlm_web"},  
-IEEE 14th International Symposium on Biomedical Imaging (ISBI), pp. 476-480, Melbourne, VIC, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2017_tnlm.bib)
+IEEE 14th International Symposium on Biomedical Imaging (ISBI), pp. 476-480, Melbourne, 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2017_tnlm.bib)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -163,7 +173,7 @@ IEEE 14th International Symposium on Biomedical Imaging (ISBI), pp. 476-480, Mel
 
 * A. Kuruvilla, **J. Li**, P. H. Yeomans, P. Quelhas, N. Shaikh, A. Hoberman, and J. Kovačević,  
 [Otitis media vocabulary and grammar](https://doi.org/10.1109/ICIP.2012.6467492){:.pub_c_web}{:#pub_icip_2012_otitis_web}{:target="pub_icip_2012_otitis_web"},  
-IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Orlando, FL, 2012. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/icip_2012_otitis.bib)
+IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Orlando, 2012. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/icip_2012_otitis.bib)
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -171,14 +181,24 @@ IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Or
 			</p>
 	</details>
 
-## Thesis
+## Thesis/Dissertation
 
 * **J. Li**,  
 [Distributed parameter model based system identification and input determination in the estimation of blood alcohol concentration from transdermal alcohol biosensor data](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/){:.pub_t_web}{:#pub_stats_thesis_web}{:target="stats_thesis"},  
-M.S. Thesis in Statistics, University of Southern California, 2017.
+M.S. Thesis, University of Southern California, Jul. 2017.
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
 			Methods for the estimation of blood or breath alcohol concentration (BAC/BrAC) from biosensor measured transdermal alcohol concentration (TAC) are developed, evaluated and compared. Specifically, a scheme based on a distributed parameter model with unbounded input and output for ethanol transport in the skin is compared to more conventional filtering/deconvolution techniques, one based on frequency domain methods, and the other on a time series approach using an autoregressive moving average (ARMA) input/output model. Our basis for comparison are five statistics of interest to alcohol researchers and clinicians: peak BAC/BrAC, time of peak BAC/BrAC, the ascending and descending slopes of the BAC/BrAC curve and area underneath the BAC/BrAC curve. It can be shown that the ARMA-based method yields the best estimation of the peak while the distributed parameter model produces the best estimation of the time of the peak. The Fourier-based method has the least variance out of the three and is computationally very efficient.
+			</p>
+	</details>
+
+* **J. Li**,  
+基于时空相关性的视频拷贝检测技术研究 (Spatio-temporal-correlation-based near-duplicate video detection),  
+本科论文，北京工业大学，2011年6月 (B.E. Thesis, Beijing University of Technology, Jun. 2011)
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			视频拷贝检测是目前多媒体处理领域的前沿研究热点，在海量视频信息检索和版权保护等方面有着重要的应用价值。视频拷贝检测的实质在于判断不同的视频片段是否具有相同的内容，从而实现对特定视频内容的搜索、检测和跟踪。在视频拷贝检测技术领域，当前国内外的研究重点是寻找各种复杂的特征提取方法来提高拷贝检测的准确性。然而在实际应用中，最需要解决的问题是在大规模数据下，在保持检测的准确性、鲁棒性的同时，如何显著提高拷贝检测的速度。本论文提出了一种基于时空相关性的视频拷贝检测技术。该技术利用视频时间和空间的相关性，直接在压缩域进行视频拷贝检测，在不解压或者少解压的情况下，在保证检测准确性的同时，大大提高检测的速度。该方法的实现过程如下: 首先，从 MPEG-2 压缩码流中提取亮度、颜色、纹理、运动 以及显著图等信息，然后利用这些信息对待检测的两段视频进行粗略的镜头分割，使之成为视频段落，然后对压缩域中提取的各种特征信息并进行统计，依据某一准则进行比对，最后综合各种特征的对比结果，给出两段视频相似程度。实验结果表明，本文提出的基于时空相关性的视频拷贝检测算法能够在保证检测准确率的同时，有效地降低处理复杂度，提升检测效率，并对不同分辨率、不同质量、不同内容的视频均具有较强的鲁棒性。
 			</p>
 	</details>

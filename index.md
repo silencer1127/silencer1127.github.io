@@ -34,7 +34,7 @@ Jian Li is a Ph.D. candidate under the supervision of Dr. [Richard M. Leahy](htt
 
 
 ## Research Summary
-Li's research interests lie in the application of statistical signal and image processing and machine learning theory to the modeling and analysis of biomedical data. Of particular recent interest, he is focusing on the development of computational methods for analysis and inference of the brain connectivity using data from a variety of spatio-temporal imaging modalities, such as stereotactic electro-encephalography (SEEG) and function magnetic resonance imaging (fMRI).
+Li's research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of biomedical data. Of particular recent interest, he is focusing on the development of computational methods for analysis and inference of the brain connectivity using data from a variety of spatio-temporal imaging modalities, such as stereotactic electro-encephalography (SEEG) and function magnetic resonance imaging (fMRI).
 
 
 {% comment %}

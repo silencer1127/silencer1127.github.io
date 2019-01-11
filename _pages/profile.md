@@ -25,8 +25,8 @@ Thesis: [“Distributed parameter model based system identification and input de
 
 * **Bachelor of Engineering (B.E.) in [Electronic Information Engineering](http://xxxb.bjut.edu.cn/index.html){:.prf_ext}{:#prf_eie_be}{:target="xxxb_homepage"}**  
 **(Highest Honors)** <span class="align-right">Jul. 2011</span>  
-[Beijing University of Technology](http://english.bjut.edu.cn){:.prf_ext}{:#prf_eie_be_bjut}{:target="bjut_homepage"}, Beijing, China.  
-Thesis: “Near-duplicate video detection”
+[Beijing University of Technology](http://english.bjut.edu.cn){:.prf_ext}{:#prf_eie_be_bjut}{:target="bjut_homepage"}, Beijing.  
+Thesis: "Spatio-temporal-correlation-based near-duplicate video detection"
 
 ## Professional Appointments
 
@@ -50,6 +50,9 @@ Security Business Unit, [Juniper Networks Inc.](https://www.juniper.net){:.prf_e
 
 ## Awards and Honors
 
+* **[GSG Research Travel Award (AES 2018)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_aes_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2018</span>  
+[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
+
 * **[Ming Hsieh Institute Ph.D. Scholar](https://minghsiehee.usc.edu/mhi-home/mhi-mhi-scholars/){:.prf_ext}{:#prf_mhi_scholar}{:target="mhi_scholar"}**, <span class="align-right">Sept. 2018</span>  
 [Ming Hiesh Department of Electrical Engineering](https://minghsiehee.usc.edu){:.prf_ext}{:#prf_ee}{:target="mhi_ee_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_mhi_usc_homepage}{:target="usc_homepage"}
 
@@ -59,7 +62,7 @@ Security Business Unit, [Juniper Networks Inc.](https://www.juniper.net){:.prf_e
 * **Best Student Paper Finalist**, <span class="align-right">Apr. 2018</span>  
 IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington, D.C.
 
-* **[USC GSG Travel Award (Asilomar 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_asilomar_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2017</span>  
+* **[GSG Research Travel Award (Asilomar 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_asilomar_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2017</span>  
 [Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_usc}{:target="usc_homepage"} 
 
 * **[GSG Research Travel Award (ISBI 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_isbi_grant}{:target="gsg_travel_grant"}**, <span class="align-right">May 2017</span>  
@@ -74,7 +77,7 @@ National Institutes of Health
 * **USC Annenberg Graduate Fellowship**, <span class="align-right">Mar. 2013</span>  
 [The Graduate School](http://graduateschool.usc.edu){:.prf_ext}{:#prf_annenberg_fellowship_graduate_school}{:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_annenberg_fellowship_usc}{:target="usc_homepage"}
 
-* **Graduate Conference Travel Grant**, <span class="align-right">Dec. 2012</span>  
+* **Graduate Conference Travel Grant (ICIP 2012)**, <span class="align-right">Dec. 2012</span>  
 [Graduate Education](https://www.cmu.edu/graduate){:.prf_ext}{:#prf_cmu_grad_edu}{:target="cmu_grad_edu"}, [Carnegie Mellon University](http://www.cmu.edu){:.prf_ext}{:#prf_conf_travel_award_cmu}{:target="cmu_homepage"}
 
 * **Beijing Excellent Graduate (Top 100)**, <span class="align-right">Jul. 2011</span>  
@@ -83,7 +86,7 @@ Beijing, China
 * **Best Undergraduate Thesis Award**, <span class="align-right">Jun. 2011</span>  
 [Beijing University of Technology](http://www.bjut.edu.cn){:.prf_ext}{:#prf_scholarship_bjut}{:target="bjut_homepage"}
 
-* **[National Scholarship (Highest Scholarship from Chinese Government)](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:.prf_ext}{:#prf_national_scholarship}{:target="bjut_national_scholarship"}**, <span class="align-right">Sept. 2010</span>  
+* **[National Scholarship (Highest scholarship from Chinese government)](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:.prf_ext}{:#prf_national_scholarship}{:target="bjut_national_scholarship"}**, <span class="align-right">Sept. 2010</span>  
 China
 
 * **University First Class Scholarship**, <span class="align-right">2008, 2009, 2010, 2011</span>  
