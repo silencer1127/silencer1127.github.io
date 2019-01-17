@@ -4,7 +4,7 @@ category: "main"
 permalink: /profile/
 layout: single
 author_profile: true
-date: 2018-10-13
+date: 2019-01-17
 ---
 
 ## Education
@@ -50,38 +50,29 @@ Security Business Unit, [Juniper Networks Inc.](https://www.juniper.net){:.prf_e
 
 ## Awards and Honors
 
-* **[GSG Research Travel Award (AES 2018)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_aes_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2018</span>  
-[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
+<span style="font-size:0.8em;">AES - American Epilepsy Society; ACSSC - Asilomar Conference on Signals, Systems, and Computers; GSG - Graduate
+Student Government; ICIP - International Conference on Image Processing; ISBI - International Symposium on Biomedical Imaging; NIH - National Institutes of Health.</span>
+
+{% comment %}
+* **Image Processing Student Best Paper, Runner-up (first author)**,  <span class="align-right">Feb. 2019</span>  
+SPIE Medical Imaging, San Diego
+{% endcomment %}
+
+### Conference Paper Awards
+
+* **Best Student Paper, Finalist (first author)**, <span class="align-right">Apr. 2018</span>  
+IEEE 15th ISBI, Washington, D.C.
+
+### Fellowships, Scholarships & University Awards
 
 * **[Ming Hsieh Institute Ph.D. Scholar](https://minghsiehee.usc.edu/mhi-home/mhi-mhi-scholars/){:.prf_ext}{:#prf_mhi_scholar}{:target="mhi_scholar"}**, <span class="align-right">Sept. 2018</span>  
 [Ming Hiesh Department of Electrical Engineering](https://minghsiehee.usc.edu){:.prf_ext}{:#prf_ee}{:target="mhi_ee_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_mhi_usc_homepage}{:target="usc_homepage"}
-
-* **[GSG Research Travel Award (ISBI 2018)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_isbi_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Jun. 2018</span>  
-[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
-
-* **Best Student Paper Finalist**, <span class="align-right">Apr. 2018</span>  
-IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington, D.C.
-
-* **[GSG Research Travel Award (Asilomar 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_asilomar_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2017</span>  
-[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_usc}{:target="usc_homepage"} 
-
-* **[GSG Research Travel Award (ISBI 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_isbi_grant}{:target="gsg_travel_grant"}**, <span class="align-right">May 2017</span>  
-[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
-
-* **[NIH Travel Award (R13-EB024405-01)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9331837&icde=36971946){:.prf_ext}{:#prf_nih_isbi}{:target="R13-EB024405-01"}**, <span class="align-right">Apr. 2017</span>  
-National Institutes of Health
 
 * **Annenberg Graduate Research Award**, <span class="align-right">Mar. 2017</span>  
 [The Graduate School](http://graduateschool.usc.edu){:.prf_ext}{:#prf_annenberg_award_graduate_school}{:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_annenberg_research_award_usc}{:target="usc_homepage"}
 
 * **USC Annenberg Graduate Fellowship**, <span class="align-right">Mar. 2013</span>  
 [The Graduate School](http://graduateschool.usc.edu){:.prf_ext}{:#prf_annenberg_fellowship_graduate_school}{:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_annenberg_fellowship_usc}{:target="usc_homepage"}
-
-* **Graduate Conference Travel Grant (ICIP 2012)**, <span class="align-right">Dec. 2012</span>  
-[Graduate Education](https://www.cmu.edu/graduate){:.prf_ext}{:#prf_cmu_grad_edu}{:target="cmu_grad_edu"}, [Carnegie Mellon University](http://www.cmu.edu){:.prf_ext}{:#prf_conf_travel_award_cmu}{:target="cmu_homepage"}
-
-* **Beijing Excellent Graduate (Top 100)**, <span class="align-right">Jul. 2011</span>  
-Beijing, China
 
 * **Best Undergraduate Thesis Award**, <span class="align-right">Jun. 2011</span>  
 [Beijing University of Technology](http://www.bjut.edu.cn){:.prf_ext}{:#prf_scholarship_bjut}{:target="bjut_homepage"}
@@ -91,6 +82,31 @@ China
 
 * **University First Class Scholarship**, <span class="align-right">2008, 2009, 2010, 2011</span>  
  [Beijing University of Technology](http://www.bjut.edu.cn){:.prf_ext}{:#prf_scholarship_bjut}{:target="bjut_homepage"}
+
+### Travel Grants & Awards
+
+* **[GSG Research Travel Award (AES 2018)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_aes_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2018</span>  
+[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
+
+* **[GSG Research Travel Award (ISBI 2018)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_isbi_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Jun. 2018</span>  
+[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
+
+* **[GSG Research Travel Award (ACSSC 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_asilomar_grant}{:target="gsg_travel_grant"}**, <span class="align-right">Dec. 2017</span>  
+[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_asilomar_usc}{:target="usc_homepage"} 
+
+* **[GSG Research Travel Award (ISBI 2017)](http://gsg.usc.edu/student-funding/travel-grants/){:.prf_ext}{:#prf_gsg_isbi_grant}{:target="gsg_travel_grant"}**, <span class="align-right">May 2017</span>  
+[Graduate Student Government](https://gsg.usc.edu){:.prf_ext}{:#prf_gsg_isbi_homepage}{:target="gsg_homepage"}, [University of Southern California](http://www.usc.edu){:.prf_ext}{:#prf_gsg_isbi_usc}{:target="usc_homepage"}
+
+* **[NIH Travel Award (R13-EB024405-01)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9331837&icde=36971946){:.prf_ext}{:#prf_nih_isbi}{:target="R13-EB024405-01"}**, <span class="align-right">Apr. 2017</span>  
+National Institutes of Health
+
+* **Graduate Conference Travel Grant (ICIP 2012)**, <span class="align-right">Dec. 2012</span>  
+[Graduate Education](https://www.cmu.edu/graduate){:.prf_ext}{:#prf_cmu_grad_edu}{:target="cmu_grad_edu"}, [Carnegie Mellon University](http://www.cmu.edu){:.prf_ext}{:#prf_conf_travel_award_cmu}{:target="cmu_homepage"}
+
+### Other Honors & Awards
+
+* **Beijing Excellent Graduate (Top 100)**, <span class="align-right">Jul. 2011</span>  
+Beijing, China
 
 * **[Freescale National Smart Car Racing Contest](https://baike.baidu.com/item/%E9%A3%9E%E6%80%9D%E5%8D%A1%E5%B0%94%E6%9D%AF%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%99%BA%E8%83%BD%E8%BD%A6%E7%AB%9E%E8%B5%9B/9133657){:.prf_ext}{:#prf_freescale}{:target="freescale"}, First Place**, <span class="align-right">2010</span>  
 Hangzhou, China

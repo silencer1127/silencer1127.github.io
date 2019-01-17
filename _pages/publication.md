@@ -4,16 +4,12 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2019-01-11
+date: 2019-01-17
 ---
 
-{% comment %}
-[<i class="ai ai-google-scholar-square"></i> Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:.pub_ext}{:#pub_google_scholar}{:target="google_scholar"}
-{% endcomment %}
+<i class="ai ai-google-scholar-square"></i> [Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:.pub_ext}{:#pub_google_scholar}{:target="google_scholar"}
 
-
-Publications are listed in a reverse chronological order. Co-first authors with equal contribution are marked with a &dagger;.
-
+<span style="font-size:0.8em;">Co-first authors with equal contribution are marked with a &dagger;.</span>
 
 ## Journal Publications
 
@@ -84,7 +80,9 @@ Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"><
 
 {% comment %}
 
-
+* **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
+Robust brain network identification from multi-subject asynchronous fMRI data,  
+26th International Conference on Information Processing in Medical Imaging (IPMI), Hong Kong, 2019.
 
 {% endcomment %}
 
@@ -92,7 +90,7 @@ Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"><
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition,  
-Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019 (In press)
+Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 Predicting cognitive scores from resting fMRI data and geometric features,  
@@ -100,7 +98,7 @@ Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
 Group-wise alignment of resting fMRI in space and time,  
-Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019 (In press)
+Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
 
 ### 2018
 
@@ -163,12 +161,12 @@ IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Or
 
 {% comment %}
 
-* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
-Detecting alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic conditions,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
-
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 A matched filter decomposition of task fmri for extraction of dynamical components,  
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
+
+* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
+Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states,  
 25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
 
 {% endcomment %}
