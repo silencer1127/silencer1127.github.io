@@ -29,7 +29,7 @@ Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz | 8 GB | Mac OS X 10.13.6 | R2015b | 1.
 
 We understand the importance of the safety of your personal information. We have implemented several security measures, from both the client side and the server side, to protect your personal information from unauthorized access.
 
-We do not sell, trade or transfer your personal information (e.g. name, e-mail address, etc.) to any other party outside. However, we may release your information when appropriate to comply with the law. We may also use the anonymous system information for advertising, technical presentation or other research purposes.
+We do not sell, trade or transfer your personal information (e.g. name, e-mail address, etc.) to any other party outside. However, we may release your information when appropriate to comply with the law.
 
 # Consent
 
