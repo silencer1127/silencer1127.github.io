@@ -22,6 +22,8 @@ ezf:
       url: /software/EZ_Fingerprint/ezf_install
     - title: "Tutorial"
       url: /software/EZ_Fingerprint/ezf_tutorial
+    - title: "Privacy"
+      url: /software/EZ_Fingerprint/ezf_privacy
     - title: "About"
       url: /software/EZ_Fingerprint/ezf_about
     - title: "FAQs"

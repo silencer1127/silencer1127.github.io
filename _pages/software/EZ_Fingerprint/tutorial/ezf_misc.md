@@ -134,5 +134,5 @@ You may have played with the parameters and/or preferences and saved your versio
 
 <div class="pagination">
 	<a class="left" href="/software/EZ_Fingerprint/tutorial/pipeline/ezf_predict"><i class="fa fa-arrow-circle-left"></i> Prediction </a>
-	<a class="right" href="/software/EZ_Fingerprint/ezf_about"> About <i class="fa fa-arrow-circle-right"></i></a>
+	<a class="right" href="/software/EZ_Fingerprint/ezf_privacy"> Privacy <i class="fa fa-arrow-circle-right"></i></a>
 </div>

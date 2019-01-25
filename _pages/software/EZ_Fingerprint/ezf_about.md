@@ -13,42 +13,31 @@ date: 2018-04-12
 
 ## Principal Investigators
 
-Richard M. Leahy, Ph.D.<br/>
-Signal & Image Processing Institute, Director<br/>
-University of Southern California, Los Angeles, CA USA
+[Richard M. Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}, Ph.D.<br/>
+Chair, Electrical Engineering-Systems<br/>
+University of Southern California, Los Angeles, CA, USA
 
-John C. Mosher, Ph.D.<br/>
-MEG research, Director<br/>
-Epilepsy Center<br/>
-Cleveland Clinic Neurological Institute, Cleveland, OH USA
-
-## Main Contributors
-
-Patrick Chauvel, M.D.
-
-
-Olesya Grinenko, M.D.
-
-
-Jian (Andrew) Li, M.S.
-
+[John C. Mosher](https://med.uth.edu/neurology/faculty/john-c-mosher-phd/){:target="mosher"}, Ph.D.<br/>
+Professor, Department of Neurology<br/>
+University of Texas Health Sciences Center, Houston, TX, USA
 
 ## Key Collaborators
 
-Zhong (Irene) Wang, Ph.D.
+[Patrick Chauvel](https://my.clevelandclinic.org/staff/18110-patrick-chauvel){:target="chauvel"}, M.D.  
 
-Juan Bulacio
+[Olesya Grinenko](https://scholar.google.com/citations?user=CgeALY0AAAAJ&hl=en){:target="grinenko"}, M.D. Ph.D.  
 
-Jorge A. Gonźalez-Martinez, M.D. Ph.D.
+[Jorge A. Gonźalez-Martinez](https://my.clevelandclinic.org/staff/9151-jorge-alvaro-gonzalez-martinez){:target="gonzalez"}, M.D. Ph.D.  
 
-Dileep R. Nair, M.D.
+[Dileep R. Nair](https://my.clevelandclinic.org/staff/3046-dileep-nair){:target="nair"}, M.D.  
 
-Imad Najm, M.D.
+[Zhong (Irene) Wang](https://sites.google.com/view/linne/faculty){:target="wang"}, Ph.D.  
 
+[Juan Bulacio](https://my.clevelandclinic.org/staff/9290-juan-bulacio){:target="bulacio"}, M.D.  
 
-
+[Imad Najm](https://my.clevelandclinic.org/staff/2465-imad-najm){:target="najm"}, M.D.
 
 <div class="pagination">
-	<a class="left" href="/software/EZ_Fingerprint/tutorial/ezf_misc"><i class="fa fa-arrow-circle-left"></i> Miscellaneous </a>
+	<a class="left" href="/software/EZ_Fingerprint/ezf_privacy"><i class="fa fa-arrow-circle-left"></i> Privacy </a>
 	<a class="right" href="/software/EZ_Fingerprint/ezf_faqs"> FAQs <i class="fa fa-arrow-circle-right"></i></a>
 </div>
