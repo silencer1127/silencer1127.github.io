@@ -9,16 +9,20 @@ date: 2018-04-12
 
 # Installation
 
-## System Requirement
-* CPU: x86_64
-* Memory: 1 GB (4 GB + recommended)
-* OS: Windows 7+ (64-bit); Mac OS X 10.8+; Linux (64-bit)
-* [MATLAB](https://www.mathworks.com/products/matlab.html){:target="matlab"} (R2016b or later) with the following toolboxs
-	* Image Processing Toolbox
-	* Statistics and Machine Learning Toolbox
-	* Parallel Computing Toolbox (optional)
-* [Brainstorm](http://neuroimage.usc.edu/brainstorm/){:target="brainstorm"}
-* Internet connection
+## System Requirements
+
+&nbsp; | Minimum | Recommended
+:---:|:---:|:---:
+CPU | x86_64 | x86_64
+Memory | 4 GB | 8 GB +
+OS<sup>*</sup> | Windows 7 (64-bit)<br> Mac OS X 10.8<br> Linux (64-bit) | Windows 7 (64-bit)<br> Mac OS X 10.12<br> Linux Ubuntu/Mint (64-bit)
+[MATLAB](https://www.mathworks.com/products/matlab.html){:target="matlab"}<sup>&dagger;</sup> | R2012b/R2016b | R2017a
+MATLAB toolbox | Image Processing Toolbox<br> Statistics and Machine Learning Toolbox | Image Processing Toolbox<br> Statistics and Machine Learning Toolbox <br> Parallel Computing Toolbox
+[Brainstorm](http://neuroimage.usc.edu/brainstorm/){:target="brainstorm"} | Yes | Yes
+Internet | Yes | Yes
+
+<span style="font-size:0.8em;">\* Theoratically the operating system should not matter as long as MATLAB with required toolboxes and Brainstorm are successfully installed. However, the EZF is fully tested only on systems listed under recommendation.</span>  
+<span style="font-size:0.8em;">&dagger; R2012b is the absolute minimum version to install EZF as MATLAB "app" does not exist before that. R2016b is the minimum version for EZF to be fully functional. Some advanced functions, such the bayesopt in the hyperparameter tuning section, do not exist before R2016b. We strongly recommmend using version R2017a, on which the EZF was fully tested. Due to the imcompatibilty of MATLAB functions across releases, it's not guaranteed to be bug-free using other versions. However, if you do have to use certain version of MATLAB and encounter some issues, feel free to contact us.</span>
 
 ## Download
 
