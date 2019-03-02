@@ -24,7 +24,7 @@ date: 2019-01-17
 ### 2019
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
-Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems,  
+[Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems](https://doi.org/10.1515/jiip-2018-0006){:.pub_j_web}{:#pub_jiip_2019_alcohol_web}{:target="pub_jiip_2019_alcohol_web"},  
 Journal of Inverse and Ill-posed Problems, 2019. (In press)
 	<details>
 		<summary>Abstract</summary>
@@ -161,15 +161,17 @@ IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Or
 
 {% comment %}
 
+{% endcomment %}
+
+### 2019
+
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 A matched filter decomposition of task fmri for extraction of dynamical components,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019. (Accepted)
 
-* S. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
+* S. Y. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
 Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019.
-
-{% endcomment %}
+25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019. (Accepted)
 
 ### 2018
 
