@@ -4,7 +4,7 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2019-01-17
+date: 2019-03-23
 ---
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:.pub_ext}{:#pub_google_scholar}{:target="google_scholar"}
@@ -24,8 +24,9 @@ date: 2019-01-17
 ### 2019
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
-[Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems](https://doi.org/10.1515/jiip-2018-0006){:.pub_j_web}{:#pub_jiip_2019_alcohol_web}{:target="pub_jiip_2019_alcohol_web"},  
-Journal of Inverse and Ill-posed Problems, 2019. (In press)
+"Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems",  
+*Journal of Inverse and Ill-posed Problems*, 2019. (In press)  
+[https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:.pub_j_web}{:#pub_jiip_2019_alcohol_web}{:target="pub_jiip_2019_alcohol_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -35,9 +36,10 @@ Journal of Inverse and Ill-posed Problems, 2019. (In press)
 
 ### 2018
 
-* **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
-[Scalable and robust tensor decomposition for brain network identification in spontaneous stereotactic EEG data](https://doi.org/10.1109/TBME.2018.2875467){:.pub_j_web}{:#pub_tbme_2018_srscpd_web}{:target="pub_tbme_2018_srscpd_web"},  
-IEEE Transactions on Biomedical Engineering, 2018. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/tbme_2018_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
+* **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy,  
+"Scalable and robust tensor decomposition for brain network identification in spontaneous stereotactic EEG data",  
+*IEEE Transactions on Biomedical Engineering*, 2018. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/tbme_2018_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)  
+[https://doi.org/10.1109/TBME.2018.2875467](https://doi.org/10.1109/TBME.2018.2875467){:.pub_j_web}{:#pub_tbme_2018_srscpd_web}{:target="pub_tbme_2018_srscpd_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -45,9 +47,10 @@ IEEE Transactions on Biomedical Engineering, 2018. (In press) &nbsp; [<i class="
 			</p>
 	</details>
 
-* E. Cvetkovska, W. A. Martins, J. Gonźalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
-[Heterotopia or overlaying cortex: what about in-between?](https://doi.org/10.1016/j.ebcr.2018.09.007){:.pub_j_web}{:#pub_ebcr_2018_heterotopia_web}{:target="pub_ebcr_2018_heterotopia_web"},  
-Epilepsy & Behavior Case Reports, vol. 11, pp. 4-9, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ebcr_2018_pnh.pdf){:.pub_j_pdf}{:#pub_ebcr_2018_pnh_pdf}{:target="pub_ebcr_2018_pnh_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib) 
+* E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
+"Heterotopia or overlaying cortex: what about in-between?",  
+*Epilepsy & Behavior Case Reports*, vol. 11, pp. 4-9, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ebcr_2018_pnh.pdf){:.pub_j_pdf}{:#pub_ebcr_2018_pnh_pdf}{:target="pub_ebcr_2018_pnh_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib)  
+[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:.pub_j_web}{:#pub_ebcr_2018_heterotopia_web}{:target="pub_ebcr_2018_heterotopia_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -57,8 +60,9 @@ Epilepsy & Behavior Case Reports, vol. 11, pp. 4-9, 2018. &nbsp; [<i class="fa f
 	</details>
 
 * A. A. Joshi, M. Chong, **J. Li**, S. Y. Choi, R. M. Leahy,  
-[Are you thinking what I'm thinking? Synchronization of resting fMRI time-series across subjects](https://doi.org/10.1016/j.neuroimage.2018.01.058){:.pub_j_web}{:#pub_neuroimage_2017_brainsync_web}{:target="pub_neuroimage_2017_brainsync_web"},  
-Neuroimage, vol. 172, pp. 740-752, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/neuroimage_2018_brainsync.pdf){:.pub_j_pdf}{:#pub_neuroimage_2017_brainsync_pdf}{:target="pub_neuroimage_2017_brainsync_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/neuroimage_2018_brainsync.bib)
+"Are you thinking what I'm thinking? Synchronization of resting fMRI time-series across subjects",  
+*Neuroimage*, vol. 172, pp. 740-752, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/neuroimage_2018_brainsync.pdf){:.pub_j_pdf}{:#pub_neuroimage_2017_brainsync_pdf}{:target="pub_neuroimage_2017_brainsync_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/neuroimage_2018_brainsync.bib)  
+[https://doi.org/10.1016/j.neuroimage.2018.01.058](https://doi.org/10.1016/j.neuroimage.2018.01.058){:.pub_j_web}{:#pub_neuroimage_2017_brainsync_web}{:target="pub_neuroimage_2017_brainsync_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -66,9 +70,10 @@ Neuroimage, vol. 172, pp. 740-752, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i
 			</p>
 	</details>
 
-* O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, Z. Wang, J. Bulacio, J. Gonźalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel,  
-[A fingerprint of the epileptogenic zone in human epilepsies](https://doi.org/10.1093/brain/awx306){:.pub_j_web}{:#pub_brain_2017_fingerprint_web}{:target="pub_brain_2017_fingerprint_web"},  
-Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/brain_2017_fingerprint.pdf){:.pub_j_pdf}{:#pub_brain_2017_fingerprint_pdf}{:target="pub_brain_2017_fingerprint_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/brain_2017_fingerprint.bib) &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main)
+* O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, Z. Wang, J. Bulacio, J. Gonzalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel,  
+"A fingerprint of the epileptogenic zone in human epilepsies",  
+*Brain*, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/brain_2017_fingerprint.pdf){:.pub_j_pdf}{:#pub_brain_2017_fingerprint_pdf}{:target="pub_brain_2017_fingerprint_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/brain_2017_fingerprint.bib) &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main)  
+[https://doi.org/10.1093/brain/awx306](https://doi.org/10.1093/brain/awx306){:.pub_j_web}{:#pub_brain_2017_fingerprint_web}{:target="pub_brain_2017_fingerprint_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -80,31 +85,49 @@ Brain, vol. 141, no. 1, pp. 117-131, 2018. &nbsp; [<i class="fa fa-file-pdf-o"><
 
 {% comment %}
 
-* **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
-Robust brain network identification from multi-subject asynchronous fMRI data,  
-26th International Conference on Information Processing in Medical Imaging (IPMI), Hong Kong, 2019.
-
 {% endcomment %}
 
 ### 2019
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
-Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition,  
-Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
+"Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition",  
+*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+[https://doi.org/10.1117/12.2512684](https://doi.org/10.1117/12.2512684){:.pub_c_web}{:#pub_spie_2019_srscpd_fmri}{:target="pub_spie_2019_srscpd_fmri"}
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			The goal of this work is to robustly identify common brain networks and their corresponding temporal dynamics across subjects in asynchronous task functional MRI (tfMRI) signals. We approached this problem using a robust and scalable tensor decomposition method combined with the BrainSync algorithm. We first used BrainSync algorithm to temporally align asynchronous tfMRI data, allowing us to study common brain networks across subjects. We mapped the synchronized tfMRI data into a 3D tensor (vertices × time × session) and performed a greedy canonical polyadic (CP) decomposition, reducing the rank to 20 in order to improve the signal-to-noise ratio (SNR). We incorporated the Nesterovaccelerated adaptive moment estimation into our previously developed scalable and robust sequential CP decomposition (SRSCPD) framework and applied this improved version of SRSCPD to the rank-reduced tensor to identify dynamic brain networks. We successfully identified 9 brain networks with their corresponding temporal dynamics from 40 subjects using Human Connectome Project tfMRI data without using any prior information with regard to the task designs. Three of these show the subjects’ responses to cues at the beginning of each task block (fronto-parietal attentional control network, visual network and executive control network); one corresponds to the default mode network that exhibits deactivation during the tasks; four show motors networks (left hand, right hand, tongue, and both feet) where the temporal dynamics are strongly correlated to the task designs, and the remaining component reflects physiological noise (respiration).
+			</p>
+	</details>
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
-Predicting cognitive scores from resting fMRI data and geometric features,  
-Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
+"Predicting cognitive scores from resting fMRI data and geometric features",  
+*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+[https://doi.org/10.1117/12.2512063](https://doi.org/10.1117/12.2512063){:.pub_c_web}{:#pub_spie_2019_pred_cog_score}{:target="pub_spie_2019_pred_cog_score"}
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			Anatomical T1 weighted Magnetic Resonance Imaging (MRI) and functional magnetic resonance imaging collected during resting (rfMRI) are promising markers that offer insight into structure and function of the human brain. The objective of this work is to explore the use of a deep learning neural network to predict cognitive performance scores and ADHD indices in a group of ADHD and control subjects. First, we processed the rfMRI and MRI data of subjects using the BrainSuite fMRI Processing (BFP) pipeline to perform anatomical and functional preprocessing. This produces for each subject fMRI and geometric (anatomical) features represented in a standardized grayordinate system. The geometric and functional cortical data corresponding to the two hemispheres were then transformed to 128x128 multichannel images and input to a convolutional component of the neural network. Subcortical data were presented in a standard vector form and input to a standard input layer of the network. The neural network was implemented in Python using the Keras library with a TensorFlow backend. Training was performed on 168 images with 90 images used for testing. We observed significant correlation between predicted and actual values of the indices tested: Performance IQ: 0.47; Verbal IQ: 0.41, ADHD: 0.57. Comparing these values to those from network trained on functional-only and structural-only data, we saw that rfMRI is more informative than MRI, but the two modalities are highly complementary in terms of predicting these indices.
+			</p>
+	</details>
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
-Group-wise alignment of resting fMRI in space and time,  
-Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
+"Group-wise alignment of resting fMRI in space and time",  
+*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+[https://doi.org/10.1117/12.2512564](https://doi.org/10.1117/12.2512564){:.pub_c_web}{:#pub_spie_2019_group_sync}{:target="pub_spie_2019_group_sync"}
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			Spontaneous brain activity is an important biomarker for various neurological and psychological conditions and can be measured using resting functional Magnetic Resonance Imaging (rfMRI). Since brain activity during resting is spontaneous, it is not possible to directly compare rfMRI time-courses across subjects. Moreover, the spatial configuration of functionally specialized brain regions can vary across subjects throughout the cortex limiting our ability to make precise spatial comparisons. We describe a new approach to jointly align and synchronize fMRI data in space and time, across a group of subjects. We build on previously described methods for inter-subject spatial “Hyper-Alignment” and temporal synchronization through the “BrainSync” transform. We first describe BrainSync Alignment (BSA), a group-based extension of the pair-wise BrainSync transform, that jointly synchronizes resting or task fMRI data across time for multiple subjects. We then explore the combination of BSA with Response Hyper-Alignment (RHA) and compare with Connectivity Hyper-Alignment (CHA), an alternative approach to spatial alignment based on resting fMRI. The result of applying RHA and BSA is both to produce improved functional spatial correspondence across a group of subjects, and to align their time-series so that, even for spontaneous resting data, we see highly correlated temporal dynamics at homologous locations across the group. These spatiotemporally aligned data can then be used as an atlas in future applications. We validate these transfer functions by applying them to z-score maps of an independent dataset and calculating inter-subject correlation. The results show that RHA can be calculated from rfMRI and have comparable output with CHA by leveraging BSA. Moreover, through calculation and application to task fMRI-based spatial transformations on an independent dataset, we show that the combination of RHA and BSA produces improved spatial functional alignment significantly relative to either RHA or CHA alone.
+			</p>
+	</details>
 
 ### 2018
 
 * A. A. Joshi, **J. Li**, M. Chong, H. Akrami, R. M. Leahy,  
-[rfDemons: resting fMRI-based cortical surface registration using BrainSync transform](https://doi.org/10.1007/978-3-030-00931-1_23){:.pub_c_web}{:#pub_miccai_2018_rfdemons_web}{:target="pub_rmiccai_2018_rfdemons_web"},  
-21st International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Granada, Sept. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/miccai_2018_rfdemons.bib)
+"rfDemons: resting fMRI-based cortical surface registration using BrainSync transform",  
+*21st International Conference on Medical Image Computing and Computer-Assisted Intervention*, Granada, Sept. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/miccai_2018_rfdemons.bib)  
+[https://doi.org/10.1007/978-3-030-00931-1_23](https://doi.org/10.1007/978-3-030-00931-1_23){:.pub_c_web}{:#pub_miccai_2018_rfdemons_web}{:target="pub_rmiccai_2018_rfdemons_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -113,8 +136,9 @@ Proc. SPIE Medical Imaging: Image Processing, San Diego, Feb. 2019. (In press)
 	</details>
 
 * **J. Li**, S. Y. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
-[Global PDF-based temporal non-local means filtering reveals individual differences of brain connectivity](https://doi.org/10.1109/ISBI.2018.8363513){:.pub_c_web}{:#pub_isbi_2018_gpdf_web}{:target="pub_isbi_2018_gpdf_web"},  
-IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington, D.C., Apr. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2018_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
+"Global PDF-based temporal non-local means filtering reveals individual differences of brain connectivity",  
+*IEEE 15th International Symposium on Biomedical Imaging*, Washington, D.C., Apr. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2018_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)  
+[https://doi.org/10.1109/ISBI.2018.8363513](https://doi.org/10.1109/ISBI.2018.8363513){:.pub_c_web}{:#pub_isbi_2018_gpdf_web}{:target="pub_isbi_2018_gpdf_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -125,8 +149,9 @@ IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington, D.C.
 ### 2017
 
 * **J. Li**, J. C. Mosher, D. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
-[Robust tensor decomposition of resting brain networks in stereotactic EEG](https://doi.org/10.1109/ACSSC.2017.8335616){:.pub_c_web}{:#pub_asilomar_2017_srscpd_web}{:target="pub_asilomar_2017_srscpd_web"},  
-IEEE 51st Asilomar Conference on Signal, System and Computers, Pacific Grove, Oct. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)
+"Robust tensor decomposition of resting brain networks in stereotactic EEG",  
+*IEEE 51st Asilomar Conference on Signal, System and Computers, Pacific Grove*, Oct. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)  
+[https://doi.org/10.1109/ACSSC.2017.8335616](https://doi.org/10.1109/ACSSC.2017.8335616){:.pub_c_web}{:#pub_asilomar_2017_srscpd_web}{:target="pub_asilomar_2017_srscpd_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -136,8 +161,9 @@ IEEE 51st Asilomar Conference on Signal, System and Computers, Pacific Grove, Oc
 
 
 * **J. Li**, R. M. Leahy,  
-[Parameter selection for optimized non-local means filtering of task fMRI](https://doi.org/10.1109/ISBI.2017.7950564){:.pub_c_web}{:#pub_isbi_2017_tnlm_web}{:target="pub_isbi_2017_tnlm_web"},  
-IEEE 14th International Symposium on Biomedical Imaging (ISBI), pp. 476-480, Melbourne, Apr. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2017_tnlm.bib)
+"Parameter selection for optimized non-local means filtering of task fMRI",  
+*IEEE 14th International Symposium on Biomedical Imaging*, pp. 476-480, Melbourne, Apr. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2017_tnlm.bib)  
+[https://doi.org/10.1109/ISBI.2017.7950564](https://doi.org/10.1109/ISBI.2017.7950564){:.pub_c_web}{:#pub_isbi_2017_tnlm_web}{:target="pub_isbi_2017_tnlm_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -148,8 +174,9 @@ IEEE 14th International Symposium on Biomedical Imaging (ISBI), pp. 476-480, Mel
 ### 2012
 
 * A. Kuruvilla, **J. Li**, P. H. Yeomans, P. Quelhas, N. Shaikh, A. Hoberman, and J. Kovačević,  
-[Otitis media vocabulary and grammar](https://doi.org/10.1109/ICIP.2012.6467492){:.pub_c_web}{:#pub_icip_2012_otitis_web}{:target="pub_icip_2012_otitis_web"},  
-IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Orlando, Oct. 2012. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/icip_2012_otitis.bib)
+"Otitis media vocabulary and grammar",  
+*IEEE 19th International Conference on Image Processing*, pp. 2845-2848, Orlando, Oct. 2012. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/icip_2012_otitis.bib)  
+[https://doi.org/10.1109/ICIP.2012.6467492](https://doi.org/10.1109/ICIP.2012.6467492){:.pub_c_web}{:#pub_icip_2012_otitis_web}{:target="pub_icip_2012_otitis_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -166,46 +193,40 @@ IEEE 19th International Conference on Image Processing (ICIP), pp. 2845-2848, Or
 ### 2019
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
-A matched filter decomposition of task fmri for extraction of dynamical components,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019. (Accepted)
+"A matched filter decomposition of task fmri for extraction of dynamical components",  
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, 2019. (Accepted)
 
 * S. Y. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
-Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states,  
-25th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Rome, 2019. (Accepted)
+"Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states",  
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, 2019. (Accepted)
 
 ### 2018
 
 * O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, J. Bulacio, J. Gonźalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
-[In search of biomarkers for the epileptogenic zone: A machine learning approach](https://www.aesnet.org/meetings_events/annual_meeting_abstracts/view/502570){:.pub_c_web}{:#pub_aes_2019_ezfmri_web}{:target="pub_aes_2019_ezfmri_web"},  
-72nd Annual Meeting of the American Epilepsy Society, New Orleans, Dec. 2018.
+"In search of biomarkers for the epileptogenic zone: A machine learning approach",  
+*72nd Annual Meeting of the American Epilepsy Society*, New Orleans, Dec. 2018.
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
-[Identifying brain networks using tensor decomposition of multiple subject asynchronous task fMRI](https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=2867){:.pub_c_web}{:#pub_ohbm_2018_srscpd_fmri_web}{:target="pub_ohbm_2018_srscpd_fmri_web"},  
-24th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_srscpd_fmri.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_srscpd_fmri_pdf}{:target="pub_ohbm_2018_srscpd_fmri_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_srscpd_fmri.bib)
+"Identifying brain networks using tensor decomposition of multiple subject asynchronous task fMRI,  
+*24th Annual Meeting of the Organization for Human Brain Mapping*, Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_srscpd_fmri.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_srscpd_fmri_pdf}{:target="pub_ohbm_2018_srscpd_fmri_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_srscpd_fmri.bib)
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
-[Average template for comparison of resting fMRI based on group synchronization of their time series](https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1807){:.pub_c_web}{:#pub_ohbm_2018_fmri_atlas_web}{:target="pub_ohbm_2018_fmri_atlas_web"},  
-24th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_fmri_atlas.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_fmri_atlas_pdf}{:target="pub_ohbm_2018_fmri_atlas_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_fmri_atlas.bib)
+"Average template for comparison of resting fMRI based on group synchronization of their time series",  
+*24th Annual Meeting of the Organization for Human Brain Mapping*, Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_fmri_atlas.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_fmri_atlas_pdf}{:target="pub_ohbm_2018_fmri_atlas_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_fmri_atlas.bib)
 
 * A. A. Joshi, D. McCoy, M. Chong, **J. Li**, S. Y. Choi, D. Shattuck, R. M. Leahy,  
-[BFP: BrainSuite fMRI pipeline](https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1422){:.pub_c_web}{:#pub_ohbm_2018_bfp_web}{:target="pub_ohbm_2018_bfp_web"},
-24th Annual Meeting of the Organization for Human Brain Mapping (OHBM), Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_bfp.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_bfp_pdf}{:target="pub_ohbm_2018_bfp_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_bfp.bib)
+"BFP: BrainSuite fMRI pipeline",
+*24th Annual Meeting of the Organization for Human Brain Mapping*, Singapore, Jun. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2018_bfp.pdf){:.pub_c_pdf}{:#pub_ohbm_2018_bfp_pdf}{:target="pub_ohbm_2018_bfp_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2018_bfp.bib)
 
 ### 2017
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
-[On the modeling and deconvolution of blood or breath alcohol concentration (BrAC/BAC) from biosensor-measured transdermal alcohol concentration (TAC)](https://doi.org/10.1111/acer.13391){:.pub_c_web}{:#pub_rsa_2017_alcohol_web}{:target="pub_rsa_2017_alcohol_web"},  
-40th Annual Meeting of the Research Society on Alcoholism (RSA), Denver, Jun. 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/rsa_2017_alcohol.pdf){:.pub_c_pdf}{:#pub_rsa_2017_alcohol_pdf}{:target="pub_rsa_2017_alcohol_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/rsa_2017_alcohol.bib)
-	<details>
-		<summary>Abstract</summary>
-			<p style="margin-left: 20px; text-align: justify; font-size:16px">
-			New technology has produced biosensors that measure transdermal alcohol concentration (TAC) in naturalistic settings. However, due to several physiological and environmental factors, no direct conversion from TAC to BAC/BrAC exists. The skin's transport and filtering of alcohol is physiologically complex and is affected by numerous factors that vary across individuals (e.g., skin layer thickness, porosity, tortuosity) and drinking episodes within individuals (e.g., skin surface, ambient temperature, hydration, vasodilation). TAC readings also depend on the particular device used to collect the data. In earlier work, we developed a mathematical framework and protocol for calibrating BrAC and TAC data for a single drinking episode that captured the dynamics of the forward process and then inverted the resulting fit model by deconvolving estimated BrAC from TAC for subsequent drinking episodes. In this study, we compare three methods for implementing this approach. Method 1 is frequency domain‐based wherein the forward convolution filter is taken to be the low pass filtered inverse Fourier transform of the quotient of the Fourier transforms of the calibration TAC and BrAC. In Method 2, the convolution filter is determined as the impulse response function of an auto regressive/moving average (ARMA) model fit to the calibration episode. In Method 3, the filter is determined via finite dimensional approximation of the linear semigroup‐based mild solution of a distributed parameter model with unbounded input and output fit to the calibration data. In tests using contemporaneous TAC and BrAC field data, we examined model fit indices and summary BrAC scores and curves. Results indicated Method 2 yielded the most accurate estimate of peak BrAC and Method 3 yielded the best estimate of time of peak BrAC. Method 1 had the smallest variance across episodes, in particular for estimating ascending and descending slopes, but had slightly larger bias. Method 1 is computationally efficient but theoretically is estimating infinitely many parameters. Method 3 estimates only two parameters but required more computational time to fit the data. Method 2 was between Method 1 and Method 3 in terms of computational efficiency and degrees of freedom. Future research will compare these methods when incorporated into learning algorithms. This research was supported by NIH grant R01AA17711.
-			</p>
-	</details>
+"On the modeling and deconvolution of blood or breath alcohol concentration (BrAC/BAC) from biosensor-measured transdermal alcohol concentration (TAC)",  
+*40th Annual Meeting of the Research Society on Alcoholism*, Denver, Jun. 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/rsa_2017_alcohol.pdf){:.pub_c_pdf}{:#pub_rsa_2017_alcohol_pdf}{:target="pub_rsa_2017_alcohol_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/rsa_2017_alcohol.bib)
 
 * **J. Li**, S. Y. Choi, R. M. Leahy,  
-Global PDF-based non-local means filtering of resting fMRI data,  
-23rd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Vancouver, Jun. 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
+"Global PDF-based non-local means filtering of resting fMRI data",  
+*23rd Annual Meeting of the Organization for Human Brain Mapping*, Vancouver, Jun. 2017. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ohbm_2017_gpdf.pdf){:.pub_c_pdf}{:#pub_ohbm_2017_gpdf_pdf}{:target="pub_ohbm_2017_gpdf_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ohbm_2017_gpdf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main)
 
 
 ## Thesis/Dissertation
