@@ -25,12 +25,24 @@ date: 2019-03-23
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
 "Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems",  
-*Journal of Inverse and Ill-posed Problems*, 2019. (In press)  
+*Journal of Inverse and Ill-posed Problems*, 2019. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/jiip_2019_alcohol.bib)  
 [https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:.pub_j_web}{:#pub_jiip_2019_alcohol_web}{:target="pub_jiip_2019_alcohol_web"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
 			Three methods for the estimation of blood or breath alcohol concentration (BAC/BrAC) from biosensor measured transdermal alcohol concentration (TAC) are evaluated and compared. Specifically, we consider a system identification/quasi-blind deconvolution scheme based on a distributed parameter model with unbounded input and output for ethanol transport in the skin and compare it to two more conventional system identification and filtering/deconvolution techniques for ill-posed inverse problems, one based on frequency domain methods, and the other on a time series approach using an ARMA input/output model. Our basis for comparison are five statistical measures of interest to alcohol researchers and clinicians: peak BAC/BrAC, time of peak BAC/BrAC, the ascending and descending slopes of the BAC/BrAC curve, and the area underneath the BAC/BrAC curve.
+			</p>
+	</details>
+
+* E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
+"Heterotopia or overlaying cortex: what about in-between?",  
+*Epilepsy & Behavior Case Reports*, vol. 11, pp. 4-9, 2019. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ebcr_2018_pnh.pdf){:.pub_j_pdf}{:#pub_ebcr_2018_pnh_pdf}{:target="pub_ebcr_2018_pnh_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib)  
+[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:.pub_j_web}{:#pub_ebcr_2018_heterotopia_web}{:target="pub_ebcr_2018_heterotopia_web"}
+	<details>
+		<summary>Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			We describe a patient with unilateral periventricular nodular heterotopia (PNH) and drug-resistant epilepsy, whose SEEG revealed that seizures were arising from the PNH, with the almost simultaneous involvement of heterotopic neurons (“micronodules”) scattered within the white matter, and subsequently the overlying cortex. Laser ablation of heterotopic nodules and the adjacent white matter rendered the patient seizure free.<br>
+			This case elucidates that “micronodules” scattered in white matter between heterotopic nodules and overlying cortex might be another contributor in complex epileptogenicity of heterotopia. Detecting patient-specific targets in the epileptic network of heterotopia creates the possibility to disrupt the pathological circuit by minimally invasive procedures.
 			</p>
 	</details>
 
@@ -44,18 +56,6 @@ date: 2019-03-23
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
 			Objective: Identification of networks from resting brain signals is an important step in understanding the dynamics of spontaneous brain activity. We approach this problem using a tensor-based model. Methods: We develop a rank-recursive Scalable and Robust Sequential Canonical Polyadic Decomposition (SRSCPD) framework to decompose a tensor into several rank-1 components. Robustness and scalability are achieved using a warm start for each rank based on the results from the previous rank. Results: In simulations we show that SRSCPD consistently outperforms the multi-start alternating least square (ALS) algorithm over a range of ranks and signal-to-noise ratios (SNRs), with lower computation cost. When applying SRSCPD to resting in-vivo stereotactic EEG (SEEG) data from two subjects with epilepsy, we found components corresponding to default mode and motor networks in both subjects. These components were also highly consistent within subject between two sessions recorded several hours apart. Similar components were not obtained using the conventional ALS algorithm. Conclusion: Consistent brain networks and their dynamic behaviors were identified from resting SEEG data using SRSCPD. Significance: SRSCPD is scalable to large datasets and therefore a promising tool for identification of brain networks in long recordings from single subjects.
-			</p>
-	</details>
-
-* E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
-"Heterotopia or overlaying cortex: what about in-between?",  
-*Epilepsy & Behavior Case Reports*, vol. 11, pp. 4-9, 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/ebcr_2018_pnh.pdf){:.pub_j_pdf}{:#pub_ebcr_2018_pnh_pdf}{:target="pub_ebcr_2018_pnh_pdf"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/ebcr_2018_heterotopia.bib)  
-[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:.pub_j_web}{:#pub_ebcr_2018_heterotopia_web}{:target="pub_ebcr_2018_heterotopia_web"}
-	<details>
-		<summary>Abstract</summary>
-			<p style="margin-left: 20px; text-align: justify; font-size:16px">
-			We describe a patient with unilateral periventricular nodular heterotopia (PNH) and drug-resistant epilepsy, whose SEEG revealed that seizures were arising from the PNH, with the almost simultaneous involvement of heterotopic neurons (“micronodules”) scattered within the white matter, and subsequently the overlying cortex. Laser ablation of heterotopic nodules and the adjacent white matter rendered the patient seizure free.<br>
-			This case elucidates that “micronodules” scattered in white matter between heterotopic nodules and overlying cortex might be another contributor in complex epileptogenicity of heterotopia. Detecting patient-specific targets in the epileptic network of heterotopia creates the possibility to disrupt the pathological circuit by minimally invasive procedures.
 			</p>
 	</details>
 
@@ -91,7 +91,7 @@ date: 2019-03-23
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition",  
-*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, Mar. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/spie_2019_nsrcpd_fmri.bib)  
 [https://doi.org/10.1117/12.2512684](https://doi.org/10.1117/12.2512684){:.pub_c_web}{:#pub_spie_2019_srscpd_fmri}{:target="pub_spie_2019_srscpd_fmri"}
 	<details>
 		<summary>Abstract</summary>
@@ -102,7 +102,7 @@ date: 2019-03-23
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 "Predicting cognitive scores from resting fMRI data and geometric features",  
-*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/spie_2019_pred_cog_score.bib)  
 [https://doi.org/10.1117/12.2512063](https://doi.org/10.1117/12.2512063){:.pub_c_web}{:#pub_spie_2019_pred_cog_score}{:target="pub_spie_2019_pred_cog_score"}
 	<details>
 		<summary>Abstract</summary>
@@ -113,7 +113,7 @@ date: 2019-03-23
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
 "Group-wise alignment of resting fMRI in space and time",  
-*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019.  
+*Proc. SPIE Medical Imaging: Image Processing*, San Diego, Mar. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/spie_2019_group_brainsync.bib)  
 [https://doi.org/10.1117/12.2512564](https://doi.org/10.1117/12.2512564){:.pub_c_web}{:#pub_spie_2019_group_sync}{:target="pub_spie_2019_group_sync"}
 	<details>
 		<summary>Abstract</summary>
@@ -148,7 +148,7 @@ date: 2019-03-23
 
 ### 2017
 
-* **J. Li**, J. C. Mosher, D. Nair, J. Gonźalez-Martinez, R. M. Leahy,  
+* **J. Li**, J. C. Mosher, D. Nair, J. Gonzalez-Martinez, R. M. Leahy,  
 "Robust tensor decomposition of resting brain networks in stereotactic EEG",  
 *IEEE 51st Asilomar Conference on Signal, System and Computers, Pacific Grove*, Oct. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/asilomar_2017_srscpd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main)  
 [https://doi.org/10.1109/ACSSC.2017.8335616](https://doi.org/10.1109/ACSSC.2017.8335616){:.pub_c_web}{:#pub_asilomar_2017_srscpd_web}{:target="pub_asilomar_2017_srscpd_web"}
@@ -204,7 +204,7 @@ date: 2019-03-23
 
 * O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, J. Bulacio, J. Gonźalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
 "In search of biomarkers for the epileptogenic zone: A machine learning approach",  
-*72nd Annual Meeting of the American Epilepsy Society*, New Orleans, Dec. 2018.
+*72nd Annual Meeting of the American Epilepsy Society*, New Orleans, Dec. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/aes_2018_ezf.bib)
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Identifying brain networks using tensor decomposition of multiple subject asynchronous task fMRI,  
@@ -232,8 +232,9 @@ date: 2019-03-23
 ## Thesis/Dissertation
 
 * **J. Li**,  
-[Distributed parameter model based system identification and input determination in the estimation of blood alcohol concentration from transdermal alcohol biosensor data](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/){:.pub_t_web}{:#pub_stats_thesis_web}{:target="stats_thesis"},  
-M.S. Thesis, University of Southern California, Jul. 2017.
+Distributed parameter model based system identification and input determination in the estimation of blood alcohol concentration from transdermal alcohol biosensor data,  
+M.S. Thesis, University of Southern California, Jul. 2017. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_math_thesis.bib)  
+[http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/){:.pub_t_web}{:#pub_stats_thesis_web}{:target="stats_thesis"}
 	<details>
 		<summary>Abstract</summary>
 			<p style="margin-left: 20px; text-align: justify; font-size:16px">
