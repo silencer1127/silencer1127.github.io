@@ -3,7 +3,7 @@ title: "GPDF Filter"
 category: "main"
 permalink: /software/GPDF/gpdf_main
 layout: single
-date: 2018-05-04
+date: 2019-04-25
 ---
 
 # **<center>Global PDF-based Non-local Means Filter</center>**
@@ -40,4 +40,4 @@ IN NO EVENT SHALL THE AUTHORS, THE CONTRIBUTORS, THE DISTRIBUTORS AND THE UNIVER
 
 ## Download
 
-Please follow this [link](http://imagicastle.com:27224/software/download.php?app=gpdf){:target="gpdf_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
+Please follow this [link](http://soft.imagicastle.com:27224/software/download.php?app=gpdf){:target="gpdf_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
