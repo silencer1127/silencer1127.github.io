@@ -7,6 +7,11 @@ author_profile: false
 date: 2018-04-12
 ---
 
+> 2019/04/30:
+>
+> We recently migrated our backend services to AWS for their reliability purpose. However, it triggers an incompatibility issue between the MATLAB http request functions and AWS. This should not prevent you from using the software, however, you may not able to check and install updates automatically. Therefore, we strongly encourage you to reinstall the EZF software to get the most recent version. Reinstallation is as simple as 1) uninstall the current version as instructed [here](/software/EZ_Fingerprint/tutorial/ezf_misc#uninstall); 2) re-download the installation file [here](/software/EZ_Fingerprint/ezf_download); and 3) reinstall the EZF as shown [here](/software/EZ_Fingerprint/ezf_install).
+
+
 # **<center>Epileptogenic Zone Fingerprint</center>**
 
 ## Introduction
@@ -41,7 +46,7 @@ Again, this software is for **research purpose only**. One should not make any c
 
 * We provide a complete online [Tutorial](/software/EZ_Fingerprint/ezf_tutorial) that will take you through all the steps one by one.
 
-* Feel free to [contact](/software/EZ_Fingerprint/tutorial/ezf_misc#about) us if you have any questions or send us any feedback.
+* Feel free to [contact](mailto:jli981@usc.edu) us if you have any questions or send us any feedback.
 
 ## How to Cite EZF
 
@@ -55,13 +60,6 @@ O. Grinenko, J. Li, J. C. Mosher, Z. Wang, J. Bulacio, J. Gonźalez-Martinez, D
 
 This work was supported in part by the National Institutes of Health under award R01NS089212 and R01EB009048. The content is solely
 the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
-
-## What's New
-
-* Remembered the path for choosing a file or directory
-* Added the function to export labels to csv in testing and prediction
-* Provided super high and super low range when displaying TF
-* Show label of resection if exists in all TF plots
 
 <div class="pagination">
 	<a class="right" href="/software/EZ_Fingerprint/ezf_download"> Download <i class="fa fa-arrow-circle-right"></i></a>
