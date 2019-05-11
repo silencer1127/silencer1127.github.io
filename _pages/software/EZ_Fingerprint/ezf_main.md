@@ -4,7 +4,7 @@ category: "ezf"
 permalink: /software/EZ_Fingerprint/ezf_main
 layout: single
 author_profile: false
-date: 2018-04-12
+date: 2019-05-11
 ---
 
 > 2019/04/30:
@@ -46,7 +46,7 @@ Again, this software is for **research purpose only**. One should not make any c
 
 * We provide a complete online [Tutorial](/software/EZ_Fingerprint/ezf_tutorial) that will take you through all the steps one by one.
 
-* Feel free to [contact](mailto:jli981@usc.edu) us if you have any questions or send us any feedback.
+* Feel free to [contact](mailto:fingerprint.ez@gmail.com) us if you have any questions or send us any feedback.
 
 ## How to Cite EZF
 

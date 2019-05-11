@@ -34,7 +34,7 @@ EZF will import selected data segments into its own workspace directly from the 
 		* Export this data segment into the database and name it **exactly** same as the name for the seizure segment except that the starting word "SZ" should be replaced with "BG", e.g. "BG1_my_own_name" in order to match the SZ name above.
 * "SZ" and "BG" segments must appear as a pair
 * You may collect data of multiple seizures for a subject and collect data for multiple subjects under the same protocol.
-* Double check your channel information and make sure the type for your desired channels is **SEEG**. It's ok to have other types of channels together with the SEEG channels, e.g. ECG, REF, DC, etc. Just leave them as they are and the EZF software will not pick them up.
+* Double check your channel information and make sure it exists under both "SZ" condition and "BG" condition and the type for your desired channels is **SEEG**. It's ok to have other types of channels together with the SEEG channels, e.g. ECG, REF, DC, etc. Just leave them as they are and the EZF software will not pick them up.
 
 The figure below shows an example of a typical Brainstorm protocol folder that follows the requirements above. In this example:
 * 11 subjects' data were collected.
