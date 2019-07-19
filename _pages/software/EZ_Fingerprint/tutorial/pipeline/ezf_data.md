@@ -4,7 +4,7 @@ category: "ezf_pl"
 permalink: /software/EZ_Fingerprint/tutorial/pipeline/ezf_data
 layout: single
 author_profile: false
-date: 2018-04-12
+date: 2019-07-18
 ---
 
 # Data
@@ -14,7 +14,7 @@ date: 2018-04-12
   <img src="/images/software/EZ_Fingerprint/data.png" style="max-width: 80%;">
 </p>
 
-You may not have any subject information yet as shown above. Don't worry. Let's **Import** some. Before importing any subjects' data into our workspace, make sure you prepared your data segments for each subject as instructed [here](/software/EZ_Fingerprint/tutorial/ezf_bst/) and setup the corresponding [Brainstorm protocol directory](/software/EZ_Fingerprint/tutorial/ezf_setup/) correctly.
+You may not have any subject information yet as shown above. Don't worry. Let's **Import** some. Before importing any subjects' data into our workspace, make sure you prepared your data segments for each subject as instructed [here](/software/EZ_Fingerprint/tutorial/ezf_bst) and setup the corresponding [Brainstorm protocol directory](/software/EZ_Fingerprint/tutorial/ezf_setup) correctly.
 
 ## Import
 
