@@ -37,3 +37,4 @@ Here is a list of technical blogs I wrote occasionally or I found (maybe was) us
 * [Cheat sheet of math fonts in latex](/blog/latex_math_fonts)
 * [USC Secure Wireless connection under Linux](/blog/usc_secure_wifi_linux)
 * [PHP debug with xdebug in Atom](/blog/php_xdebug_atom)
+* [MATLAB (2017 or earlier) libGL issue in Linux](/blog/matlab_17_before_libGL_issue)
