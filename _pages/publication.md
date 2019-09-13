@@ -4,7 +4,7 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2019-07-18
+date: 2019-09-13
 ---
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:target="google_scholar"}
@@ -25,7 +25,7 @@ date: 2019-07-18
 
 * S. Y. Choi, S. H. O'Neil, A. A. Joshi, **J. Li**, A. M. Bush, T. D. Coates, R. M. Leahy, J. C. Wood,  
 "Anemia predicts lower white matter volume and cognitive performance in sickle and non-sickle cell anemia syndrome",  
-*American Journal of Hematology*, 2019. (In press)  
+*American Journal of Hematology*, vol. 94, no. 10, pp. 1055-1065, 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ajh_anemia_choi.bib)  
 [https://doi.org/10.1002/ajh.25570](https://doi.org/10.1002/ajh.25570){:target="2019_ajh_anemia_choi"}
 	<details>
 		<summary style="font-size:16px">Abstract</summary>
@@ -36,7 +36,7 @@ date: 2019-07-18
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
 "Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems",  
-*Journal of Inverse and Ill-posed Problems*, 2019. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_jiip_alcohol.bib)  
+*Journal of Inverse and Ill-posed Problems*, 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_jiip_alcohol.bib)  
 [https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:target="2019_jiip_alcohol"}
 	<details>
 		<summary style="font-size:16px">Abstract</summary>
@@ -206,13 +206,21 @@ date: 2019-07-18
 
 ### 2019
 
+* **J. Li**, J. C. Mosher, J. Gonzalez-Martinez, D. Nair, R. M. Leahy,  
+"Fingerprint propagation and the epileptogenic zone localization using cortico-cortical evoked potentials",  
+*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, Dec. 2019. (Accepted)
+
+* A. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
+"Traumatic brain injury lesion detection using a variational autoencoder",  
+*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, Dec. 2019. (Accepted)
+
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A matched filter decomposition of task fmri for extraction of dynamical components",  
-*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, 2019.
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_match_filter_joshi.bib)
 
 * S. Y. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
 "Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states",  
-*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, 2019.
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_anemia_choi.bib)
 
 ### 2018
 
