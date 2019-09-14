@@ -216,17 +216,17 @@ date: 2019-09-13
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A matched filter decomposition of task fmri for extraction of dynamical components",  
-*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_match_filter_joshi.bib)
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/2019_ohbm_match_filter_joshi.pdf){:target="2019_ohbm_match_filter_joshi"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_match_filter_joshi.bib)
 
 * S. Y. Choi, A. A. Joshi, C. Vu, **J. Li**, S. O'Niel, J. C. Wood, R. M. Leahy,  
 "Alterations of brain connectivity in anemic subjects using fMRI under hypoxic and hyperoxic states",  
-*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_anemia_choi.bib)
+*25th Annual Meeting of the Organization for Human Brain Mapping*, Rome, Jun. 2019. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/2019_ohbm_anemia_choi.pdf){:target="2019_ohbm_anemia_choi"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2019_ohbm_anemia_choi.bib)
 
 ### 2018
 
 * O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, J. Bulacio, J. Gonzalez-Martinez, I. Najm, P. Chauvel, R. M. Leahy,  
 "In search of biomarkers for the epileptogenic zone: A machine learning approach",  
-*72nd Annual Meeting of the American Epilepsy Society*, New Orleans, Dec. 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2018_aes_ezf_2.bib)
+*72nd Annual Meeting of the American Epilepsy Society*, New Orleans, Dec. 2018. &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/2018_aes_ezf_2.pdf){:target="2018_aes_ezf_2"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/2018_aes_ezf_2.bib)
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Identifying brain networks using tensor decomposition of multiple subject asynchronous task fMRI,  
