@@ -4,7 +4,7 @@ category: "main"
 permalink: /pub/
 layout: single
 author_profile: true
-date: 2019-09-13
+date: 2019-10-19
 ---
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:target="google_scholar"}
@@ -16,12 +16,22 @@ date: 2019-09-13
 {% comment %}
 
 * GPDF, TMI
-* EZF 2, brain
 * Tensor fMRI, neuroimage
 
 {% endcomment %}
 
 ### 2019
+
+* **J. Li**, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel,  
+"Learning to define an electrical biomarker of the epileptogenic zone",  
+*Human Brain Mapping*, 2019. (In press)  
+[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="2019_hbm_ezf_2"}
+	<details>
+		<summary style="font-size:16px">Abstract</summary>
+			<p style="margin-left: 20px; text-align: justify; font-size:16px">
+			The role of fast activity as a potential biomarker in localization of the epileptogenic zone (EZ) remains controversial due to recently reported unsatisfactory performance. We recently identified a "fingerprint" of the EZ as a time‐frequency pattern that is defined by a combination of preictal spike(s), fast oscillatory activity, and concurrent suppression of lower frequencies. Here we examine the generalizability of the fingerprint in application to an independent series of patients (11 seizure‐free and 13 non‐seizure‐free after surgery) and show that the fingerprint can also be identified in seizures with lower frequency (such as beta) oscillatory activity. In the seizure‐free group, only 5 of 47 identified EZ contacts were outside the resection. In contrast, in the non‐seizure‐free group, 104 of 142 identified EZ contacts were outside the resection. We integrated the fingerprint prediction with the subject's MR images, thus providing individualized anatomical estimates of the EZ. We show that these fingerprint‐based estimates in seizure‐free patients are almost always inside the resection. On the other hand, for a large fraction of the nonseizure‐free patients the estimated EZ was not well localized and was partially or completely outside the resection, which may explain surgical failure in such cases. We also show that when mapping fast activity alone onto MR images, the EZ was often over‐estimated, indicating a reduced discriminative ability for fast activity relative to the full fingerprint for localization of the EZ.
+			</p>
+	</details>
 
 * S. Y. Choi, S. H. O'Neil, A. A. Joshi, **J. Li**, A. M. Bush, T. D. Coates, R. M. Leahy, J. C. Wood,  
 "Anemia predicts lower white matter volume and cognitive performance in sickle and non-sickle cell anemia syndrome",  
@@ -205,6 +215,10 @@ date: 2019-09-13
 {% endcomment %}
 
 ### 2019
+
+* S. Y. Choi, A. A. Joshi, S. H. O'Neil, X. Miao, **J. Li**, J. P. Haldar, T. Coates, R. M. Leahy, J. C. Wood,  
+"Exploring anemia's impact on brain microstructure, volume, functional connectivity, iron and cognitive performance",  
+*61th Annual Meeting of the American Society of Hematology*, Dec. 2019. (Accepted)
 
 * **J. Li**, J. C. Mosher, J. Gonzalez-Martinez, D. Nair, R. M. Leahy,  
 "Fingerprint propagation and the epileptogenic zone localization using cortico-cortical evoked potentials",  

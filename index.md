@@ -4,7 +4,7 @@ category: "main"
 permalink: /
 layout: single
 author_profile: false
-date: 2019-07-18
+date: 2019-10-19
 ---
 
 
@@ -30,7 +30,7 @@ CV: available upon request
 
 ## Short Bio
 
-Jian Li is a postdoctoral scholar under the supervision of Dr. [Richard M. Leahy](https://viterbi.usc.edu/directory/faculty/Leahy/Richard){:target="leahy"} in the [Biomedical Imaging Group](http://neuroimage.usc.edu/neuro){:target="biglab"}, [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehee.usc.edu){:target="ee_homepage"} at the [University of Southern California (USC)](www.usc.edu){:target="usc_homepage"}. He holds a Research Associate position in the [Signal and Image Processing Institute](https://minghsiehee.usc.edu/groups-and-institutes/sipi/){:target="sipi_homepage"}. Prior to joining USC, he worked as a Research Analyst in the [Robotics Institute](https://www.ri.cmu.edu){:target="ri_homepage"} at the [Carnegie Mellon University](http://www.cmu.edu){:target="cmu_homepage"}, where he obtained his M.S. degree in the [Departement of Electrical and Computer Engineering](https://www.ece.cmu.edu/){:target="ece_homepage"} in 2013. He received his B.E. degree in the [Department of Electronic Information Engineering](http://xxxb.bjut.edu.cn/index.html){:target="xxxb_homepage"} at the [Beijing University of Technology](http://english.bjut.edu.cn/){:target="bjut_homepage"} in 2011.
+Jian Li is a Postdoctoral Scholar under the supervision of Dr. [Richard M. Leahy](https://viterbi.usc.edu/directory/faculty/Leahy/Richard){:target="leahy"} in the [Biomedical Imaging Group](http://neuroimage.usc.edu/neuro){:target="biglab"}, [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehee.usc.edu){:target="ee_homepage"} at the [University of Southern California (USC)](www.usc.edu){:target="usc_homepage"}. He holds a Research Associate position in the [Signal and Image Processing Institute](https://minghsiehee.usc.edu/groups-and-institutes/sipi/){:target="sipi_homepage"}. He received the Ph.D degree in Electrical Engineering from USC in 2019. Prior to joining USC, he worked as a Research Analyst in the [Robotics Institute](https://www.ri.cmu.edu){:target="ri_homepage"} at the [Carnegie Mellon University](http://www.cmu.edu){:target="cmu_homepage"}, where he obtained the M.S. degree in the [Departement of Electrical and Computer Engineering](https://www.ece.cmu.edu/){:target="ece_homepage"} in 2013. He received his B.E. degree in the [Department of Electronic Information Engineering](http://xxxb.bjut.edu.cn/index.html){:target="xxxb_homepage"} at the [Beijing University of Technology](http://english.bjut.edu.cn/){:target="bjut_homepage"} in 2011.
 
 
 ## Research Summary
