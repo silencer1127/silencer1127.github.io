@@ -11,11 +11,11 @@ date: 2019-01-23
 
 ## Personal Information
 
-When you request for downloading the EZF software, we will ask for your **name**, **affiliation** and **e-mail address**. In addition, we record the **IP address** and the **browser** (e.g. Firefox, Chrome, IE, etc.) you use to visit our website. We use all the information described above to generate a unique download link for each request and that download link will be sent to the e-mail address you provided in the download page. However, the e-mail will only contain your name besides the download link.
+When you request for downloading the EZF software, we will ask for your **name**, **affiliation** and **e-mail address**. In addition, we record the **IP address** and the **browser** (e.g. Firefox, Chrome, IE, etc.) you used to visit our website. We use all the information described above to generate a unique download link for each request and that download link will be sent to the e-mail address you provided in the download page. However, the e-mail will only contain your name besides the download link.
 
 ## Anonymous System Information
 
-When the first time you start the EZF software, we anonymously collect and only collect the following information about your computer system: **CPU**, **memory**, **operating system**, **MATLAB version**, **current EZF version**. These information are collected for statistic purpose and will help us better understand the hardware requirements and software compatibility. Examples of the collected information are shown below:
+When the first time you start the EZF software, we anonymously collect and **only** collect the following information about your computer system: **CPU**, **memory**, **operating system**, **MATLAB version**, **current EZF version**. These information are collected for statistic purpose and will help us better understand the hardware requirements and software compatibility. Examples of the collected information are shown below:
 
 CPU | Memory | OS | MATLAB | EZF
 :---:|:---:|:---:|:---:|:---:

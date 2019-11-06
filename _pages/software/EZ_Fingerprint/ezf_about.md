@@ -29,7 +29,7 @@ Cleveland Clinic, Cleveland, OH
 
 [Patrick Chauvel](https://my.clevelandclinic.org/staff/18110-patrick-chauvel){:target="chauvel"}, M.D.  
 [Olesya Grinenko](https://scholar.google.com/citations?user=CgeALY0AAAAJ&hl=en){:target="grinenko"}, M.D. Ph.D.  
-[Jorge A. Gonźalez-Martinez](https://my.clevelandclinic.org/staff/9151-jorge-alvaro-gonzalez-martinez){:target="gonzalez"}, M.D. Ph.D.  
+[Jorge A. Gonzalez-Martinez](https://my.clevelandclinic.org/staff/9151-jorge-alvaro-gonzalez-martinez){:target="gonzalez"}, M.D. Ph.D.  
 [Zhong (Irene) Wang](https://sites.google.com/view/linne/faculty){:target="wang"}, Ph.D.  
 [Juan Bulacio](https://my.clevelandclinic.org/staff/9290-juan-bulacio){:target="bulacio"}, M.D.  
 [Imad Najm](https://my.clevelandclinic.org/staff/2465-imad-najm){:target="najm"}, M.D.

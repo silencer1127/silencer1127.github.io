@@ -3,7 +3,7 @@ title: "GPDF Filter"
 category: "main"
 permalink: /software/GPDF/gpdf_main
 layout: single
-date: 2019-04-25
+date: 2019-11-05
 ---
 
 # **<center>Global PDF-based Non-local Means Filter</center>**
@@ -14,9 +14,7 @@ Global PDF-based non-local means filter (GPDF) is a data-driven approach for fil
 
 This page provides a MATLAB implementation of the GPDF filter described in
 
-J. Li, S. Y. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
-Global PDF-based temporal non-local means filtering reveals individual differences of brain connectivity,  
-IEEE 15th International Symposium on Biomedical Imaging (ISBI), Washington D.C., 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/isbi_2018_gpdf.bib)
+J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity", *IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2018GPtnmfridibc.bib) 
 
 Please cite the paper above in your publications if you have used the GPDF filter in your research.
 

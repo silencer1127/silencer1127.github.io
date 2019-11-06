@@ -22,7 +22,7 @@ MATLAB toolbox | Image Processing Toolbox<br> Statistics and Machine Learning To
 Internet | Yes | Yes
 
 <span style="font-size:0.8em;">\* Theoratically the operating system should not matter as long as MATLAB with required toolboxes and Brainstorm are successfully installed. However, the EZF is fully tested only on systems listed under recommendation.</span>  
-<span style="font-size:0.8em;">&dagger; R2012b is the absolute minimum version to install EZF as MATLAB "app" does not exist before that. R2016b is the minimum version for EZF to be fully functional. Some advanced functions, such the bayesopt in the hyperparameter tuning section, do not exist before R2016b. We strongly recommmend using version R2017a, on which the EZF was fully tested. Due to the imcompatibilty of MATLAB functions across releases, it's not guaranteed to be bug-free using other versions. However, if you do have to use certain version of MATLAB and encounter some issues, feel free to contact us.</span>
+<span style="font-size:0.8em;">&dagger; R2012b is the absolute minimum version to install EZF as MATLAB "app" does not exist before that. R2016b is the minimum version for EZF to be fully functional. Some advanced functions, such the bayesopt in the hyperparameter tuning section, do not exist before R2016b. We strongly recommmend using version R2017a, on which the EZF was fully tested. Due to the imcompatibilty of MATLAB functions across releases, it's not guaranteed to be bug-free using other versions. However, if you do have to use certain version of MATLAB and encounter some issues, feel free to [contact us](mailto:jian.li.andrew@gmail.com).</span>
 
 ## Download
 
