@@ -7,4 +7,29 @@
 
 <!-- analytics -->
 {% include analytics-head.html %}
+
+<!-- MathJax js for latex equations -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ["tex2jax.js"],
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [['$', '$']],
+    displayMath: [['$$', '$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    preview: "none",
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  showProcessingMessages: false,
+  menuSettings: { 
+    zoom: "Click",
+    zscale: "200%"
+  },
+  TeX: { extensions: ["autoload-all.js"] }
+});
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
 <!-- end custom head snippets -->
