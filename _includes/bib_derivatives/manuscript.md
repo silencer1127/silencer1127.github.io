@@ -5,10 +5,6 @@
 "The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
 *Epilepsy Research*. (Submitted)
 
-* H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
-"Robust Variational Autoencoder",  
-*34th AAAI Conference on Artificial Intelligence*, New York City, NY, Feb. 2020. (Submitted)
-
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydöre, R. M. Leahy,  
 "Brain lesion detection using a robust variational autoencoder and transfer learning",  
 *IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020. (Submitted)

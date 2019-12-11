@@ -6,7 +6,7 @@
 ### 2018
 
 * "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity",  
-*IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 5, 2018.
+*IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 05, 2018.
 
 ### 2017
 

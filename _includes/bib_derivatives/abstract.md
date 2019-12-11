@@ -4,13 +4,17 @@
 "Exploring anemia's impact on brain microstructure, volume, functional connectivity, iron and cognitive performance",  
 *61st Annual Meeting of the American Society of Hematology*, Orlando, FL, Dec. 2019. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi2019Eaiobmvfciacp.bib)
 
+* M. Kobayashi, O. Grinenko, **J. Li**, B. Krishnan, D. R. Nair, P. Chauvel,  
+"Association of ictal slow shift with the "fingerprint" of epileptogenic zone",  
+*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, MD, Dec. 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Kobayashi2019Aoisswtfoez.bib)
+
 * **J. Li**, J. C. Mosher, J. Gonzalez-Martinez, D. R. Nair, R. M. Leahy,  
 "Fingerprint propagation and the epileptogenic zone localization using cortico-cortical evoked potentials",  
-*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, MD, Dec. 2019. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019Fpatezlucep.bib)
+*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, MD, Dec. 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019Fpatezlucep.bib)
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
 "Traumatic brain injury lesion detection using a variational autoencoder",  
-*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, MD, Dec. 2019. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami2019Tbilduava.bib)
+*73rd Annual Meeting of the American Epilepsy Society*, Baltimore, MD, Dec. 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami2019Tbilduava.bib)
 
 * A. A. Joshi, H. Akrami, **J. Li**, R. M. Leahy,  
 "A matched filter decomposition of task fMRI for extraction of dynamical components",  
