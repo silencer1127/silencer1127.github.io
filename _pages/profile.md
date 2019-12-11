@@ -80,7 +80,7 @@ IEEE 15th International Symposium on Biomedical Imaging, Washington, D.C.
 [The Graduate School](http://graduateschool.usc.edu){:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu){:target="usc_homepage"}
 
 * **Annenberg Graduate Fellowship**, <span class="align-right">Mar. 2013</span>  
-[The Graduate School](http://graduateschool.usc.edu){:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu):target="usc_homepage"}
+[The Graduate School](http://graduateschool.usc.edu){:target="usc_graduate_school_homepage"}, [University of Southern California](http://www.usc.edu){:target="usc_homepage"}
 
 * **Best Undergraduate Thesis Award**, <span class="align-right">Jun. 2011</span>  
 [Beijing University of Technology](http://www.bjut.edu.cn){:target="bjut_homepage"}
