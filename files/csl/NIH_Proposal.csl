@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
   <info>
     <title>NIH Proposal with PMCID/PMID (Andrew)</title>
-    <id>https://silencer1127.github.io/resources/NIH_Proposal.csl</id>
-    <link href="https://silencer1127.github.io/resources/NIH_Proposal.csl" rel="self"/>
+    <id>https://silencer1127.github.io/files/csl/NIH_Proposal.csl</id>
+    <link href="https://silencer1127.github.io/files/csl/NIH_Proposal.csl" rel="self"/>
     <link href="http://www.zotero.org/styles/elsevier-harvard" rel="template"/>
     <link href="http://publicaccess.nih.gov/citation_methods.htm" rel="documentation"/>
     <link href="http://grants.nih.gov/grants/funding/424/SF424_RR_Guide_General_Adobe_VerC.pdf" rel="documentation"/>
