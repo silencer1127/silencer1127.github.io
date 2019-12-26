@@ -39,3 +39,9 @@ Here is a list of technical blogs I wrote occasionally or I found (maybe was) us
 * [PHP debug with xdebug in Atom](/blog/php_xdebug_atom)
 * [MATLAB (2017 or earlier) libGL issue in Linux](/blog/matlab_17_before_libGL_issue)
 * [Latex accent characters cheatsheet](/blog/latex_accents)
+
+## Andrew's Sharing
+
+Here is a list of "things" I created/modified/edited/customized to facilitate my own work. They may be also useful for others, so feel free to pick things you need.
+
+* [Customized CSL (citation style language) file for NIH proposal with PMCID/PMID field included](/files/csl/NIH_Proposal.csl)
