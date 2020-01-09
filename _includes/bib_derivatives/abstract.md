@@ -2,7 +2,7 @@
 
 * S. Choi, A. A. Joshi, S. H. O'Neil, X. Miao, **J. Li**, J. P. Haldar, T. Coates, R. M. Leahy, J. C. Wood,  
 "Exploring anemia's impact on brain microstructure, volume, functional connectivity, iron and cognitive performance",  
-*61st Annual Meeting of the American Society of Hematology*, Orlando, FL, Dec. 2019. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi2019Eaiobmvfciacp.bib)
+*61st Annual Meeting of the American Society of Hematology*, Orlando, FL, Dec. 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi2019Eaiobmvfciacp.bib)
 
 * M. Kobayashi, O. Grinenko, **J. Li**, B. Krishnan, D. R. Nair, P. Chauvel,  
 "Association of ictal slow shift with the "fingerprint" of epileptogenic zone",  

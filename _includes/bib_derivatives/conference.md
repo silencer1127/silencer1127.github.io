@@ -1,3 +1,13 @@
+### 2020
+
+* **J. Li**, A. A. Joshi, R. M. Leahy,  
+"A network-based approach to study of ADHD using tensor decomposition of resting fMRI data",  
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020AnatsoAutdorfd.bib)
+
+* H. Akrami, A. A. Joshi, **J. Li**, S. Aydöre, R. M. Leahy,  
+"Brain lesion detection using a robust variational autoencoder and transfer learning",  
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami2020Blduarvaatl.bib)
+
 ### 2019
 
 * A. A. Joshi, H. Akrami, **J. Li**, R. M. Leahy,  

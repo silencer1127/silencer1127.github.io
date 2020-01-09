@@ -1,3 +1,14 @@
+### 2020
+
+* **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
+"Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
+*Medical Image Analysis*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li2020Tnmffsoibcfirf-CODE"}  
+[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li2020Tnmffsoibcfirf"}
+
+* K. N. Taylor, A. A. Joshi, **J. Li**, J. A. Gonzalez-Martinez, X. Wang, R. M. Leahy, D. R. Nair, J. C. Mosher,  
+"The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
+*Epilepsy Research*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)
+
 ### 2019
 
 * **J. Li**, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel,  
