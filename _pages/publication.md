@@ -9,9 +9,9 @@ date: 2019-11-05
 
 <i class="ai ai-google-scholar-square"></i> [Google Scholar Page](https://scholar.google.com/citations?user=1GqG2q8AAAAJ){:target="google_scholar"}
 
-<i class="fa fa-quote-right"></i> &nbsp; bib file for citation &nbsp;&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i> &nbsp; open access PDF &nbsp;&nbsp;&nbsp; <i class="fa fa-code"></i> &nbsp; open source code / software
+<i class="fa fa-quote-right"></i> &nbsp; bib file for citation &nbsp;&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i> &nbsp; open access PDF &nbsp;&nbsp;&nbsp; <i class="fa fa-code"></i> &nbsp; open source code / software &nbsp;&nbsp;&nbsp; <i class="fa fa-video-camera"></i> &nbsp; video abstract
 
-<span style="font-size:0.8em;">Co-first authors with equal contribution are marked with a &dagger;.</span>
+<span style="font-size:1em;">Co-first authors with equal contribution are marked with a "&dagger;".</span>
 
 ## Journal Publications
 
