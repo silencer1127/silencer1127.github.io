@@ -3,7 +3,7 @@ title: "GPDF Filter"
 category: "main"
 permalink: /software/GPDF/gpdf_main
 layout: single
-date: 2019-11-05
+date: 2020-02-06
 ---
 
 # **<center>Global PDF-based Non-local Means Filter</center>**
@@ -14,13 +14,15 @@ Global PDF-based non-local means filter (GPDF) is a data-driven approach for fil
 
 This page provides a MATLAB implementation of the GPDF filter described in
 
+J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI", *Medical Image Analysis*, 2020, 101635. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) 
+
 J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity", *IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2018GPtnmfridibc.bib) 
 
-Please cite the paper above in your publications if you have used the GPDF filter in your research.
+Please cite the papers above in your publications if you have used the GPDF filter in your research.
 
 ## BrainSuite Integration
 
-GPDF has been included as the default filtering method for fMRI data in the BrainSuite fMRI Processing (BFP) pipeline, which will be available along with the next [BrainSuite](http://brainsuite.org/){:target="brainsuite"} release.
+GPDF has been included as the default filtering method for fMRI data in the BrainSuite fMRI Processing (BFP) pipeline, which is released as part of the [BrainSuite](http://brainsuite.org/){:target="brainsuite"} software.
 
 > "BrainSuite is a collection of image analysis tools designed to process magnetic resonance images (MRI) of the human head. BrainSuite provides an automatic sequence to extract cortical surface mesh models from the MRI, tools to register these to a labeled atlas to define anatomical regions of interest, and tools for processing diffusion imaging data. BrainSuite also contains visualization tools for exploring these data, and can produce interactive maps of regional connectivity."<br/><span style="float:right">&mdash; BrainSuite</span><br/>
 
