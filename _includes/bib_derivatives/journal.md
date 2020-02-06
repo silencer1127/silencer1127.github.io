@@ -3,18 +3,29 @@
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
 *Medical Image Analysis*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li2020Tnmffsoibcfirf-CODE"}  
-[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li2020Tnmffsoibcfirf"}
+[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li2020Tnmffsoibcfirf"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Characterizing functional brain connectivity using resting functional magnetic resonance imaging (fMRI) is challenging due to the relatively small Blood-Oxygen-Level Dependent contrast and low signal-to-noise ratio. Denoising using surface-based Laplace-Beltrami (LB) or volumetric Gaussian filtering tends to blur boundaries between different functional areas. To overcome this issue, a time-based Non-Local Means (tNLM) filtering method was previously developed to denoise fMRI data while preserving spatial structure. The kernel and parameters that define the tNLM filter need to be optimized for each application. Here we present a novel Global PDF-based tNLM filtering (GPDF) algorithm that uses a data-driven kernel function based on a Bayes factor to optimize filtering for spatial delineation of functional connectivity in resting fMRI data. We demonstrate its performance relative to Gaussian spatial filtering and the original tNLM filtering via simulations. We also compare the effects of GPDF filtering against LB filtering using individual in-vivo resting fMRI datasets. Our results show that LB filtering tends to blur signals across boundaries between adjacent functional regions. In contrast, GPDF filtering enables improved noise reduction without blurring adjacent functional regions. These results indicate that GPDF may be a useful preprocessing tool for analyses of brain connectivity and network topology in individual fMRI recordings.
+      </p>
+  </details>
 
 * K. N. Taylor, A. A. Joshi, **J. Li**, J. A. Gonzalez-Martinez, X. Wang, R. M. Leahy, D. R. Nair, J. C. Mosher,  
 "The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
-*Epilepsy Research*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)
-
-### 2019
+*Epilepsy Research*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)  
+[https://doi.org/10.1016/j.eplepsyres.2020.106264](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor2020TFgAnfftavaaocep"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Background: Intracerebral electroencephalography (iEEG) using stereoelectroencephalography (SEEG) methodology for epilepsy surgery gives rise to complex data sets. The neurophysiological data obtained during the in-patient period includes categorization of the evoked potentials resulting from direct electrical cortical stimulation such as cortico-cortical evoked potentials (CCEPs). These potentials are recorded by hundreds of contacts, making these waveforms difficult to quickly interpret over such high-density arrays that are organized in three dimensional fashion. New Method: The challenge in analyzing CCEPs data arises not just from the density of the array, but also from the stimulation of a number of different intracerebral sites. A systematic methodology for visualization and analysis of these evoked data is lacking. We describe the process of incorporating anatomical information into the visualizations, which are then compared to more traditional plotting techniques to highlight the usefulness of the new framework. Results: We describe here an innovative framework for sorting, registering, labeling, ordering, and quantifying the functional CCEPs data, using the anatomical labelling of the brain, to provide an informative visualization and summary statistics which we call the "FAST graph" (Functional-Anatomical STacked area graphs). The fast graph analysis is used to depict the significant CCEPs responses in patient with focal epilepsy. Conclusions: The novel plotting approach shown here allows us to visualize high-density stimulation data in a single summary plot for subsequent detailed analyses. Improving the visual presentation of complex data sets aides in enhancing the clinical utility of the data.
+      </p>
+  </details>
 
 * **J. Li**, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel,  
 "Learning to define an electrical biomarker of the epileptogenic zone",  
-*Human Brain Mapping*, 2019. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019Ltdaebotez.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li2019Ltdaebotez.pdf){:target="Li2019Ltdaebotez-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li2019Ltdaebotez-CODE"}  
-[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="Li2019Ltdaebotez"}  
+*Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Ltdaebotez.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li2020Ltdaebotez.pdf){:target="Li2020Ltdaebotez-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li2020Ltdaebotez-CODE"}  
+[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="Li2020Ltdaebotez"}  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -22,6 +33,8 @@
       </p>
       <div class ="responsive-video-container"><iframe src="https://player.vimeo.com/video/371666831" width="560" height="315" frameborder="0" allowfullscreen webkitAllowFullScreen mozallowfullscreen></iframe></div>
   </details>
+
+### 2019
 
 * S. Choi, S. H. O'Neil, A. A. Joshi, **J. Li**, A. M. Bush, T. D. Coates, R. M. Leahy, J. C. Wood,  
 "Anemia predicts lower white matter volume and cognitive performance in sickle and non-sickle cell anemia syndrome",  
