@@ -2,7 +2,7 @@
 
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
-*Medical Image Analysis*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li2020Tnmffsoibcfirf-CODE"}  
+*Medical Image Analysis*, vol. 61, p. 101635, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li2020Tnmffsoibcfirf-CODE"}  
 [https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li2020Tnmffsoibcfirf"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
@@ -13,7 +13,7 @@
 
 * K. N. Taylor, A. A. Joshi, **J. Li**, J. A. Gonzalez-Martinez, X. Wang, R. M. Leahy, D. R. Nair, J. C. Mosher,  
 "The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
-*Epilepsy Research*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)  
+*Epilepsy Research*, vol. 161, p. 106264, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)  
 [https://doi.org/10.1016/j.eplepsyres.2020.106264](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor2020TFgAnfftavaaocep"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
@@ -102,5 +102,5 @@
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
       Defining a bio-electrical marker for the brain area responsible for initiating a seizure remains an unsolved problem. Fast gamma activity has been identified as the most specific marker for seizure onset, but conflicting results have been reported. In this study, we describe an alternative marker, based on an objective description of interictal to ictal transition, with the aim of identifying a time-frequency pattern or 'fingerprint' that can differentiate the epileptogenic zone from areas of propagation. Seventeen patients who underwent stereoelectroencephalography were included in the study. Each had seizure onset characterized by sustained gamma activity and were seizure-free after tailored resection or laser ablation. We postulated that the epileptogenic zone was always located inside the resection region based on seizure freedom following surgery. To characterize the ictal frequency pattern, we applied the Morlet wavelet transform to data from each pair of adjacent intracerebral electrode contacts. Based on a visual assessment of the time-frequency plots, we hypothesized that a specific time-frequency pattern in the epileptogenic zone should include a combination of (i) sharp transients or spikes; preceding (ii) multiband fast activity concurrent; with (iii) suppression of lower frequencies. To test this hypothesis, we developed software that automatically extracted each of these features from the time-frequency data. We then used a support vector machine to classify each contact-pair as being within epileptogenic zone or not, based on these features. Our machine learning system identified this pattern in 15 of 17 patients. The total number of identified contacts across all patients was 64, with 58 localized inside the resected area. Subsequent quantitative analysis showed strong correlation between maximum frequency of fast activity and suppression inside the resection but not outside. We did not observe significant discrimination power using only the maximum frequency or the timing of fast activity to differentiate contacts either between resected and non-resected regions or between contacts identified as epileptogenic versus non-epileptogenic. Instead of identifying a single frequency or a single timing trait, we observed the more complex pattern described above that distinguishes the epileptogenic zone. This pattern encompasses interictal to ictal transition and may extend until seizure end. Its time-frequency characteristics can be explained in light of recent models emphasizing the role of fast inhibitory interneurons acting on pyramidal cells as a prominent mechanism in seizure triggering. The pattern clearly differentiates the epileptogenic zone from areas of propagation and, as such, represents an epileptogenic zone 'fingerprint'.
       </p>
-      <div class ="responsive-video-container"><iframe src="https://www.youtube.com/embed/1wrcs5yEKeQ" width="560" height="315" frameborder="0" allowfullscreen></iframe></div>
+      <div class ="responsive-video-container"><iframe src="https://www.youtube.com/embed/1wrcs5yEKeQ" width="560" height="315" frameborder="0" allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
   </details>
