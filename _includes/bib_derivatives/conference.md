@@ -2,13 +2,26 @@
 
 * **J. Li**, A. A. Joshi, R. M. Leahy,  
 "A network-based approach to study of ADHD using tensor decomposition of resting fMRI data",  
-*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020AnatsoAutdorfd.bib)  
-[https://doi.org/10.1109/ISBI45749.2020.9098584](https://doi.org/10.1109/ISBI45749.2020.9098584){:target="Li2020AnatsoAutdorfd"}
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 1--5.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020AnatsoAutdorfd.bib)  
+[https://doi.org/10.1109/ISBI45749.2020.9098584](https://doi.org/10.1109/ISBI45749.2020.9098584){:target="Li2020AnatsoAutdorfd"}  
+  <details>
+    <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Identifying changes in functional connectivity in Attention Deficit Hyperactivity Disorder (ADHD) using functional magnetic resonance imaging (fMRI) can help us understand the neural substrates of this brain disorder. Many studies of ADHD using resting state fMRI (rs-fMRI) data have been conducted in the past decade with either manually crafted features that do not yield satisfactory performance, or automatically learned features that often lack interpretability. In this work, we present a tensor-based approach to identify brain networks and extract features from rs-fMRI data. Results show the identified networks are interpretable and consistent with our current understanding of ADHD conditions. The extracted features are not only predictive of ADHD score but also discriminative for classification of ADHD subjects from typically developed children.
+      </p>
+      <div class ="responsive-video-container"><iframe src="https://www.youtube.com/embed/yRRqWTOTJ_A" width="560" height="315" frameborder="0" allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+  </details>
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydöre, R. M. Leahy,  
 "Brain lesion detection using a robust variational autoencoder and transfer learning",  
-*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami2020Blduarvaatl.bib)  
-[https://doi.org/10.1109/ISBI45749.2020.9098405](https://doi.org/10.1109/ISBI45749.2020.9098405){:target="Akrami2020Blduarvaatl"}
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 786--790.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami2020Blduarvaatl.bib)  
+[https://doi.org/10.1109/ISBI45749.2020.9098405](https://doi.org/10.1109/ISBI45749.2020.9098405){:target="Akrami2020Blduarvaatl"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Automated brain lesion detection from multi-spectral MR images can assist clinicians by improving sensitivity as well as specificity. Supervised machine learning methods have been successful in lesion detection. However, these methods usually rely on a large number of manually delineated images for specific imaging protocols and parameters and often do not generalize well to other imaging parameters and demographics. Most recently, unsupervised models such as autoencoders have become attractive for lesion detection since they do not need access to manually delineated lesions. Despite the success of unsupervised models, using pre-trained models on an unseen dataset is still a challenge. This difficulty is because the new dataset may use different imaging parameters, demographics, and different pre-processing techniques. Additionally, using a clinical dataset that has anomalies and outliers can make unsupervised learning challenging since the outliers can unduly affect the performance of the learned models. These two difficulties make unsupervised lesion detection a particularly challenging task. The method proposed in this work addresses these issues using a two-prong strategy: (1) we use a robust variational autoencoder model that is based on robust statistics, specifically the beta-divergence that can be trained with data that has outliers; (2) we use a transfer learning method for learning models across datasets with different characteristics. Our results on MRI datasets demonstrate that we can improve the accuracy of lesion detection by adapting robust statistical models and transfer learning for a variational autoencoder model.
+      </p>
+  </details>
 
 ### 2019
 
