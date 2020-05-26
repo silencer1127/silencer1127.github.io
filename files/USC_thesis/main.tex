@@ -1,0 +1,92 @@
+\documentclass[twoside, 11pt]{report}
+\usepackage{USC_thesis}
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\doublespacing
+
+\begin{document}
+
+\title{FUNCTIONAL CONNECTIVITY ANALYSIS AND NETWORK IDENTIFICATION IN THE HUMAN BRAIN}
+\author{Jian Li}
+
+\reporttype{dissertation} % "dissertation" for Ph.D. or "thesis" for M.S.
+\submitdate{May 2019}
+
+\degree{Doctor of Philosophy}
+\department{Electrical Engineering}
+\university{University of Southern California}
+\city{Los Angeles}
+\state{California}
+
+\begin{preface}
+  
+  \thispagestyle{empty}
+  {\large\textbf{Doctoral Committee:}} % or Masters Committee
+  
+  \begin{singlespace}
+    \renewcommand{\arraystretch}{1.3}
+    \hspace*{5mm}
+    \begin{tabular}{L{35mm}L{50mm}}
+      Professor & Richard M. Leahy, Chair\\
+      Associate Professor & Justin P. Haldar\\
+      ... & ...
+    \end{tabular}
+    \renewcommand{\arraystretch}{1}
+  \end{singlespace}
+
+  %%% mandatory, uncomment to add abstract
+  \prefacesection{Abstract}
+  %\input{abstract}
+
+  %%% optional, uncomment to add dedication
+  %\prefacesection[Dedication]{}
+  %\input{dedication}
+
+  %%% mandatory, uncomment to add acknowledgments
+  \prefacesection{Acknowledgments}
+  %\input{acknowledgments}
+  
+  \tableofcontents
+  \listoffigures
+  \listoftables
+  
+  %%% three optionals, uncomment to add a list of algorithms, abbreviations, and notations
+  %\listofalgorithms
+  %\addcontentsline{toc}{chapter}{List of Algorithms}
+  
+  %\prefacesection{List of Abbreviations}
+  %\input{abbreviations}
+  
+  %\prefacesection{List of Notation}
+  %\input{notations}
+
+\end{preface}
+\cleardoublepage
+
+%\include{chapter_1}
+\cleardoublepage
+
+%\include{chapter_2}
+\cleardoublepage
+
+%%% additional chapters to be appended here
+
+%%% optional appendix
+%\appendix
+%\include{appendix}
+
+% uncomment to use a desired bst file and a bib library
+%\begin{singlespace}
+%  \references[Reference]{IEEEtranS_nourl}{./library}
+%\end{singlespace}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% coding: utf-8
+%%% TeX-engine: xetex
+%%% End:
