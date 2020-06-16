@@ -1,8 +1,12 @@
 ### 2020
 
+* R. Setton, L. Mwilambwe-Tshilobo, G. Baracchini, M. Girn, A. Lockrow, P. Kundu, **J. Li**, T. Ge, R. M. Leahy, G. Turner, N. Spreng,  
+"ME-fMRI connectivity associations with behavior using group and individualized parcellation schemes",  
+*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton2020Mcawbugaips.bib)
+
 * A. A. Joshi, S. Choi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A novel approach for group fMRI studies using BrainSync transform and pair-wise statistics",  
-*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi2020AnafgfsuBtaps.bib)
+*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi2020AnafgfsuBtaps.bib)
 
 ### 2019
 
