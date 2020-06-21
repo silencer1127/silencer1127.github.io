@@ -4,12 +4,12 @@ category: "ezf"
 permalink: /software/EZ_Fingerprint/ezf_main
 layout: single
 author_profile: false
-date: 2020-02-20
+date: 2020-06-20
 ---
 
-> 2020/02/20:
+> 2020/06/20:
 >
-> A new version 1.1.0 is available online now, which provides several new features requested from users as well as improvements and bug fix. If you start with the previous version, you may experience update prompt twice due to the upgrade of the update procedure. In case you have any problem, you can always freshly download the app installer [here](/software/EZ_Fingerprint/ezf_download) and it will take you to the newest version directly.
+> A new version 1.2.0 is available online now, which allows user to visualize time series in seizure data. If you have any issue with the upgrading, you can always freshly download the app installer [here](/software/EZ_Fingerprint/ezf_download) and it will take you to the newest version directly.
 
 # **<center>Epileptogenic Zone Fingerprint</center>**
 

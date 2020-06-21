@@ -40,4 +40,4 @@ IN NO EVENT SHALL THE AUTHORS, THE CONTRIBUTORS, THE DISTRIBUTORS AND THE UNIVER
 
 ## Download
 
-Please follow this [link](http://soft.imagicastle.com:27224/software/download.php?app=gpdf){:target="gpdf_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
+Please follow this [link](https://software.imagicastle.com:48877/download.php?app=gpdf){:target="gpdf_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. 
