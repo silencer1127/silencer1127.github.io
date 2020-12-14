@@ -16,9 +16,9 @@ Scalable and Robust Sequential Canonical Polyadic Decomposition (SRSCPD) is a fr
 
 This page provides a MATLAB implementation of SRSPCD described in
 
-J. Li, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy, "Scalable and robust tensor decomposition of spontaneous stereotactic EEG data", *IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019SartdossEd.bib)
+J. Li, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy, "Scalable and robust tensor decomposition of spontaneous stereotactic EEG data", *IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_IEEETransBiomedEng_Scalable.bib)
 
-J. Li, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy, "Robust tensor decomposition of resting brain networks in stereotactic EEG", *IEEE 51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, Oct. 2017, pp. 1544--1548. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2017RtdorbnisE.bib)
+J. Li, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy, "Robust tensor decomposition of resting brain networks in stereotactic EEG", *IEEE 51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, Oct. 2017, pp. 1544--1548. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_ACSSC_Robust.bib)
 
 Please cite the papers above in your publications if you have used SRSCPD in your research.
 

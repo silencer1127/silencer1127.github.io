@@ -1,9 +1,14 @@
 ### 2020
 
+* **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
+"Robust brain network identification from multi-subject asynchronous fMRI data",  
+*NeuroImage*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_NeuroImage_Robust.bib)  
+[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2020_NeuroImage_Robust"}
+
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
-*Medical Image Analysis*, vol. 61, p. 101635, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Tnmffsoibcfirf.bib) &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li2020Tnmffsoibcfirf-CODE"}  
-[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li2020Tnmffsoibcfirf"}  
+*Medical Image Analysis*, vol. 61, p. 101635, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_MedImageAnal_Temporal.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_MedImageAnal_Temporal.pdf){:target="Li_2020_MedImageAnal_Temporal-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li_2020_MedImageAnal_Temporal-CODE"}  
+[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li_2020_MedImageAnal_Temporal"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -13,8 +18,8 @@
 
 * K. N. Taylor, A. A. Joshi, **J. Li**, J. A. Gonzalez-Martinez, X. Wang, R. M. Leahy, D. R. Nair, J. C. Mosher,  
 "The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
-*Epilepsy Research*, vol. 161, p. 106264, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor2020TFgAnfftavaaocep.bib)  
-[https://doi.org/10.1016/j.eplepsyres.2020.106264](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor2020TFgAnfftavaaocep"}  
+*Epilepsy Research*, vol. 161, p. 106264, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor_2020_EpilepsyRes_Fast.bib)  
+[https://doi.org/10.1016/j.eplepsyres.2020.106264](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor_2020_EpilepsyRes_Fast"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -24,8 +29,8 @@
 
 * **J. Li**, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel,  
 "Learning to define an electrical biomarker of the epileptogenic zone",  
-*Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2020Ltdaebotez.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li2020Ltdaebotez.pdf){:target="Li2020Ltdaebotez-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li2020Ltdaebotez-CODE"}  
-[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="Li2020Ltdaebotez"}  
+*Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_HumBrainMapp_Learning.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_HumBrainMapp_Learning.pdf){:target="Li_2020_HumBrainMapp_Learning-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li_2020_HumBrainMapp_Learning-CODE"}  
+[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="Li_2020_HumBrainMapp_Learning"}  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -38,19 +43,19 @@
 
 * S. Choi, S. H. O'Neil, A. A. Joshi, **J. Li**, A. M. Bush, T. D. Coates, R. M. Leahy, J. C. Wood,  
 "Anemia predicts lower white matter volume and cognitive performance in sickle and non-sickle cell anemia syndrome",  
-*American Journal of Hematology*, vol. 94, no. 10, pp. 1055--1065, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi2019Aplwmvacpisancas.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Choi2019Aplwmvacpisancas.pdf){:target="Choi2019Aplwmvacpisancas-PDF"}  
-[https://doi.org/10.1002/ajh.25570](https://doi.org/10.1002/ajh.25570){:target="Choi2019Aplwmvacpisancas"}  
+*American Journal of Hematology*, vol. 94, no. 10, pp. 1055--1065, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi_2019_AmJHematol_Anemia.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Choi_2019_AmJHematol_Anemia.pdf){:target="Choi_2019_AmJHematol_Anemia-PDF"}  
+[https://doi.org/10.1002/ajh.25570](https://doi.org/10.1002/ajh.25570){:target="Choi_2019_AmJHematol_Anemia"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
-      Severe chronic anemia is an independent predictor of overt stroke, white matter damage, and cognitive dysfunction in the elderly. Severe anemia also predisposes to white matter strokes in young children, independent of the anemia subtype. We previously demonstrated symmetrically decreased white matter (WM) volumes in patients with sickle cell disease (SCD). In the current study, we investigated whether patients with non-sickle anemia also have lower WM volumes and cognitive dysfunction. Magnetic Resonance Imaging was performed on 52 clinically asymptomatic SCD patients (age=21.4±7.7; F=27, M=25; hemoglobin=9.6±1.6 g/dL), 26 non-sickle anemic patients (age=23.9±7.9; F=14, M=12; hemoglobin=10.8±2.5 g/dL) and 40 control subjects (age=27.7±11.3; F=28, M=12; hemoglobin=13.4±1.3 g/dL). Voxel-wise changes in WM brain volumes were compared to hemoglobin levels to identify brain regions that are vulnerable to anemia. White matter volume was diffusely lower in deep, watershed areas proportionally to anemia severity. After controlling for age, sex, and hemoglobin level, brain volumes were independent of disease. WM volume loss was associated with lower Full Scale Intelligence Quotient (FSIQ; P=.0048; r2=.18) and an abnormal burden of silent cerebral infarctions (P=.029) in males, but not in females. Hemoglobin count and cognitive measures were similar between subjects with and without white-matter hyperintensities. The spatial distribution of volume loss suggests chronic hypoxic cerebrovascular injury, despite compensatory hyperemia. Neurocognitive consequences of WM volume changes and silent cerebral infarction were strongly sexually dimorphic. Understanding the possible neurological consequences of chronic anemia may help inform our current clinical practices.
+      Severe chronic anemia is an independent predictor of overt stroke, white matter damage, and cognitive dysfunction in the elderly. Severe anemia also predisposes to white matter strokes in young children, independent of the anemia subtype. We previously demonstrated symmetrically decreased white matter (WM) volumes in patients with sickle cell disease (SCD). In the current study, we investigated whether patients with non-sickle anemia also have lower WM volumes and cognitive dysfunction. Magnetic Resonance Imaging was performed on 52 clinically asymptomatic SCD patients (age=21.4±7.7; F=27, M=25; hemoglobin=9.6±1.6 g/dL), 26 non-sickle anemic patients (age=23.9±7.9; F=14, M=12; hemoglobin=10.8±2.5 g/dL) and 40 control subjects (age=27.7±11.3; F=28, M=12; hemoglobin=13.4±1.3 g/dL). Voxel-wise changes in WM brain volumes were compared to hemoglobin levels to identify brain regions that are vulnerable to anemia. White matter volume was diffusely lower in deep, watershed areas proportionally to anemia severity. After controlling for age, sex, and hemoglobin level, brain volumes were independent of disease. WM volume loss was associated with lower Full Scale Intelligence Quotient (FSIQ; P=.0048; r2=.18) and an abnormal burden of silent cerebral infarctions (P=.029) in males, but not in females. Hemoglobin count and cognitive measures were similar between subjects with and without white-matter hyperintensities. The spatial distribution of volume loss suggests chronic hypoxic cerebrovascular injury, despite compensatory hyperemia. Neurocognitive consequences of WM volume changes and silent cerebral infarction were strongly sexually dimorphic. Understanding the possible neurological consequences of chronic anemia may help inform our current clinical practices.k
       </p>
   </details>
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
 "Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems",  
-*Journal of Inverse and Ill-posed Problems*, vol. 27, no. 5, pp. 703--717, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019Cadpmsitwmcmfip.bib)  
-[https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:target="Li2019Cadpmsitwmcmfip"}  
+*Journal of Inverse and Ill-posed Problems*, vol. 27, no. 5, pp. 703--717, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_JInverseIllPosedProbl_Comparing.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_JInverseIllPosedProbl_Comparing.pdf){:target="Li_2019_JInverseIllPosedProbl_Comparing-PDF"}  
+[https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:target="Li_2019_JInverseIllPosedProbl_Comparing"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -60,8 +65,8 @@
 
 * **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy,  
 "Scalable and robust tensor decomposition of spontaneous stereotactic EEG data",  
-*IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019SartdossEd.bib) &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li2019SartdossEd-CODE"}  
-[https://doi.org/10.1109/TBME.2018.2875467](https://doi.org/10.1109/TBME.2018.2875467){:target="Li2019SartdossEd"}  
+*IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_IEEETransBiomedEng_Scalable.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_IEEETransBiomedEng_Scalable.pdf){:target="Li_2019_IEEETransBiomedEng_Scalable-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li_2019_IEEETransBiomedEng_Scalable-CODE"}  
+[https://doi.org/10.1109/TBME.2018.2875467](https://doi.org/10.1109/TBME.2018.2875467){:target="Li_2019_IEEETransBiomedEng_Scalable"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -71,8 +76,8 @@
 
 * E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
 "Heterotopia or overlaying cortex: What about in-between?",  
-*Epilepsy and Behavior Case Reports*, vol. 11, pp. 4--9, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cvetkovska2019HoocWai.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cvetkovska2019HoocWai.pdf){:target="Cvetkovska2019HoocWai-PDF"}  
-[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:target="Cvetkovska2019HoocWai"}  
+*Epilepsy and Behavior Case Reports*, vol. 11, pp. 4--9, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.pdf){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-PDF"}  
+[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -84,8 +89,8 @@
 
 * A. A. Joshi, M. Chong, **J. Li**, S. Choi, R. M. Leahy,  
 "Are you thinking what I'm thinking? Synchronization of resting fMRI time-series across subjects",  
-*NeuroImage*, vol. 172, pp. 740--752, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi2018AytwItSorftas.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi2018AytwItSorftas.pdf){:target="Joshi2018AytwItSorftas-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="Joshi2018AytwItSorftas-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2018.01.058](https://doi.org/10.1016/j.neuroimage.2018.01.058){:target="Joshi2018AytwItSorftas"}  
+*NeuroImage*, vol. 172, pp. 740--752, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2018_NeuroImage_Are.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2018_NeuroImage_Are.pdf){:target="Joshi_2018_NeuroImage_Are-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="Joshi_2018_NeuroImage_Are-CODE"}  
+[https://doi.org/10.1016/j.neuroimage.2018.01.058](https://doi.org/10.1016/j.neuroimage.2018.01.058){:target="Joshi_2018_NeuroImage_Are"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -95,8 +100,8 @@
 
 * O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, I. Z. Wang, J. C. Bulacio, J. Gonzalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel,  
 "A fingerprint of the epileptogenic zone in human epilepsies",  
-*Brain*, vol. 141, no. 1, pp. 117--131, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/GrinenkoLi2018Afotezihe.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/GrinenkoLi2018Afotezihe.pdf){:target="GrinenkoLi2018Afotezihe-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="GrinenkoLi2018Afotezihe-CODE"}  
-[https://doi.org/10.1093/brain/awx306](https://doi.org/10.1093/brain/awx306){:target="GrinenkoLi2018Afotezihe"}  
+*Brain*, vol. 141, no. 1, pp. 117--131, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2018_Brain_Fingerprint.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Grinenko_2018_Brain_Fingerprint.pdf){:target="Grinenko_2018_Brain_Fingerprint-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Grinenko_2018_Brain_Fingerprint-CODE"}  
+[https://doi.org/10.1093/brain/awx306](https://doi.org/10.1093/brain/awx306){:target="Grinenko_2018_Brain_Fingerprint"}  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">

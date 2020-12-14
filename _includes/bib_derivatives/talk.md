@@ -2,7 +2,7 @@
 
 * "A network-based approach to study of ADHD using tensor decomposition of resting state fMRI data",  
 *IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 06, 2020.  
-[https://www.youtube.com/watch?v=yRRqWTOTJ_A](https://www.youtube.com/watch?v=yRRqWTOTJ_A){:target="20200406I1ISoBI"}
+[https://www.youtube.com/watch?v=yRRqWTOTJ_A](https://www.youtube.com/watch?v=yRRqWTOTJ_A){:target="Talk_2020_04_06_ISBI"}
 
 ### 2019
 

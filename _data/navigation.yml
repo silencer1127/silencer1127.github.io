@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Profile"
-    url: /profile
   - title: "Publications"
     url: /pub
   - title: "Software"

@@ -2,8 +2,8 @@
 
 * **J. Li**,  
 "Functional connectivity analysis and network identification in the human brain",  
-*University of Southern California*, Los Angeles, CA, May 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2019Fcaaniithb.bib)  
-[http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/157209/](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/157209/){:target="Li2019Fcaaniithb"}  
+*University of Southern California*, Los Angeles, CA, May 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_USC_Functional.bib)  
+[http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/157209/](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/157209/){:target="Li_2019_USC_Functional"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -15,8 +15,8 @@
 
 * **J. Li**,  
 "Distributed parameter model based system identification and input determination in the estimation of blood alcohol concentration from transdermal alcohol biosensor data",  
-*University of Southern California*, Los Angeles, CA, Jul. 2017.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2017Dpmbsiaiditeobacftabd.bib)  
-[http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/){:target="Li2017Dpmbsiaiditeobacftabd"}  
+*University of Southern California*, Los Angeles, CA, Jul. 2017.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_USC_Distributed.bib)  
+[http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll40/id/399407/){:target="Li_2017_USC_Distributed"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -28,7 +28,7 @@
 
 * **J. Li**,  
 "Spatio-temporal correlation-based near-duplicate video detection",  
-*Beijing University of Technology*, Beijing, China, Jun. 2011.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li2011Scnvd.bib)  
+*Beijing University of Technology*, Beijing, China, Jun. 2011.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2011_BJUT_Spatio.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
