@@ -14,3 +14,5 @@ Implementations of many algorithms or methods we have published will be provided
 * [Global PDF-based Non-local Means Filter (GPDF)](/software/GPDF/gpdf_main){:target="software_gpdf"}
 
 * [Scalable and Robust Sequential Canonical Polyadic Decomposition (SRSCPD)](/software/SRSCPD_ALS/srscpd_als_main){:target="software_srscpd"}
+
+* [Nesterov-accelerated Scalable and Robust CP Decomposition (NASCAR)](/software/NASCAR/nascar_main){:target="software_nascar"}
