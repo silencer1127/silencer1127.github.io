@@ -4,7 +4,7 @@ category: "ezf"
 permalink: /software/EZ_Fingerprint/ezf_main
 layout: single
 author_profile: false
-date: 2020-06-20
+date: 2020-12-14
 ---
 
 > 2020/06/20:
@@ -47,9 +47,11 @@ Again, this software is for **research purpose only**. One should not make any c
 
 Please cite the following papers in your publications if you have used our EZF software in your research.
 
-J. Li, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel, "Learning to define an electrical biomarker of the epileptogenic zone", *Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_HumBrainMapp_Learning.bib)
+J. Li, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel, "Learning to define an electrical biomarker of the epileptogenic zone", *Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_HumBrainMapp_Learning.bib)  
+https://doi.org/10.1002/hbm.24813
 
-O. Grinenko, J. Li, J. C. Mosher, I. Z. Wang, J. C. Bulacio, J. Gonzalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel, "A fingerprint of the epileptogenic zone in human epilepsies", *Brain*, vol. 141, no. 1, pp. 117--131, 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2018_Brain_Fingerprint.bib)
+O. Grinenko, J. Li, J. C. Mosher, I. Z. Wang, J. C. Bulacio, J. Gonzalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel, "A fingerprint of the epileptogenic zone in human epilepsies", *Brain*, vol. 141, no. 1, pp. 117--131, 2018. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2018_Brain_Fingerprint.bib)  
+https://doi.org/10.1093/brain/awx306
 
 ## Support
 
