@@ -44,7 +44,7 @@
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition",  
-*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164--172.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_SPIEMI_Brain.pdf){:target="Li_2019_SPIEMI_Brain-PDF"}  
+*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164--172.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_SPIEMI_Brain.pdf){:target="Li_2019_SPIEMI_Brain-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2019_SPIEMI_Brain-CODE"}  
 [https://doi.org/10.1117/12.2512684](https://doi.org/10.1117/12.2512684){:target="Li_2019_SPIEMI_Brain"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>

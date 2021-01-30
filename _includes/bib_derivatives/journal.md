@@ -1,9 +1,17 @@
-### 2020
+### 2021
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Robust brain network identification from multi-subject asynchronous fMRI data",  
-*NeuroImage*, 2020. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_NeuroImage_Robust.bib)  
-[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2020_NeuroImage_Robust"}
+*NeuroImage*, vol. 227, p. 117615, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_NeuroImage_Robust.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_NeuroImage_Robust.pdf){:target="Li_2020_NeuroImage_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2020_NeuroImage_Robust-CODE"}  
+[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2020_NeuroImage_Robust"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      We describe a novel method for robust identification of common brain networks and their corresponding temporal dynamics across subjects from asynchronous functional MRI (fMRI) using tensor decomposition. We first temporally align asynchronous fMRI data using the orthogonal BrainSync transform, allowing us to study common brain networks across sessions and subjects. We then map the synchronized fMRI data into a 3D tensor (vertices × time × subject/session). Finally, we apply Nesterov-accelerated adaptive moment estimation (Nadam) within a scalable and robust sequential Canonical Polyadic (CP) decomposition framework to identify a low rank tensor approximation to the data. As a result of CP tensor decomposition, we successfully identified twelve known brain networks with their corresponding temporal dynamics from 40 subjects using the Human Connectome Project's language task fMRI data without any prior information regarding the specific task designs. Seven of these networks show distinct subjects’ responses to the language task with differing temporal dynamics; two show sub-components of the default mode network that exhibit deactivation during the tasks; the remaining three components reflect non-task-related activities. We compare results to those found using group independent component analysis (ICA) and canonical ICA. Bootstrap analysis demonstrates increased robustness of networks found using the CP tensor approach relative to ICA-based methods.
+      </p>
+  </details>
+
+### 2020
 
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
