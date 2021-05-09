@@ -2,7 +2,8 @@
 
 * A. A. Joshi, S. Choi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A pairwise approach for fMRI group studies using BrainSync transform",  
-*Proc. SPIE Medical Imaging 2021: Image Processing*, San Diego, CA, Mar. 2021. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2021_SPIEMI_Pairwise.bib)
+*Proc. SPIE Medical Imaging 2021: Image Processing*, San Diego, CA, Mar. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2021_SPIEMI_Pairwise.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2021_SPIEMI_Pairwise.pdf){:target="Joshi_2021_SPIEMI_Pairwise-PDF"}  
+[https://doi.org/10.1117/12.2580980](https://doi.org/10.1117/12.2580980){:target="Joshi_2021_SPIEMI_Pairwise"}
 
 ### 2020
 
