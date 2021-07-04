@@ -1,22 +1,34 @@
 ### 2021
 
-* **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. L. Edlow,  
-"Mapping subcortical functional connectome of the default mode network for targeted neuromodulation",  
-*27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_OHBM_Mapping.bib)
+* B. Guerin, M. Daneshzand, J. Stockmann, **J. Li**, B. L. Edlow, D. D. Dougherty, A. Nummenma,  
+"Precomputation of hundreds of transducer positions for real-time stimulation-based neuronavigation of neuromodulation using tFUS",  
+*2nd Focused Ultrasound Neuromodulation Symposium*, Virtual, Sept. 2021. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Guerin_2021_FUN_Precomputation.bib)
+
+* **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, A. Horn, B. L. Edlow,  
+"The subcortical connectome of the default mode network",  
+*NIH Common Fund's 2021 High-Risk, High-Reward Research Symposium*, Virtual, Jun. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NIH-HRHR_Subcortical.bib)
+
+* R. Setton, L. Mwilambwe-Tshilobo, M. Girn, A. Lockrow, G. Baracchini, A. Lowe, B. Cassidy, **J. Li**, D. Bzdock, R. Leahy, T. Ge, D. Margulies, B. Misic, B. Bernhardt, W. Stevens, F. De Brigard, P. Kundu, G. Turner, N. Spreng,  
+"Functional architecture of the aging brain",  
+*27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021. (Virtual) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2021_OHBM_Functional.bib)
 
 * Y. Liu, **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Brain network decomposition for naturalistic stimulus paradigm",  
-*27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2021_OHBM_Brain.bib)
+*27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021. (Virtual) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2021_OHBM_Brain.bib)
+
+* **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. L. Edlow,  
+"Mapping subcortical functional connectome of the default mode network for targeted neuromodulation",  
+*27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021. (Virtual) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_OHBM_Mapping.bib)
 
 ### 2020
 
 * R. Setton, L. Mwilambwe-Tshilobo, G. Baracchini, M. Girn, A. Lockrow, P. Kundu, **J. Li**, T. Ge, R. M. Leahy, G. Turner, N. Spreng,  
 "ME-fMRI connectivity associations with behavior using group and individualized parcellation schemes",  
-*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2020_OHBM_Me.bib)
+*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020. (Virtual) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2020_OHBM_Me.bib)
 
 * A. A. Joshi, S. Choi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A novel approach for group fMRI studies using BrainSync transform and pair-wise statistics",  
-*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2020_OHBM_Novel.bib)
+*26th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jun. 2020. (Virtual) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2020_OHBM_Novel.bib)
 
 ### 2019
 

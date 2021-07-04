@@ -2,8 +2,8 @@
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Robust brain network identification from multi-subject asynchronous fMRI data",  
-*NeuroImage*, vol. 227, p. 117615, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_NeuroImage_Robust.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_NeuroImage_Robust.pdf){:target="Li_2020_NeuroImage_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2020_NeuroImage_Robust-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2020_NeuroImage_Robust"}  
+*NeuroImage*, vol. 227, p. 117615, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Robust.pdf){:target="Li_2021_NeuroImage_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2021_NeuroImage_Robust-CODE"}  
+[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2021_NeuroImage_Robust"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
