@@ -4,5 +4,8 @@
 
 @charset "utf-8";
 
+$link-color: #00148C;
+$link-color-hover: #8C7800;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

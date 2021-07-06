@@ -23,5 +23,17 @@
         {{ author.bio }}
       </p>
     {% endif %}
+    {% if author.google_scholar %}
+      <a href="https://scholar.google.com/citations?hl=en&user={{ author.google_scholar }}" target="_blank"><i class="ai ai-google-scholar-square"></i></a>&nbsp;
+    {% endif %}
+    {% if author.github %}
+      <a href="https://github.com/{{ author.github }}" target="_blank"><i class="fa fa-github"></i></a>&nbsp;
+    {% endif %}
+    {% if author.twitter %}    
+      <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;
+    {% endif %}
+    {% if author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a>&nbsp;
+    {% endif %}
   </div>
 </div>
