@@ -30,6 +30,7 @@ I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://ww
 
 ## News
 
+- 2021/11: ["Mapping the subcortical connectivity of the human default mode network"](https://doi.org/10.1016/j.neuroimage.2021.118758){:target="_blank"} is now published at *NeuroImage*
 - 2021/07: Check out our recent BioRxiv preprint ["Mapping the subcortical connectivity of the human default mode network"](https://www.biorxiv.org/content/10.1101/2021.07.13.452265v1){:target="_blank"}. See the video displaying the full subcortical map @ [<i class="fa fa-twitter"></i>](https://twitter.com/ComaRecoveryLab/status/1415396742170693633?s=20){:target="_blank"}
  
 - 2021/06: Chat with us in *OHBM* 2021. Our abstract ["Mapping subcortical functional connectome of the default mode network for targeted neuromodulation"](https://ohbm.sparklespace.net/srh-2650/){:target="_blank"} has been selected as one of Poster Highlights.
