@@ -2,7 +2,7 @@
 
 * **J. Li**, Y. Liu, J. L. Wisnowski, R. M. Leahy,  
 "The intrinsic spatiotemporal organization of the human brain - A multi-dimensional functional network atlas",  
-*bioRxiv*, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_bioRxiv_Intrinsic.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.biorxiv.org/content/10.1101/2021.12.09.472035v1.full.pdf){:target="Li_2021_bioRxiv_Intrinsic-PDF"}  
+*bioRxiv*, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_bioRxiv_Intrinsic.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.biorxiv.org/content/10.1101/2021.12.09.472035v2.full.pdf){:target="Li_2021_bioRxiv_Intrinsic-PDF"}  
 [https://doi.org/10.1101/2021.12.09.472035](https://doi.org/10.1101/2021.12.09.472035){:target="Li_2021_bioRxiv_Intrinsic"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
