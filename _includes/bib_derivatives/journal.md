@@ -1,5 +1,16 @@
 ### 2021
 
+* H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  
+"A robust variational autoencoder using beta divergence",  
+*Knowledge-Based Systems*, , p. 107886, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
+[https://doi.org/10.1016/j.knosys.2021.107886](https://doi.org/10.1016/j.knosys.2021.107886){:target="Akrami_2021_KnowlbasedSyst_Robust"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      The presence of outliers can severely degrade learned representations and performance of deep learning methods and hence disproportionately affect the training process, leading to incorrect conclusions about the data. For example, anomaly detection using deep generative models is typically only possible when similar anomalies (or outliers) are not present in the training data. Here we focus on variational autoencoders (VAEs). While the VAE is a popular framework for anomaly detection tasks, we observe that the VAE is unable to detect outliers when the training data contains anomalies that have the same distribution as those in test data. In this paper we focus on robustness to outliers in training data in VAE settings using concepts from robust statistics. We propose a variational lower bound that leads to a robust VAE model that has the same computational complexity as the standard VAE and contains a single automatically-adjusted tuning parameter to control the degree of robustness. We present mathematical formulations for robust variational autoencoders (RVAEs) for Bernoulli, Gaussian and categorical variables. The RVAE model is based on beta-divergence rather than the standard Kullback–Leibler (KL) divergence. We demonstrate the performance of our proposed beta-divergence based autoencoder for a variety of image and categorical datasets showing improved robustness to outliers both qualitatively and quantitatively. We also illustrate the use of our robust VAE for detection of lesions in brain images, formulated as an anomaly detection task. Finally, we suggest a method to tune the hyperparameter of RVAE which makes our model completely unsupervised.
+      </p>
+  </details>
+
 * **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow,  
 "Mapping the subcortical connectivity of the human default mode network",  
 *NeuroImage*, vol. 245, p. 118758, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Mapping.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Mapping.pdf){:target="Li_2021_NeuroImage_Mapping-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://github.com/ComaRecoveryLab/Subcortical_DMN_Functional_Connectivity){:target="Li_2021_NeuroImage_Mapping-CODE"}  
