@@ -53,4 +53,4 @@ Here is a list of technical blogs I wrote occasionally or I found (maybe was) us
 Here is a list of "things" I created/modified/edited/customized to facilitate my own work. They may be also useful for others, so feel free to pick things you need.
 
 * [Revised style file for USC thesis/dissertation](/files/USC_thesis/USC_thesis.sty) and a [minimal working example (MWE)](/files/USC_thesis/main.tex) to start with.  
-* [Customized CSL (citation style language) file for NIH proposal with PMCID/PMID field included](/files/csl/NIH_Proposal.csl).
+* Customized CSL (citation style language) file for NIH proposal with PMCID/PMID field included: The [Author-Date](NIH_Proposal_Author-Date.csl) format for easy reference in writing and the (superscripted) [Numeric](NIH_Proposal_Number.csl) format for space saving in the final product.

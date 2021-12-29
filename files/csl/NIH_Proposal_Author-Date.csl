@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
   <info>
-    <title>NIH Proposal with PMCID/PMID (Andrew)</title>
-    <id>https://silencer1127.github.io/files/csl/NIH_Proposal.csl</id>
-    <link href="https://silencer1127.github.io/files/csl/NIH_Proposal.csl" rel="self"/>
+    <title>NIH Proposal with PMCID/PMID (Author-Date)</title>
+    <id>https://silencer1127.github.io/files/csl/NIH_Proposal_Author-Date.csl</id>
+    <link href="https://silencer1127.github.io/files/csl/NIH_Proposal_Author-Date.csl" rel="self"/>
     <link href="http://www.zotero.org/styles/elsevier-harvard" rel="template"/>
     <link href="http://publicaccess.nih.gov/citation_methods.htm" rel="documentation"/>
     <link href="http://grants.nih.gov/grants/funding/424/SF424_RR_Guide_General_Adobe_VerC.pdf" rel="documentation"/>
@@ -31,7 +31,7 @@
     <category citation-format="author-date"/>
     <category field="medicine"/>
     <category field="engineering"/>
-    <updated>2019-12-25T19:11:27+00:00</updated>
+    <updated>2021-12-24T14:47:27+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="container">
