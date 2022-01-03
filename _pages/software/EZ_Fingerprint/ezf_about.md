@@ -9,7 +9,8 @@ date: 2018-04-12
 
 # About
 
-<br/>Epileptogenic Zone Fingerprint is a collaborative project between the [Biomedical Imaging Group](http://neuroimage.usc.edu){:target="biglab"} at the [University of Southern California](http://www.usc.edu){:target="usc"}, Los Angeles, CA and the [Epilepsy Center](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy){:target="epilepsy_center"} at the [Cleveland Clinic](https://my.clevelandclinic.org/){:target="cleveland"}, Cleveland, OH.
+<br/>Epileptogenic Zone Fingerprint is a collaborative project between the [Biomedical Imaging Group](http://neuroimage.usc.edu){:target="biglab"} at the [University of Southern California](http://www.usc.edu){:target="usc"}, Los Angeles, CA, and the [Epilepsy Center](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy){:target="ec_ccf"} at the [Cleveland Clinic](https://my.clevelandclinic.org/){:target="cleveland"}, Cleveland, OH.
+
 
 ## Principal Investigators
 
@@ -27,10 +28,10 @@ Cleveland Clinic, Cleveland, OH
 
 ## Key Collaborators
 
-[Patrick Chauvel](https://my.clevelandclinic.org/staff/18110-patrick-chauvel){:target="chauvel"}, M.D.  
+[Patrick Chauvel](https://www.neurology.pitt.edu/people/patrick-y-chauvel-md){:target="chauvel"}, M.D.  
 [Olesya Grinenko](https://scholar.google.com/citations?user=CgeALY0AAAAJ&hl=en){:target="grinenko"}, M.D. Ph.D.  
-[Jorge A. Gonzalez-Martinez](https://my.clevelandclinic.org/staff/9151-jorge-alvaro-gonzalez-martinez){:target="gonzalez"}, M.D. Ph.D.  
-[Zhong (Irene) Wang](https://sites.google.com/view/linne/faculty){:target="wang"}, Ph.D.  
+[Jorge A. Gonzalez-Martinez](https://www.neurosurgery.pitt.edu/people/jorge-gonzalez-martinez){:target="gonzalez"}, M.D. Ph.D.  
+[Zhong (Irene) Wang](https://www.lerner.ccf.org/bme/wang){:target="wang"}, Ph.D.  
 [Juan Bulacio](https://my.clevelandclinic.org/staff/9290-juan-bulacio){:target="bulacio"}, M.D.  
 [Imad Najm](https://my.clevelandclinic.org/staff/2465-imad-najm){:target="najm"}, M.D.
 

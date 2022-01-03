@@ -18,11 +18,11 @@ Tensor decompositions is a generalization of matrix decompostions in three or hi
 
 This page provides a MATLAB implementation of NASCAR described in
 
-J. Li, J. L. Wisnowski, A. A. Joshi, R. M. Leahy, "Robust brain network identification from multi-subject asynchronous fMRI data", *NeuroImage*, vol. 227, p. 117615, 2021. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib)  
-https://doi.org/10.1016/j.neuroimage.2020.117615
+J. Li, Y. Liu, J. L. Wisnowski, R. M. Leahy, "The intrinsic spatiotemporal organization of the human brain - A multi-dimensional functional network atlas", *bioRxiv*, 2021. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_bioRxiv_Intrinsic.bib)
 
-J. Li, J. L. Wisnowski, A. A. Joshi, R. M. Leahy, "Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition", *Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164–172. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib)  
-https://doi.org/10.1117/12.2512684
+J. Li, J. L. Wisnowski, A. A. Joshi, R. M. Leahy, "Robust brain network identification from multi-subject asynchronous fMRI data", *NeuroImage*, vol. 227, p. 117615, 2021. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib)
+
+J. Li, J. L. Wisnowski, A. A. Joshi, R. M. Leahy, "Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition", *Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164–172. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib)
 
 Please cite the papers above in your publications if you have used NASCAR in your research.
 

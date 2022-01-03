@@ -14,12 +14,9 @@ Global PDF-based non-local means filter (GPDF) is a data-driven approach for fil
 
 This page provides a MATLAB implementation of the GPDF filter described in
 
-J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI", *Medical Image Analysis*, vol. 61, p. 101635, 2020. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_MedImageAnal_Temporal.bib)  
-https://doi.org/10.1016/j.media.2020.101635
+J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI", *Medical Image Analysis*, vol. 61, p. 101635, 2020. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_MedImageAnal_Temporal.bib)
 
-
-J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity", *IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2018_ISBI_Global.bib)  
-https://doi.org/10.1109/ISBI.2018.8363513
+J. Li, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy, "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity", *IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2018_ISBI_Global.bib)
 
 Please cite the papers above in your publications if you have used the GPDF filter in your research.
 
