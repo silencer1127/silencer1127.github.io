@@ -2,7 +2,7 @@
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  
 "A robust variational autoencoder using beta divergence",  
-*Knowledge-Based Systems*, , p. 107886, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
+*Knowledge-Based Systems*, vol. 238, p. 107886, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
 [https://doi.org/10.1016/j.knosys.2021.107886](https://doi.org/10.1016/j.knosys.2021.107886){:target="Akrami_2021_KnowlbasedSyst_Robust"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>

@@ -11,7 +11,7 @@ date: 2021-07-06
 
 <i class="fa fa-quote-right"></i> &nbsp; bib &nbsp;&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i> &nbsp; PDF &nbsp;&nbsp;&nbsp; <i class="fa fa-code"></i> &nbsp; open source code / software &nbsp;&nbsp;&nbsp; <i class="fa fa-video-camera"></i> &nbsp; video abstract
 
-<span style="font-size:1em;">Co-first authors with equal contribution are marked with a "&dagger;".</span>
+<span style="font-size:1em;">&dagger; co-first authors; &nbsp;&nbsp;&nbsp; &Dagger; co-senior authors.</span>
 
 ## Pre-prints
 
@@ -24,10 +24,6 @@ date: 2021-07-06
 ## Conference Proceedings
 
 {% include bib_derivatives/conference.md %}
-
-## Abstracts
-
-{% include bib_derivatives/abstract.md %}
 
 ## Thesis/Dissertation
 
