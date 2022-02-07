@@ -27,7 +27,7 @@
 ### 2011: Bachelor of Engineering in Electronic and Information Engineering
 
 * **J. Li**,  
-"Spatio-temporal correlation-based near-duplicate video detection",  
+"Spatiotemporal correlation-based near-duplicate video detection",  
 *Beijing University of Technology*, Beijing, China, Jun. 2011.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2011_BJUT_Spatio.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>

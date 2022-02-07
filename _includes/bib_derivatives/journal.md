@@ -1,5 +1,9 @@
 ### 2021
 
+* R. Setton<sup>&dagger;</sup>, L. Mwilambwe-Tshilobo<sup>&dagger;</sup>, M. Girn, A. W. Lockrow, G. Baracchini, A. J. Lowe, B. N. Cassidy, **J. Li**, R. M. Leahy, T. Ge, D. S. Margulies, B. Misic, B. C. Bernhardt, W. D. Stevens, F. De Brigard, P. Kundu, G. R. Turner, R. N. Spreng,  
+"Age differences in the functional architecture of the human brain",  
+*Cerebral Cortex*, 2021. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2021_CerebCortex_Age.bib)
+
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  
 "A robust variational autoencoder using beta divergence",  
 *Knowledge-Based Systems*, vol. 238, p. 107886, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
