@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 category: "main"
-permalink: /pub/
+permalink: /pub_archive/
 layout: single
 author_profile: true
 date: 2022-02-07
@@ -13,22 +13,6 @@ date: 2022-02-07
 
 <span style="font-size:1em;">&dagger; co-first authors; &nbsp;&nbsp;&nbsp; &Dagger; co-senior authors.</span>
 
-## Pre-prints
+## Conference Abstracts
 
-{% include bib_derivatives/preprint.md %}
-
-## Journal Publications
-
-{% include bib_derivatives/journal.md %}
-
-## Conference Proceedings
-
-{% include bib_derivatives/conference.md %}
-
-## Thesis/Dissertation
-
-{% include bib_derivatives/thesis.md %}
-
-## Others
-
-All other publications including non-peer-reviewed conference abstracts and technical reports can be found in this [archive](/pub_archive) page
+{% include bib_derivatives/abstract.md %}
