@@ -4,7 +4,7 @@ category: "main"
 permalink: /software/
 layout: single
 author_profile: true
-date: 2021-07-06
+date: 2022-01-27
 ---
 
 > 2022/01/27:
@@ -24,3 +24,7 @@ Implementations of many algorithms or methods we have published will be provided
 * [Epileptogenic Zone Fingerprint (EZF)](/software/EZ_Fingerprint/ezf_main){:target="software_ezf"}
 
 * [BrainSync](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="software_brainsync"}
+
+<br/><br/><br/><br/>
+
+<span style="font-size:14px">All software and packages above can be obtained and used free of charge under their open source licenses. However, I have been providing the downloading service for years out of my pocket. If you think any of these useful, you may consider [buying me some coffee](https://www.paypal.com/donate/?hosted_button_id=QVZAYC9LH9TXN){:target="donation"} to partially defray the cost of server hosting, including but not limited to hardware purchase/upgrading, DNS subscription, etc.</span>
