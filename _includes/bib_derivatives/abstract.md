@@ -1,3 +1,17 @@
+### 2022
+
+* M. Daneshzand, A. Nummenmaa, **J. Li**, L. Vendramini, J. Stockmann, T. Chou, D. Dougherty, B. Edlow, B. Guerin,  
+"Simulation and visualization tool for subject-specific tFUS neuronavigation",  
+*21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib)
+
+* **J. Li**, M. K. Cambareri, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow,  
+"Towards clinical translation of default mode subcortical targeting fort herapeutic neuromodulation",  
+*28th Annual Meeting of the Organization for Human Brain Mapping*, Glasgow, Scotland, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2022_OHBM_Towards.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2022_OHBM_Towards.pdf){:target="Li_2022_OHBM_Towards-PDF"}
+
+* M. K. Cambareri, **J. Li**, L. D. Lewis, B. L. Edlow,  
+"Exploration of subcortical functional connectivity for therapeutic neuromodulation targeting",  
+*28th Annual Meeting of the Organization for Human Brain Mapping*, Glasgow, Scotland, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2022_OHBM_Exploration.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cambareri_2022_OHBM_Exploration.pdf){:target="Cambareri_2022_OHBM_Exploration-PDF"}
+
 ### 2021
 
 * B. Guerin, M. Daneshzand, J. Stockmann, **J. Li**, B. L. Edlow, D. D. Dougherty, A. Nummenma,  
@@ -21,6 +35,10 @@
 *27th Annual Meeting of the Organization for Human Brain Mapping*, Seoul, Korea, Jun. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_OHBM_Mapping.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_OHBM_Mapping.pdf){:target="Li_2021_OHBM_Mapping-PDF"}
 
 ### 2020
+
+* H. Shaker, **J. Li**, M. Kobayashi, J. Bulacio, I. Najm, P. Chauvel,  
+"Functional significance of epileptogenic fast activity: A study of motor cortex seizures",  
+*74rd Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)
 
 * R. Setton, L. Mwilambwe-Tshilobo, G. Baracchini, M. Girn, A. Lockrow, P. Kundu, **J. Li**, T. Ge, R. M. Leahy, G. Turner, N. Spreng,  
 "ME-fMRI connectivity associations with behavior using group and individualized parcellation schemes",  

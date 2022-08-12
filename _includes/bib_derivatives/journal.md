@@ -1,16 +1,3 @@
-### 2022
-
-* R. Setton<sup>&dagger;</sup>, L. Mwilambwe-Tshilobo<sup>&dagger;</sup>, M. Girn, A. W. Lockrow, G. Baracchini, A. J. Lowe, B. N. Cassidy, **J. Li**, R. M. Leahy, T. Ge, D. S. Margulies, B. Misic, B. C. Bernhardt, W. D. Stevens, F. De Brigard, P. Kundu, G. R. Turner, R. N. Spreng,  
-"Age differences in the functional architecture of the human brain",  
-*Cerebral Cortex*, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"}  
-[https://doi.org/10.1093/cercor/bhac056](https://doi.org/10.1093/cercor/bhac056){:target="Setton_2022_CerebCortex_Age"}  
-  <details>
-    <summary style="font-size:16px">Abstract</summary>
-      <p style="margin-left: 20px; text-align: justify; font-size:16px">
-      The intrinsic functional organization of the brain changes into older adulthood. Age differences are observed at multiple spatial scales, from global reductions in modularity and segregation of distributed brain systems, to network-specific patterns of dedifferentiation. Whether dedifferentiation reflects an inevitable, global shift in brain function with age, circumscribed, experience-dependent changes, or both, is uncertain. We employed a multimethod strategy to interrogate dedifferentiation at multiple spatial scales. Multi-echo (ME) resting-state fMRI was collected in younger (n=181) and older (n=120) healthy adults. Cortical parcellation sensitive to individual variation was implemented for precision functional mapping of each participant while preserving group-level parcel and network labels. ME-fMRI processing and gradient mapping identified global and macroscale network differences. Multivariate functional connectivity methods tested for microscale, edge-level differences. Older adults had lower BOLD signal dimensionality, consistent with global network dedifferentiation. Gradients were largely age-invariant. Edge-level analyses revealed discrete, network-specific dedifferentiation patterns in older adults. Visual and somatosensory regions were more integrated within the functional connectome; default and frontoparietal control network regions showed greater connectivity; and the dorsal attention network was more integrated with heteromodal regions. These findings highlight the importance of multiscale, multimethod approaches to characterize the architecture of functional brain aging.
-      </p>
-  </details>
-
 ### 2021
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  
