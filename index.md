@@ -30,6 +30,10 @@ I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://ww
 
 ## News
 
+- 2022/10: Congrats to Lars for his publication ["Reduced subgenual cingulatedorsolateral prefrontal connectivity as an electrophysiological marker for depression"](https://doi.org/10.1038/s41598-022-20274-9){:target="_blank"} on *Scientific Report*!
+
+- 2022/03: Congrats to Roni for the work on ["Age differences in the functional architecture of the human brain"](https://doi.org/10.1093/cercor/bhac056){:target="_blank"} now published at *Cerebral Cortex*!
+
 - 2021/12: Check out our preprint for a spatiotemporal functional atlas ["The intrinsic spatiotemporal organization of the human brain - A multi-dimensional functional network atlas"](https://doi.org/10.1101/2021.12.09.472035){:target="_blank"}
 
 - 2021/12: ["A robust variational autoencoder using beta divergence"](https://doi.org/10.1016/j.knosys.2021.107886){:target="_blank"} led by Haleh Akrami has been accepted by *Knowledge-Based Systems*.
