@@ -1,3 +1,27 @@
+### 2022
+
+* L. Benschop, G. Vanhollebeke, **J. Li**, M. Vanderhasselt, R. M. Leahy, C. Baeken,  
+"Reduced subgenual cingulate–dorsolateral prefrontal connectivity as an electrophysiological marker for depression",  
+*Scientific Report*, vol. 12, no. 1, p. 16903, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Benschop_2022_SciRep_Reduced.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Benschop_2022_SciRep_Reduced.pdf){:target="Benschop_2022_SciRep_Reduced-PDF"}  
+[https://doi.org/10.1038/s41598-022-20274-9](https://doi.org/10.1038/s41598-022-20274-9){:target="Benschop_2022_SciRep_Reduced"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Major Depressive Disorder (MDD) is a widespread mental illness that causes considerable suffering, and neuroimaging studies are trying to reduce this burden by developing biomarkers that can facilitate detection. Prior fMRI- and neurostimulation studies suggest that aberrant subgenual Anterior Cingulate (sgACC)—dorsolateral Prefrontal Cortex (DLPFC) functional connectivity is consistently present within MDD. Combining the need for reliable depression markers with the electroencephalogram’s (EEG) high clinical utility, we investigated whether aberrant EEG sgACC–DLPFC functional connectivity could serve as a marker for depression. Source-space Amplitude Envelope Correlations (AEC) of 20 MDD patients and 20 matched controls were contrasted using non-parametric permutation tests. In addition, extracted AEC values were used to (a) correlate with characteristics of depression and (b) train a Support Vector Machine (SVM) to determine sgACC–DLPFC connectivity’s discriminative power. FDR-thresholded statistical maps showed reduced sgACC–DLPFC AEC connectivity in MDD patients relative to controls. This diminished AEC connectivity is located in the beta-1 (13–17 Hz) band and is associated with patients’ lifetime number of depressive episodes. Using extracted sgACC–DLPFC AEC values, the SVM achieved a classification accuracy of 84.6% (80% sensitivity and 89.5% specificity) indicating that EEG sgACC–DLPFC connectivity has promise as a biomarker for MDD.
+      </p>
+  </details>
+
+* R. Setton<sup>&dagger;</sup>, L. Mwilambwe-Tshilobo<sup>&dagger;</sup>, M. Girn, A. W. Lockrow, G. Baracchini, A. J. Lowe, B. N. Cassidy, **J. Li**, R. M. Leahy, T. Ge, D. S. Margulies, B. Misic, B. C. Bernhardt, W. D. Stevens, F. De Brigard, P. Kundu, G. R. Turner, R. N. Spreng,  
+"Age differences in the functional architecture of the human brain",  
+*Cerebral Cortex*, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"}  
+[https://doi.org/10.1093/cercor/bhac056](https://doi.org/10.1093/cercor/bhac056){:target="Setton_2022_CerebCortex_Age"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      The intrinsic functional organization of the brain changes into older adulthood. Age differences are observed at multiple spatial scales, from global reductions in modularity and segregation of distributed brain systems, to network-specific patterns of dedifferentiation. Whether dedifferentiation reflects an inevitable, global shift in brain function with age, circumscribed, experience-dependent changes, or both, is uncertain. We employed a multimethod strategy to interrogate dedifferentiation at multiple spatial scales. Multi-echo (ME) resting-state fMRI was collected in younger (n=181) and older (n=120) healthy adults. Cortical parcellation sensitive to individual variation was implemented for precision functional mapping of each participant while preserving group-level parcel and network labels. ME-fMRI processing and gradient mapping identified global and macroscale network differences. Multivariate functional connectivity methods tested for microscale, edge-level differences. Older adults had lower BOLD signal dimensionality, consistent with global network dedifferentiation. Gradients were largely age-invariant. Edge-level analyses revealed discrete, network-specific dedifferentiation patterns in older adults. Visual and somatosensory regions were more integrated within the functional connectome; default and frontoparietal control network regions showed greater connectivity; and the dorsal attention network was more integrated with heteromodal regions. These findings highlight the importance of multiscale, multimethod approaches to characterize the architecture of functional brain aging.
+      </p>
+  </details>
+
 ### 2021
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  

@@ -2,7 +2,13 @@
 
 * M. Daneshzand, A. Nummenmaa, **J. Li**, L. Vendramini, J. Stockmann, T. Chou, D. Dougherty, B. Edlow, B. Guerin,  
 "Simulation and visualization tool for subject-specific tFUS neuronavigation",  
-*21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib)
+*21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Objectives: To provide an open-source, user-friendly MATLAB-based application for simulation and planning of transcranial Focused Ultrasound (tFUS) human studies as well as real-time tFUS neuronavigation. Methods: We use mSOUND, a fast angular spectrum method that models nonlinear ultrasound propagation in heterogeneous media (e.g., skull). The pipeline consists of 1) generation of a pseudo-CT image from a T1w-MRI image; 2) computation of tFUS acoustic beams of the transducer at hundreds of locations on the scalp; 3) a tool for visualization of the beams at the modeled transducer locations, and 4) real-time neuronavigation for visualization of the tFUS beam when moving the transducer. Results: Pre-processing steps 1) and 2) take ~12 hours for simulation of a 650kHz focused transducer at ~1000 locations on the subject’ scalp with mSOUND. For each beam solution, 3D rendered surfaces of the intensity distribution are saved, along with the average acoustic energy deposition for various deep brain nuclei, evaluated using FreeSurfer. These data are accessed for rapid visualization of different beam solutions for tFUS planning (step 3) and real-time neuronavigation (step 4). Using a navigation system with optical tracking, TMS Navigator (Localite, Germany), an overall frame rate of 2 Hz for MATLAB-based beam calculations and visualization was achieved. Conclusions: The proposed tool allows subject-specific, simulation-based planning and real-time visualization of the acoustic beam created by curved ultrasound transducers at hundreds of locations on the scalp. We are currently evaluating the impact of skull-induced beam deformations on tFUS navigation compared to line of sight targeting approach.
+      </p>
+  </details>
 
 * **J. Li**, M. K. Cambareri, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow,  
 "Towards clinical translation of default mode subcortical targeting fort herapeutic neuromodulation",  
@@ -38,7 +44,18 @@
 
 * H. Shaker, **J. Li**, M. Kobayashi, J. Bulacio, I. Najm, P. Chauvel,  
 "Functional significance of epileptogenic fast activity: A study of motor cortex seizures",  
-*74rd Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)
+*74rd Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Rationale:
+High-frequency activities (HFAs) in human epilepsies have been subject to many studies for a decade. Most of them have been dedicated to interictal high-frequency oscillations (HFOs) with emphasis on their correlation with the epileptogenic zone localization. Few of them have addressed the question of HFAs as an ictal pattern and even less have analyzed their relation to clinical semiology. The present study has been designed to analyze the electrophysiological effect of a narrow-band fast activity onto the efferent volleys of the motor cortex during locally generated epileptic seizures.
+Method:
+High-frequency activities (HFAs) in human epilepsies have been subject to many studies for a decade. Most of them have been dedicated to interictal high-frequency oscillations (HFOs) with emphasis on their correlation with the epileptogenic zone localization. Few of them have addressed the question of HFAs as an ictal pattern and even less have analyzed their relation to clinical semiology. The present study has been designed to analyze the electrophysiological effect of a narrow-band fast activity onto the efferent volleys of the motor cortex during locally generated epileptic seizures. Results5 patients (3 male and 2 females, mean age 22.4 years old) with 157 analyzable seizures fulfilled the selection criteria. Patient #1 did not present any clinical motor signs during HFA. The first motor sign corresponded to the onset of beta rhythm sustained activity (< 30 Hz). The same was observed in patient #2: the earliest clonic movement occurred simultaneously with a subsequent beta activity. Patient #3 was a child who was crying due to inability to move her left hand in the beginning of her seizures.  Her arm was actually atonic as long as the motor cortex discharge kept in HFA range. Clonic movements appeared in the same arm when HFA vanished and alpha/beta activity emerged. Patient #4 presented with multiple clusters of brief atonic and tonic facial motor signs. Two distinct frequency patterns correlated with the two states. A high-gamma activity was associated to the atonic facial seizures and a beta/low gamma activity to the facial tonic seizures. An ictal rhythm of low gamma/beta activity (18-35 Hz) without any HFA correlated with tonic left arm and shoulder motor signs in patient #5. A quantitative analysis using time-frequency plots confirmed an epileptogenic zone fingerprint in all patients. Latency of motor sign onset with respect to the onset and duration of fast activity was analyzed. A significant correlation ( with an uncorrected p-value of ) between the two measures was observed, indicating that the longer the HFA the longer the latency of motor signs.
+Conclusion:
+Epileptogenic frequency patterns have a pathophysiological significance. This study on primary motor cortex seizures allowed a direct measure of the cortical output. HFAs were showed to have an opposite functional effect according to their frequency range. High gamma fast activity was associated with an inhibition of the motor cortex output. Tonic ictal discharges in the beta/low gamma range were the frequency pattern associated with tonic motor signs.
+      </p>
+  </details>
 
 * R. Setton, L. Mwilambwe-Tshilobo, G. Baracchini, M. Girn, A. Lockrow, P. Kundu, **J. Li**, T. Ge, R. M. Leahy, G. Turner, N. Spreng,  
 "ME-fMRI connectivity associations with behavior using group and individualized parcellation schemes",  
