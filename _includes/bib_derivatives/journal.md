@@ -1,3 +1,26 @@
+### 2023
+
+* B. L. Edlow, M. Fecchio, Y. G. Bodien, A. Comanducci, M. Rosanova, S. Casarotto, M. J. Young, **J. Li**, D. D. Dougherty, C. Koch, G. Tononi, M. Massimini, M. Boly,  
+"Measuring consciousness in the intensive care unit",  
+*Neurocritical Care*, 2023. (In press)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Early reemergence of consciousness predicts long-term functional recovery for patients with severe brain injuries. However, tools to reliably detect consciousness in the intensive care unit (ICU) are lacking. Transcranial magnetic stimulation-electroencephalography has the potential to detect consciousness in the ICU, predict recovery, and prevent premature withdrawal of life-sustaining therapy.
+      </p>
+  </details>
+
+* **J. Li**, Y. Liu, J. L. Wisnowski<sup>&Dagger;</sup>, R. M. Leahy<sup>&Dagger;</sup>,  
+"Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain",  
+*NeuroImage*, 2023. (In press)  
+[https://doi.org/10.1016/j.neuroimage.2023.119944](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="Li_2023_NeuroImage_Identification"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      The human brain is a complex network that exhibits dynamic fluctuations in activity across space and time. Depending on the analysis method, canonical brain networks identified from resting-state fMRI (rs-fMRI) are typically constrained to be either orthogonal or statistically independent in their spatial and/or temporal domains. We avoid imposing these potentially unnatural constraints through the combination of a temporal synchronization process ("BrainSync") and a three-way tensor decomposition method ("NASCAR") to jointly analyze rs-fMRI data from multiple subjects. The resulting set of interacting networks comprises minimally constrained spatiotemporal distributions, each representing one component of functionally coherent activity across the brain. We show that these networks can be clustered into six distinct functional categories and naturally form a representative functional network atlas for a healthy population. This functional network atlas could help explore group and individual differences in neurocognitive function, as we demonstrate in the context of ADHD and IQ prediction.
+      </p>
+  </details>
+
 ### 2022
 
 * L. Benschop, G. Vanhollebeke, **J. Li**, M. Vanderhasselt, R. M. Leahy, C. Baeken,  

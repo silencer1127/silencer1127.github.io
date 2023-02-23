@@ -1,5 +1,13 @@
 ### 2022
 
+* Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
+"Functional parcellation of the cerebral cortex based on brain network identification using resting-state fMRI",  
+*51st Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2022_Neuroscience_Functional.bib)
+
+* O. Grinenko<sup>&dagger;</sup>, T. Aung<sup>&dagger;</sup>, **J. Li**, J. C. Mosher, P. Chauvel, J. Gonzalez-Martinez,  
+"Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological biomarker and seizure outcome",  
+*76th Annual Meeting of the American Epilepsy Society*, Nashville, TN, Dec. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2022_AES_Stereo.bib)
+
 * M. Daneshzand, A. Nummenmaa, **J. Li**, L. Vendramini, J. Stockmann, T. Chou, D. Dougherty, B. Edlow, B. Guerin,  
 "Simulation and visualization tool for subject-specific tFUS neuronavigation",  
 *21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib)  

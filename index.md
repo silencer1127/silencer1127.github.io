@@ -30,12 +30,14 @@ I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://ww
 
 ## News
 
-- 2022/10: Congrats to Lars for his publication ["Reduced subgenual cingulatedorsolateral prefrontal connectivity as an electrophysiological marker for depression"](https://doi.org/10.1038/s41598-022-20274-9){:target="_blank"} on *Scientific Report*!
+- 2023/02: Our work ["Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain"](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="_blank"} is now published in *NeuroImage*.
 
-- 2022/03: Congrats to Roni for the work on ["Age differences in the functional architecture of the human brain"](https://doi.org/10.1093/cercor/bhac056){:target="_blank"} now published at *Cerebral Cortex*!
+- 2022/10: Congrats to Lars for his publication ["Reduced subgenual cingulatedorsolateral prefrontal connectivity as an electrophysiological marker for depression"](https://doi.org/10.1038/s41598-022-20274-9){:target="_blank"} in *Scientific Report*!
+
+- 2022/03: Congrats to Roni for the work on ["Age differences in the functional architecture of the human brain"](https://doi.org/10.1093/cercor/bhac056){:target="_blank"} now published in *Cerebral Cortex*!
 
 - 2021/12: Check out our preprint for a spatiotemporal functional atlas ["The intrinsic spatiotemporal organization of the human brain - A multi-dimensional functional network atlas"](https://doi.org/10.1101/2021.12.09.472035){:target="_blank"}
 
 - 2021/12: ["A robust variational autoencoder using beta divergence"](https://doi.org/10.1016/j.knosys.2021.107886){:target="_blank"} led by Haleh Akrami has been accepted by *Knowledge-Based Systems*.
 
-- 2021/11: ["Mapping the subcortical connectivity of the human default mode network"](https://doi.org/10.1016/j.neuroimage.2021.118758){:target="_blank"} is now published at *NeuroImage*. Here is a [movie](https://www.youtube.com/watch?v=KAqgkecEuVs){:target="_blank"} displaying the full subcortical map and a recorded [talk](https://www.youtube.com/watch?v=i8VJe81xs7w){:target="_blank"} as one of Poster Highlights at OHBM 2021 regarding this topic.
+- 2021/11: ["Mapping the subcortical connectivity of the human default mode network"](https://doi.org/10.1016/j.neuroimage.2021.118758){:target="_blank"} is now published in *NeuroImage*. Here is a [movie](https://www.youtube.com/watch?v=KAqgkecEuVs){:target="_blank"} displaying the full subcortical map and a recorded [talk](https://www.youtube.com/watch?v=i8VJe81xs7w){:target="_blank"} as one of Poster Highlights at OHBM 2021 regarding this topic.
