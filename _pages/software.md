@@ -4,14 +4,11 @@ category: "main"
 permalink: /software/
 layout: single
 author_profile: true
-date: 2023-02-12
+date: 2023-03-01
 ---
 
-> 2023/02/12:
-> A scheduled maintainance will begin at the end of Feb. 15 and it should be completed by Feb. 19. The downloading service will not be available during the maintainance. Thank you for your understanding.
-
-> 2022/01/27:
-> I am currently experiencing some stability issue with the server due to the age of the hardware. The downloading link for the software below may not work all the time. An upgrading plan is on my calendar but the expected date is still unknown due to the global shortage of manufacturing and shipping. In the meanwhile, if you have any issue here, please send me an email. Sorry for the inconvenience.
+> 2023/03/01:
+> Due to a hard drive failure, a computer upgrade and a hard drive replacement is scheduled starting on Mar. 2. The downloading service will not be available until the repairment is completed. In the meanwhile, if you would like to request any software or have any questions, please send me an email. Thank you for your understanding!
 
 Implementations of many algorithms or methods we have published will be provided here to promote [reproducibility](https://ieeexplore.ieee.org/document/4815541/){:target="reproducibility"} and productivity of brain research. Please see the details and links below.
 

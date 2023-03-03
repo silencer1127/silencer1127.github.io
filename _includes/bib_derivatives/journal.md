@@ -12,13 +12,14 @@
 
 * **J. Li**, Y. Liu, J. L. Wisnowski<sup>&Dagger;</sup>, R. M. Leahy<sup>&Dagger;</sup>,  
 "Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain",  
-*NeuroImage*, 2023. (In press)  
+*NeuroImage*, vol. 270, p. 119944, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_NeuroImage_Identification.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_NeuroImage_Identification.pdf){:target="Li_2023_NeuroImage_Identification-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2023_NeuroImage_Identification-CODE"}  
 [https://doi.org/10.1016/j.neuroimage.2023.119944](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="Li_2023_NeuroImage_Identification"}  
   <details>
-    <summary style="font-size:16px">Abstract</summary>
+    <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
       The human brain is a complex network that exhibits dynamic fluctuations in activity across space and time. Depending on the analysis method, canonical brain networks identified from resting-state fMRI (rs-fMRI) are typically constrained to be either orthogonal or statistically independent in their spatial and/or temporal domains. We avoid imposing these potentially unnatural constraints through the combination of a temporal synchronization process ("BrainSync") and a three-way tensor decomposition method ("NASCAR") to jointly analyze rs-fMRI data from multiple subjects. The resulting set of interacting networks comprises minimally constrained spatiotemporal distributions, each representing one component of functionally coherent activity across the brain. We show that these networks can be clustered into six distinct functional categories and naturally form a representative functional network atlas for a healthy population. This functional network atlas could help explore group and individual differences in neurocognitive function, as we demonstrate in the context of ADHD and IQ prediction.
       </p>
+      <div class ="responsive-video-container"><iframe src="https://www.youtube.com/embed/rQb6juWDmnI" width="560" height="315" frameborder="0" allowfullscreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
   </details>
 
 ### 2022
