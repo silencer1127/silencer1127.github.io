@@ -18,7 +18,7 @@ Tensor decompositions is a generalization of matrix decompostions in three or hi
 
 This page provides a MATLAB implementation of NASCAR described in
 
-J. Li, Y. Liu, J. L. Wisnowski, R. M. Leahy, "The intrinsic spatiotemporal organization of the human brain - A multi-dimensional functional network atlas", *bioRxiv*, 2021. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_bioRxiv_Intrinsic.bib)
+J. Li, Y. Liu, J. L. Wisnowski, R. M. Leahy, "Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain", *NeuroImage*, vol. 270, p. 119944, 2023. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_NeuroImage_Identification.bib)
 
 J. Li, J. L. Wisnowski, A. A. Joshi, R. M. Leahy, "Robust brain network identification from multi-subject asynchronous fMRI data", *NeuroImage*, vol. 227, p. 117615, 2021. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib)
 
