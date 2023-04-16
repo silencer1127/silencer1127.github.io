@@ -4,7 +4,7 @@ category: "main"
 permalink: /
 layout: single
 author_profile: false
-date: 2021-07-06
+date: 2023-04-15
 ---
 
 {% assign author = site.author %}
@@ -29,6 +29,8 @@ Massachusetts General Hospital, Harvard Medical School
 I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://www.nmr.mgh.harvard.edu/user/5499){:target="fischl"} in the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} at the Martinos Center and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} in the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"} at MGH, HMS. I received my Ph.D degree in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}, ECE, USC in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of biomedical data. Of particular recent interest, I'm focusing on the development of computational methods for analysis and inference of brain connectivity using data from a variety of spatiotemporal imaging modalities, such as stereotactic electro-encephalography (SEEG) and functional magnetic resonance imaging (fMRI).
 
 ## News
+
+- 2023/04: Congrats to Dr. Edlow and the team for the publication of ["Measuring consciousness in the intensive care unit"](https://doi.org/10.1007/s12028-023-01706-4){:target="_blank"} in *Neurocritical Care*!
 
 - 2023/02: Our work ["Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain"](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="_blank"} is now published in *NeuroImage*.
 

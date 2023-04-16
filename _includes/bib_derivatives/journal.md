@@ -2,7 +2,8 @@
 
 * B. L. Edlow, M. Fecchio, Y. G. Bodien, A. Comanducci, M. Rosanova, S. Casarotto, M. J. Young, **J. Li**, D. D. Dougherty, C. Koch, G. Tononi, M. Massimini, M. Boly,  
 "Measuring consciousness in the intensive care unit",  
-*Neurocritical Care*, 2023. (In press)  
+*Neurocritical Care*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"}  
+[https://doi.org/10.1007/s12028-023-01706-4](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
