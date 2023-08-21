@@ -30,6 +30,8 @@ I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://ww
 
 ## News
 
+- 2023/08: Congratulations to Thandar and Olesya for the work ["Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome"](https://doi.org/10.1111/epi.17739){:target="_blank"} published in *Epilepsia*.
+
 - 2023/04: Congrats to Dr. Edlow and the team for the publication of ["Measuring consciousness in the intensive care unit"](https://doi.org/10.1007/s12028-023-01706-4){:target="_blank"} in *Neurocritical Care*!
 
 - 2023/02: Our work ["Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain"](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="_blank"} is now published in *NeuroImage*.

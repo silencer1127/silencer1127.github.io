@@ -13,6 +13,10 @@ date: 2022-02-07
 
 <span style="font-size:1em;">&dagger; co-first authors; &nbsp;&nbsp;&nbsp; &Dagger; co-senior authors.</span>
 
+## Letters to the Editors
+
+{% include bib_derivatives/letter_to_editor.md %}
+
 ## Conference Abstracts
 
 {% include bib_derivatives/abstract.md %}

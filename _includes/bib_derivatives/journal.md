@@ -1,8 +1,30 @@
 ### 2023
 
+* T. Aung<sup>&dagger;</sup>, O. Grinenko<sup>&dagger;</sup>, **J. Li**, J. Mosher, P. Chauvel, J. Martinez-Gonzalez,  
+"Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome",  
+*Epilepsia*, 2023. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib)  
+[https://doi.org/10.1111/epi.17739](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo"}  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Objective
+We aim to study the correlation between seizure outcomes in patients with drug-resistant epilepsy (DRE) who underwent laser interstitial thermal therapy (LITT) and stereo-electroencephalographic (SEEG) electrophysiologic patterns with respect to the extent of laser ablation.
+
+Methods
+We retrospectively analyzed 16 consecutive DRE patients who underwent LITT. A seizure onset zone (SOZ) was obtained from multidisciplinary patient management conferences and again was confirmed independently by two epileptologists based on conventional analysis. SOZ were retrospectively divided into localized, lobar and multilobar, and nonlocalized onset types. A posteriori predicted epileptogenic zone (PEZ) was identified using the previously developed “EZ fingerprint” pipeline. The completeness of the SOZ and PEZ ablation was compared and correlated with the duration of seizure freedom (SF).
+
+Results
+Out of 16 patients, 11 had a posteriori-identified PEZ. Three patients underwent complete ablation of SOZ with curative intent, and the other 13 with palliative intent. Out of three patients with complete ablation of the SOZ, two had concordant PEZ and SOZ and achieved 40- and 46-month SF without seizure recurrence. The remaining patient, without any PEZ identified, had seizure recurrence within one month.
+Six out of 13 patients with partial ablation of the SOZ and PEZ achieved a mean SF of 19.8 months (range: 1 to 44) with subsequent seizure recurrence. The remaining seven patients had partial ablation of the SOZ without the PEZ identified or ablation outside the PEZ with seizure recurrence within one to two months, except one patient who had 40 months SF after ablation of periventricular heterotopia.
+
+Significance
+Only complete ablation of the well-restricted SOZ concordant with the PEZ was associated with long-term SF, whereas partial ablation of the PEZ might lead to SF with eventual seizure recurrence. Failure to identify PEZ and ablation limited to the SOZ often led to one to two months of SF.
+      </p>
+  </details>
+
 * B. L. Edlow, M. Fecchio, Y. G. Bodien, A. Comanducci, M. Rosanova, S. Casarotto, M. J. Young, **J. Li**, D. D. Dougherty, C. Koch, G. Tononi, M. Massimini, M. Boly,  
 "Measuring consciousness in the intensive care unit",  
-*Neurocritical Care*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"}  
+*Neurocritical Care*, , no. 38, pp. 584--590, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"}  
 [https://doi.org/10.1007/s12028-023-01706-4](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
@@ -38,7 +60,7 @@
 
 * R. Setton<sup>&dagger;</sup>, L. Mwilambwe-Tshilobo<sup>&dagger;</sup>, M. Girn, A. W. Lockrow, G. Baracchini, A. J. Lowe, B. N. Cassidy, **J. Li**, R. M. Leahy, T. Ge, D. S. Margulies, B. Misic, B. C. Bernhardt, W. D. Stevens, F. De Brigard, P. Kundu, G. R. Turner, R. N. Spreng,  
 "Age differences in the functional architecture of the human brain",  
-*Cerebral Cortex*, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"}  
+*Cerebral Cortex*, vol. 33, no. 1, pp. 114--134, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"}  
 [https://doi.org/10.1093/cercor/bhac056](https://doi.org/10.1093/cercor/bhac056){:target="Setton_2022_CerebCortex_Age"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>

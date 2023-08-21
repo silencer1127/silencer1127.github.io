@@ -1,3 +1,21 @@
+### 2023
+
+* H. J. Freeman<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, A. Meydan, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, A. Seifert, D. Hunt, E. J. Iglesias, C. L. Mac Donald, K. Dams-O'Connor, B. L. Edlow,  
+"Improved cortical lesion segmentation using SynthSR",  
+*IEEE-EMBS International Conference on Biomedical and Health Informatics*, Pittsburgh, PA, Oct. 2023. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2023_BHI_Improved.bib)
+
+* Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
+"Cortical parcellation with graph representation learning on resting-state fMRI",  
+*22nd International Workshop on Data Mining in Bioinformatics*, Long Beach, CA, Aug. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2023_BIOKDD_Cortical.bib)
+
+* J. Mentch, **J. Li**, S. Ghosh,  
+"Identifying brain networks in a clinically rich and naturalistic dataset using tensor decomposition",  
+*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Mentch_2023_OHBM_Identifying.bib)
+
+* M. Olchanyi, H. J. Freeman, H. C. Kinney, S. B. Snider, **J. Li**, J. E. Iglesias, Y. G. Bodien, C. Maffei, J. Augustinack, L. Zöllei, D. N. Greve, M. Bianciardi, B. R. Diamond, R. J. Cali, J. C. Nolan, A. Stevens, A. Yendiki, J. T. Giacino, A. Kouwe, C. Destrieux, R. D. Folkerth, B. Fischl, E. N. Brown, B. L. Edlow,  
+"Mapping the human default arousal network connectome",  
+*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2023_OHBM_Mapping.bib)
+
 ### 2022
 
 * Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
@@ -30,7 +48,7 @@
 
 * B. Guerin, M. Daneshzand, J. Stockmann, **J. Li**, B. L. Edlow, D. D. Dougherty, A. Nummenma,  
 "Precomputation of hundreds of transducer positions for real-time stimulation-based neuronavigation of neuromodulation using tFUS",  
-*2nd Focused Ultrasound Neuromodulation Symposium*, Sept. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Guerin_2021_FUN_Precomputation.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Guerin_2021_FUN_Precomputation.pdf){:target="Guerin_2021_FUN_Precomputation-PDF"}
+*2nd Focused Ultrasound Neuromodulation Symposium*, Virtual Conference, Sept. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Guerin_2021_FUN_Precomputation.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Guerin_2021_FUN_Precomputation.pdf){:target="Guerin_2021_FUN_Precomputation-PDF"}
 
 * **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, A. Horn, B. L. Edlow,  
 "The subcortical connectome of the default mode network",  
@@ -52,7 +70,7 @@
 
 * H. Shaker, **J. Li**, M. Kobayashi, J. Bulacio, I. Najm, P. Chauvel,  
 "Functional significance of epileptogenic fast activity: A study of motor cortex seizures",  
-*74rd Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)  
+*74th Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
