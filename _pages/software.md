@@ -4,7 +4,7 @@ category: "main"
 permalink: /software/
 layout: single
 author_profile: true
-date: 2023-04-16
+date: 2023-11-19
 ---
 
 > 2023/04/16:
@@ -25,6 +25,10 @@ Implementations of many algorithms or methods we have published will be provided
 * [BrainSync](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="software_brainsync"}
 
 * [SAMSEG-compatible fMRIPrep](/software/fMRIPrep_SAMSEG/fMRIPrep_SAMSEG_main){:target="software_fmriprep_samseg"}
+
+<br/><br/>
+
+Should you have any question about the downloading service, please check out our [privacy and consent page](/software/privacy)
 
 <br/><br/><br/><br/>
 
