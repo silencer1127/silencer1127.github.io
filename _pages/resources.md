@@ -47,6 +47,7 @@ Here is a list of technical blogs I wrote occasionally or I found (maybe was) us
 * [MATLAB (2017 or earlier) libGL issue in Linux](/blog/matlab_17_before_libGL_issue)
 * [Latex accent characters cheatsheet](/blog/latex_accents)
 * [Resharing: The Art of Scholarly Mentoring](/blog/art_of_mentoring)
+* [EB-1A I-140 Self Petition Example for U.S. Permanent Residency (Green Card)](/blog/eb1a_self_petition)
 
 ## Andrew's Sharing
 

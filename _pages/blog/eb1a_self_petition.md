@@ -54,6 +54,7 @@ If you've ever asked to draft the letter, here is a very general structure you m
 
 - Concluding paragraph
 > Therefore, I strongly support Dr. XYZ in this petition for permanent residency. It would be our great pleasure to have Dr. XYZ continue to work and make significant contribution to the U.S. Please do not hesitate to contact me ...
+
 ---
 
 When should you ask for a letter? As early as when you have a general idea about who you should ask for and which point you want that letter to demonstrate/support. At least you should first ask the potential referrers if they would like to provide a letter for you or not. It's absolutely ok if they say no or not replying your email as people are busy, and providing such a letter does you a big favor and that's not something they are obligated to at all. (I am so grateful to those people who wrote me a letter, thank you all!) Nevertheless, asking for the agreement at the early stage will give you sufficient time to adjust your petition strategy. My timeline is is appended below for your reference.
@@ -106,7 +107,7 @@ Since I have to wait for my priority date to become current, I don't have any in
 
 I hope my case, together with [Andrey](https://andreychemist.github.io/){:target="Andrey"} and [Razvan](https://razvanmarinescu.github.io/green-card-I-140/){:target="Razvan"}, provides you some sense and confidence in self petition of permanent residency under EB-1A category. I've learned so much from others during my preparation, particularly those two previous excellent examples, now I'm happy to have the opportunity to share my case back with the community.
 
-Please follow this [link](https://software.imagicastle.com:48877/download.php?app=eb1a){:target="eb1a_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link. As with any of my [research code/software](/software/), please check out the [privacy and consent page](/software/privacy) should you have any question about the downloading service.
+Please follow this [link](https://software.imagicastle.com:48877/download.php?app=eb1a){:target="eb1a_download"} (will open a new page) and fill out the form. An e-mail will be sent to you with a personal download link (~31MB).  As with any of my [research code/software](/software/), please check out the [privacy and consent page](/software/privacy) should you have any question about the downloading service.
 
 Note that I do not earn money by selling documents or providing consulting service, and everything I shared here is only to help peers, fellows like me who are also in the same situation.
 
