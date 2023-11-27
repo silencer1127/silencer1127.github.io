@@ -2,7 +2,7 @@
 
 * T. Aung<sup>&dagger;</sup>, O. Grinenko<sup>&dagger;</sup>, **J. Li**, J. Mosher, P. Chauvel, J. Martinez-Gonzalez,  
 "Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome",  
-*Epilepsia*, 2023. (In press) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib)  
+*Epilepsia*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Aung_2023_Epilepsia_Stereo.pdf){:target="Aung_2023_Epilepsia_Stereo-PDF"}  
 [https://doi.org/10.1111/epi.17739](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>

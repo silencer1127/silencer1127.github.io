@@ -11,10 +11,10 @@
       </p>
   </details>
 
-* **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, B. Fischl<sup>&Dagger;</sup>, A. V. Dalca<sup>&Dagger;</sup>,  
-"Joint cortical registration of geometry and function using semi-supervised learning",  
-*arXiv*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_arXiv_Joint.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://arxiv.org/abs/2303.01592.pdf){:target="Li_2023_arXiv_Joint-PDF"}  
-[https://doi.org/10.48550/arXiv.2303.01592](https://doi.org/10.48550/arXiv.2303.01592){:target="Li_2023_arXiv_Joint"}  
+* **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca<sup>&Dagger;</sup>, B. Fischl<sup>&Dagger;</sup>,  
+"JOSA: Joint surface-based registration with atlas construction enables accurate alignment of the brain geometry and function",  
+*arXiv*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_arXiv_Josa.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://arxiv.org/abs/2303.01592.pdf){:target="Li_2023_arXiv_Josa-PDF"}  
+[https://doi.org/10.48550/arXiv.2303.01592](https://doi.org/10.48550/arXiv.2303.01592){:target="Li_2023_arXiv_Josa"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">

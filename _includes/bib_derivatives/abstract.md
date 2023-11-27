@@ -1,26 +1,36 @@
+### 2024
+
+* M. Öncel, J. H. Lai, **J. Li**, S. A. Aykan, J. Yang, T. Qin, A. Harriott, D. Boas, S. Sakadžić, C. Ayata, B. L. Edlow, D. Y. Chung,  
+"Functional neuronal networks after cortical spreading depolarizations",  
+*76th Annual Meeting of American Academy of Neurology*, Denver, CO, Apr. 2024. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Oncel_2024_AAN_Functional.bib)
+
 ### 2023
+
+* M. Öncel, J. H. Lai, **J. Li**, S. A. Aykan, J. Yang, T. Qin, A. Morais, A. Harriott, S. Sakadžić, C. Ayata, B. L. Edlow, D. Y. Chung,  
+"A novel local regression approach to analyze functional connectivity following CSD",  
+*International Conference on Spreading Depolarizations*, Szeged, Hungary, Oct. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Oncel_2023_iCSD_Functional.bib)
 
 * H. J. Freeman<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, A. Meydan, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, A. Seifert, D. Hunt, E. J. Iglesias, C. L. Mac Donald, K. Dams-O'Connor, B. L. Edlow,  
 "Improved cortical lesion segmentation using SynthSR",  
-*IEEE-EMBS International Conference on Biomedical and Health Informatics*, Pittsburgh, PA, Oct. 2023. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2023_BHI_Improved.bib)
+*IEEE-EMBS International Conference on Biomedical and Health Informatics*, Pittsburgh, PA, Oct. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2023_BHI_Improved.bib)
 
 * Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
 "Cortical parcellation with graph representation learning on resting-state fMRI",  
-*22nd International Workshop on Data Mining in Bioinformatics*, Long Beach, CA, Aug. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2023_BIOKDD_Cortical.bib)
+*22nd International Workshop on Data Mining in Bioinformatics*, Long Beach, CA, Aug. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2023_BIOKDD_Cortical.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Liu_2023_BIOKDD_Cortical.pdf){:target="Liu_2023_BIOKDD_Cortical-PDF"}
 
 * J. Mentch, **J. Li**, S. Ghosh,  
 "Identifying brain networks in a clinically rich and naturalistic dataset using tensor decomposition",  
-*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Mentch_2023_OHBM_Identifying.bib)
+*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Mentch_2023_OHBM_Identifying.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Mentch_2023_OHBM_Identifying.pdf){:target="Mentch_2023_OHBM_Identifying-PDF"}
 
 * M. Olchanyi, H. J. Freeman, H. C. Kinney, S. B. Snider, **J. Li**, J. E. Iglesias, Y. G. Bodien, C. Maffei, J. Augustinack, L. Zöllei, D. N. Greve, M. Bianciardi, B. R. Diamond, R. J. Cali, J. C. Nolan, A. Stevens, A. Yendiki, J. T. Giacino, A. Kouwe, C. Destrieux, R. D. Folkerth, B. Fischl, E. N. Brown, B. L. Edlow,  
 "Mapping the human default arousal network connectome",  
-*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2023_OHBM_Mapping.bib)
+*29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2023_OHBM_Mapping.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Olchanyi_2023_OHBM_Mapping.pdf){:target="Olchanyi_2023_OHBM_Mapping-PDF"}
 
 ### 2022
 
 * Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
 "Functional parcellation of the cerebral cortex based on brain network identification using resting-state fMRI",  
-*51st Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2022_Neuroscience_Functional.bib)
+*51st Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2022_Neuroscience_Functional.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Liu_2022_Neuroscience_Functional.pdf){:target="Liu_2022_Neuroscience_Functional-PDF"}
 
 * O. Grinenko<sup>&dagger;</sup>, T. Aung<sup>&dagger;</sup>, **J. Li**, J. C. Mosher, P. Chauvel, J. Gonzalez-Martinez,  
 "Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological biomarker and seizure outcome",  
@@ -28,7 +38,7 @@
 
 * M. Daneshzand, A. Nummenmaa, **J. Li**, L. Vendramini, J. Stockmann, T. Chou, D. Dougherty, B. Edlow, B. Guerin,  
 "Simulation and visualization tool for subject-specific tFUS neuronavigation",  
-*21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib)  
+*21th Annual International Symposium on Therapeutic Ultrasound*, Toronto, Canada, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Daneshzand_2022_ISTU_Simulation.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Daneshzand_2022_ISTU_Simulation.pdf){:target="Daneshzand_2022_ISTU_Simulation-PDF"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -37,7 +47,7 @@
   </details>
 
 * **J. Li**, M. K. Cambareri, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow,  
-"Towards clinical translation of default mode subcortical targeting fort herapeutic neuromodulation",  
+"Towards clinical translation of default mode subcortical targeting for therapeutic neuromodulation",  
 *28th Annual Meeting of the Organization for Human Brain Mapping*, Glasgow, Scotland, Jun. 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2022_OHBM_Towards.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2022_OHBM_Towards.pdf){:target="Li_2022_OHBM_Towards-PDF"}
 
 * M. K. Cambareri, **J. Li**, L. D. Lewis, B. L. Edlow,  
@@ -70,7 +80,7 @@
 
 * H. Shaker, **J. Li**, M. Kobayashi, J. Bulacio, I. Najm, P. Chauvel,  
 "Functional significance of epileptogenic fast activity: A study of motor cortex seizures",  
-*74th Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib)  
+*74th Annual Meeting of the American Epilepsy Society*, Seattle, WA, Dec. 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2020_AES_Functional.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Shaker_2020_AES_Functional.pdf){:target="Shaker_2020_AES_Functional-PDF"}  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
