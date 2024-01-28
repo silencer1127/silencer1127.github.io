@@ -2,8 +2,7 @@
 
 * T. Aung<sup>&dagger;</sup>, O. Grinenko<sup>&dagger;</sup>, **J. Li**, J. Mosher, P. Chauvel, J. Martinez-Gonzalez,  
 "Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome",  
-*Epilepsia*, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Aung_2023_Epilepsia_Stereo.pdf){:target="Aung_2023_Epilepsia_Stereo-PDF"}  
-[https://doi.org/10.1111/epi.17739](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo"}  
+*Epilepsia*, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Aung_2023_Epilepsia_Stereo.pdf){:target="Aung_2023_Epilepsia_Stereo-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -13,8 +12,7 @@
 
 * B. L. Edlow, M. Fecchio, Y. G. Bodien, A. Comanducci, M. Rosanova, S. Casarotto, M. J. Young, **J. Li**, D. D. Dougherty, C. Koch, G. Tononi, M. Massimini, M. Boly,  
 "Measuring consciousness in the intensive care unit",  
-*Neurocritical Care*, , no. 38, pp. 584--590, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"}  
-[https://doi.org/10.1007/s12028-023-01706-4](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring"}  
+*Neurocritical Care*, , no. 38, pp. 584--590, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -24,8 +22,7 @@
 
 * **J. Li**, Y. Liu, J. L. Wisnowski<sup>&Dagger;</sup>, R. M. Leahy<sup>&Dagger;</sup>,  
 "Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain",  
-*NeuroImage*, vol. 270, p. 119944, 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_NeuroImage_Identification.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_NeuroImage_Identification.pdf){:target="Li_2023_NeuroImage_Identification-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2023_NeuroImage_Identification-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2023.119944](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="Li_2023_NeuroImage_Identification"}  
+*NeuroImage*, vol. 270, p. 119944, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.neuroimage.2023.119944){:target="Li_2023_NeuroImage_Identification-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_NeuroImage_Identification.pdf){:target="Li_2023_NeuroImage_Identification-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2023_NeuroImage_Identification-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_NeuroImage_Identification.bib)  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -38,8 +35,7 @@
 
 * L. Benschop, G. Vanhollebeke, **J. Li**, M. Vanderhasselt, R. M. Leahy, C. Baeken,  
 "Reduced subgenual cingulate–dorsolateral prefrontal connectivity as an electrophysiological marker for depression",  
-*Scientific Report*, vol. 12, no. 1, p. 16903, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Benschop_2022_SciRep_Reduced.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Benschop_2022_SciRep_Reduced.pdf){:target="Benschop_2022_SciRep_Reduced-PDF"}  
-[https://doi.org/10.1038/s41598-022-20274-9](https://doi.org/10.1038/s41598-022-20274-9){:target="Benschop_2022_SciRep_Reduced"}  
+*Scientific Report*, vol. 12, no. 1, p. 16903, 2022.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1038/s41598-022-20274-9){:target="Benschop_2022_SciRep_Reduced-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Benschop_2022_SciRep_Reduced.pdf){:target="Benschop_2022_SciRep_Reduced-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Benschop_2022_SciRep_Reduced.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -49,8 +45,7 @@
 
 * R. Setton<sup>&dagger;</sup>, L. Mwilambwe-Tshilobo<sup>&dagger;</sup>, M. Girn, A. W. Lockrow, G. Baracchini, A. J. Lowe, B. N. Cassidy, **J. Li**, R. M. Leahy, T. Ge, D. S. Margulies, B. Misic, B. C. Bernhardt, W. D. Stevens, F. De Brigard, P. Kundu, G. R. Turner, R. N. Spreng,  
 "Age differences in the functional architecture of the human brain",  
-*Cerebral Cortex*, vol. 33, no. 1, pp. 114--134, 2022.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"}  
-[https://doi.org/10.1093/cercor/bhac056](https://doi.org/10.1093/cercor/bhac056){:target="Setton_2022_CerebCortex_Age"}  
+*Cerebral Cortex*, vol. 33, no. 1, pp. 114--134, 2022.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1093/cercor/bhac056){:target="Setton_2022_CerebCortex_Age-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Setton_2022_CerebCortex_Age.pdf){:target="Setton_2022_CerebCortex_Age-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Setton_2022_CerebCortex_Age.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -62,8 +57,7 @@
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydore, R. M. Leahy,  
 "A robust variational autoencoder using beta divergence",  
-*Knowledge-Based Systems*, vol. 238, p. 107886, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
-[https://doi.org/10.1016/j.knosys.2021.107886](https://doi.org/10.1016/j.knosys.2021.107886){:target="Akrami_2021_KnowlbasedSyst_Robust"}  
+*Knowledge-Based Systems*, vol. 238, p. 107886, 2021.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.knosys.2021.107886){:target="Akrami_2021_KnowlbasedSyst_Robust-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2021_KnowlbasedSyst_Robust.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -73,8 +67,7 @@
 
 * **J. Li**, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow,  
 "Mapping the subcortical connectivity of the human default mode network",  
-*NeuroImage*, vol. 245, p. 118758, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Mapping.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Mapping.pdf){:target="Li_2021_NeuroImage_Mapping-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://github.com/ComaRecoveryLab/Subcortical_DMN_Functional_Connectivity){:target="Li_2021_NeuroImage_Mapping-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2021.118758](https://doi.org/10.1016/j.neuroimage.2021.118758){:target="Li_2021_NeuroImage_Mapping"}  
+*NeuroImage*, vol. 245, p. 118758, 2021.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.neuroimage.2021.118758){:target="Li_2021_NeuroImage_Mapping-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Mapping.pdf){:target="Li_2021_NeuroImage_Mapping-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://github.com/ComaRecoveryLab/Subcortical_DMN_Functional_Connectivity){:target="Li_2021_NeuroImage_Mapping-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Mapping.bib)  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -85,8 +78,7 @@
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Robust brain network identification from multi-subject asynchronous fMRI data",  
-*NeuroImage*, vol. 227, p. 117615, 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Robust.pdf){:target="Li_2021_NeuroImage_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2021_NeuroImage_Robust-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2020.117615](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2021_NeuroImage_Robust"}  
+*NeuroImage*, vol. 227, p. 117615, 2021.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.neuroimage.2020.117615){:target="Li_2021_NeuroImage_Robust-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2021_NeuroImage_Robust.pdf){:target="Li_2021_NeuroImage_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2021_NeuroImage_Robust-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2021_NeuroImage_Robust.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -98,8 +90,7 @@
 
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Temporal non-local means filtering for studies of intrinsic brain connectivity from individual resting fMRI",  
-*Medical Image Analysis*, vol. 61, p. 101635, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_MedImageAnal_Temporal.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_MedImageAnal_Temporal.pdf){:target="Li_2020_MedImageAnal_Temporal-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li_2020_MedImageAnal_Temporal-CODE"}  
-[https://doi.org/10.1016/j.media.2020.101635](https://doi.org/10.1016/j.media.2020.101635){:target="Li_2020_MedImageAnal_Temporal"}  
+*Medical Image Analysis*, vol. 61, p. 101635, 2020.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.media.2020.101635){:target="Li_2020_MedImageAnal_Temporal-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_MedImageAnal_Temporal.pdf){:target="Li_2020_MedImageAnal_Temporal-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li_2020_MedImageAnal_Temporal-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_MedImageAnal_Temporal.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -109,8 +100,7 @@
 
 * K. N. Taylor, A. A. Joshi, **J. Li**, J. A. Gonzalez-Martinez, X. Wang, R. M. Leahy, D. R. Nair, J. C. Mosher,  
 "The FAST graph: A novel framework for the anatomically-guided visualization and analysis of cortico-cortical evoked potentials",  
-*Epilepsy Research*, vol. 161, p. 106264, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor_2020_EpilepsyRes_Fast.bib)  
-[https://doi.org/10.1016/j.eplepsyres.2020.106264](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor_2020_EpilepsyRes_Fast"}  
+*Epilepsy Research*, vol. 161, p. 106264, 2020.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.eplepsyres.2020.106264){:target="Taylor_2020_EpilepsyRes_Fast-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Taylor_2020_EpilepsyRes_Fast.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -120,8 +110,7 @@
 
 * **J. Li**, O. Grinenko, J. C. Mosher, J. Gonzalez-Martinez, R. M. Leahy, P. Chauvel,  
 "Learning to define an electrical biomarker of the epileptogenic zone",  
-*Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_HumBrainMapp_Learning.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_HumBrainMapp_Learning.pdf){:target="Li_2020_HumBrainMapp_Learning-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li_2020_HumBrainMapp_Learning-CODE"}  
-[https://doi.org/10.1002/hbm.24813](https://doi.org/10.1002/hbm.24813){:target="Li_2020_HumBrainMapp_Learning"}  
+*Human Brain Mapping*, vol. 41, no. 2, pp. 429--441, 2020.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/hbm.24813){:target="Li_2020_HumBrainMapp_Learning-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_HumBrainMapp_Learning.pdf){:target="Li_2020_HumBrainMapp_Learning-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Li_2020_HumBrainMapp_Learning-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_HumBrainMapp_Learning.bib)  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -134,8 +123,7 @@
 
 * S. Choi, S. H. O'Neil, A. A. Joshi, **J. Li**, A. M. Bush, T. D. Coates, R. M. Leahy, J. C. Wood,  
 "Anemia predicts lower white matter volume and cognitive performance in sickle and non-sickle cell anemia syndrome",  
-*American Journal of Hematology*, vol. 94, no. 10, pp. 1055--1065, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi_2019_AmJHematol_Anemia.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Choi_2019_AmJHematol_Anemia.pdf){:target="Choi_2019_AmJHematol_Anemia-PDF"}  
-[https://doi.org/10.1002/ajh.25570](https://doi.org/10.1002/ajh.25570){:target="Choi_2019_AmJHematol_Anemia"}  
+*American Journal of Hematology*, vol. 94, no. 10, pp. 1055--1065, 2019.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/ajh.25570){:target="Choi_2019_AmJHematol_Anemia-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Choi_2019_AmJHematol_Anemia.pdf){:target="Choi_2019_AmJHematol_Anemia-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi_2019_AmJHematol_Anemia.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -145,8 +133,7 @@
 
 * **J. Li**, S. E. Luczak, I. G. Rosen,  
 "Comparing a distributed parameter model-based system identification technique with more conventional methods for inverse problems",  
-*Journal of Inverse and Ill-posed Problems*, vol. 27, no. 5, pp. 703--717, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_JInverseIllPosedProbl_Comparing.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_JInverseIllPosedProbl_Comparing.pdf){:target="Li_2019_JInverseIllPosedProbl_Comparing-PDF"}  
-[https://doi.org/10.1515/jiip-2018-0006](https://doi.org/10.1515/jiip-2018-0006){:target="Li_2019_JInverseIllPosedProbl_Comparing"}  
+*Journal of Inverse and Ill-posed Problems*, vol. 27, no. 5, pp. 703--717, 2019.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1515/jiip-2018-0006){:target="Li_2019_JInverseIllPosedProbl_Comparing-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_JInverseIllPosedProbl_Comparing.pdf){:target="Li_2019_JInverseIllPosedProbl_Comparing-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_JInverseIllPosedProbl_Comparing.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -156,8 +143,7 @@
 
 * **J. Li**, J. P. Haldar, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy,  
 "Scalable and robust tensor decomposition of spontaneous stereotactic EEG data",  
-*IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_IEEETransBiomedEng_Scalable.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_IEEETransBiomedEng_Scalable.pdf){:target="Li_2019_IEEETransBiomedEng_Scalable-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li_2019_IEEETransBiomedEng_Scalable-CODE"}  
-[https://doi.org/10.1109/TBME.2018.2875467](https://doi.org/10.1109/TBME.2018.2875467){:target="Li_2019_IEEETransBiomedEng_Scalable"}  
+*IEEE Transactions on Biomedical Engineering*, vol. 66, no. 6, pp. 1549--1558, 2019.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/TBME.2018.2875467){:target="Li_2019_IEEETransBiomedEng_Scalable-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_IEEETransBiomedEng_Scalable.pdf){:target="Li_2019_IEEETransBiomedEng_Scalable-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li_2019_IEEETransBiomedEng_Scalable-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_IEEETransBiomedEng_Scalable.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -167,8 +153,7 @@
 
 * E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
 "Heterotopia or overlaying cortex: What about in-between?",  
-*Epilepsy and Behavior Case Reports*, vol. 11, pp. 4--9, 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.pdf){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-PDF"}  
-[https://doi.org/10.1016/j.ebcr.2018.09.007](https://doi.org/10.1016/j.ebcr.2018.09.007){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia"}  
+*Epilepsy and Behavior Case Reports*, vol. 11, pp. 4--9, 2019.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.ebcr.2018.09.007){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.pdf){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -180,8 +165,7 @@
 
 * A. A. Joshi, M. Chong, **J. Li**, S. Choi, R. M. Leahy,  
 "Are you thinking what I'm thinking? Synchronization of resting fMRI time-series across subjects",  
-*NeuroImage*, vol. 172, pp. 740--752, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2018_NeuroImage_Are.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2018_NeuroImage_Are.pdf){:target="Joshi_2018_NeuroImage_Are-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="Joshi_2018_NeuroImage_Are-CODE"}  
-[https://doi.org/10.1016/j.neuroimage.2018.01.058](https://doi.org/10.1016/j.neuroimage.2018.01.058){:target="Joshi_2018_NeuroImage_Are"}  
+*NeuroImage*, vol. 172, pp. 740--752, 2018.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.neuroimage.2018.01.058){:target="Joshi_2018_NeuroImage_Are-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2018_NeuroImage_Are.pdf){:target="Joshi_2018_NeuroImage_Are-PDF"} &nbsp; [<i class="fa fa-code"></i>](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="Joshi_2018_NeuroImage_Are-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2018_NeuroImage_Are.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -191,8 +175,7 @@
 
 * O. Grinenko<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, J. C. Mosher, I. Z. Wang, J. C. Bulacio, J. Gonzalez-Martinez, D. Nair, I. Najm, R. M. Leahy, P. Chauvel,  
 "A fingerprint of the epileptogenic zone in human epilepsies",  
-*Brain*, vol. 141, no. 1, pp. 117--131, 2018.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2018_Brain_Fingerprint.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Grinenko_2018_Brain_Fingerprint.pdf){:target="Grinenko_2018_Brain_Fingerprint-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Grinenko_2018_Brain_Fingerprint-CODE"}  
-[https://doi.org/10.1093/brain/awx306](https://doi.org/10.1093/brain/awx306){:target="Grinenko_2018_Brain_Fingerprint"}  
+*Brain*, vol. 141, no. 1, pp. 117--131, 2018.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1093/brain/awx306){:target="Grinenko_2018_Brain_Fingerprint-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Grinenko_2018_Brain_Fingerprint.pdf){:target="Grinenko_2018_Brain_Fingerprint-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/EZ_Fingerprint/ezf_main){:target="Grinenko_2018_Brain_Fingerprint-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Grinenko_2018_Brain_Fingerprint.bib)  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
