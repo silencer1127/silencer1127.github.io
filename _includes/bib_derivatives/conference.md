@@ -2,8 +2,7 @@
 
 * **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, B. Fischl<sup>&Dagger;</sup>, A. V. Dalca<sup>&Dagger;</sup>,  
 "Joint cortical registration of geometry and function via semi-supervised learning",  
-*Medical Imaging with Deep Learning*, Nashville, TN, Jul. 2023.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_MIDL_Joint.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_MIDL_Joint.pdf){:target="Li_2023_MIDL_Joint-PDF"}  
-[https://openreview.net/forum?id=n9v_BuIcY7G](https://openreview.net/forum?id=n9v_BuIcY7G){:target="Li_2023_MIDL_Joint"}  
+*Medical Imaging with Deep Learning*, Nashville, TN, Jul. 2023.  &nbsp; [<i class="fa fa-link"></i>](https://openreview.net/forum?id=n9v_BuIcY7G){:target="Li_2023_MIDL_Joint-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_MIDL_Joint.pdf){:target="Li_2023_MIDL_Joint-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_MIDL_Joint.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -15,15 +14,13 @@
 
 * A. A. Joshi, S. Choi, **J. Li**, H. Akrami, R. M. Leahy,  
 "A pairwise approach for fMRI group studies using BrainSync transform",  
-*Proc. SPIE Medical Imaging 2021: Image Processing*, San Diego, CA, Mar. 2021.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2021_SPIEMI_Pairwise.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2021_SPIEMI_Pairwise.pdf){:target="Joshi_2021_SPIEMI_Pairwise-PDF"}  
-[https://doi.org/10.1117/12.2580980](https://doi.org/10.1117/12.2580980){:target="Joshi_2021_SPIEMI_Pairwise"}
+*Proc. SPIE Medical Imaging 2021: Image Processing*, San Diego, CA, Mar. 2021.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1117/12.2580980){:target="Joshi_2021_SPIEMI_Pairwise-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2021_SPIEMI_Pairwise.pdf){:target="Joshi_2021_SPIEMI_Pairwise-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2021_SPIEMI_Pairwise.bib)
 
 ### 2020
 
 * **J. Li**, A. A. Joshi, R. M. Leahy,  
 "A network-based approach to study of ADHD using tensor decomposition of resting fMRI data",  
-*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 1--5.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_ISBI_Network.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_ISBI_Network.pdf){:target="Li_2020_ISBI_Network-PDF"}  
-[https://doi.org/10.1109/ISBI45749.2020.9098584](https://doi.org/10.1109/ISBI45749.2020.9098584){:target="Li_2020_ISBI_Network"}  
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 1--5.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ISBI45749.2020.9098584){:target="Li_2020_ISBI_Network-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2020_ISBI_Network.pdf){:target="Li_2020_ISBI_Network-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2020_ISBI_Network.bib)  
   <details>
     <summary style="font-size:16px">Abstract &nbsp; <i class="fa fa-video-camera"></i></summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -34,8 +31,7 @@
 
 * H. Akrami, A. A. Joshi, **J. Li**, S. Aydöre, R. M. Leahy,  
 "Brain lesion detection using a robust variational autoencoder and transfer learning",  
-*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 786--790.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2020_ISBI_Brain.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Akrami_2020_ISBI_Brain.pdf){:target="Akrami_2020_ISBI_Brain-PDF"}  
-[https://doi.org/10.1109/ISBI45749.2020.9098405](https://doi.org/10.1109/ISBI45749.2020.9098405){:target="Akrami_2020_ISBI_Brain"}  
+*IEEE 17th International Symposium on Biomedical Imaging*, Iowa City, IA, Apr. 2020, pp. 786--790.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ISBI45749.2020.9098405){:target="Akrami_2020_ISBI_Brain-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Akrami_2020_ISBI_Brain.pdf){:target="Akrami_2020_ISBI_Brain-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2020_ISBI_Brain.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -47,8 +43,7 @@
 
 * A. A. Joshi, H. Akrami, **J. Li**, R. M. Leahy,  
 "A matched filter decomposition of fMRI into resting and task components",  
-*22nd International Conference on Medical Image Computing and Computer-Assisted Intervention*, Shenzhen, China, Sept. 2019, pp. 673--681.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2019_MICCAI_Matched.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2019_MICCAI_Matched.pdf){:target="Joshi_2019_MICCAI_Matched-PDF"}  
-[https://doi.org/10.1007/978-3-030-32248-9_75](https://doi.org/10.1007/978-3-030-32248-9_75){:target="Joshi_2019_MICCAI_Matched"}  
+*22nd International Conference on Medical Image Computing and Computer-Assisted Intervention*, Shenzhen, China, Sept. 2019, pp. 673--681.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1007/978-3-030-32248-9_75){:target="Joshi_2019_MICCAI_Matched-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2019_MICCAI_Matched.pdf){:target="Joshi_2019_MICCAI_Matched-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2019_MICCAI_Matched.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -58,8 +53,7 @@
 
 * **J. Li**, J. L. Wisnowski, A. A. Joshi, R. M. Leahy,  
 "Brain network identification in asynchronous task fMRI data using robust and scalable tensor decomposition",  
-*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164--172.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_SPIEMI_Brain.pdf){:target="Li_2019_SPIEMI_Brain-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2019_SPIEMI_Brain-CODE"}  
-[https://doi.org/10.1117/12.2512684](https://doi.org/10.1117/12.2512684){:target="Li_2019_SPIEMI_Brain"}  
+*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 164--172.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1117/12.2512684){:target="Li_2019_SPIEMI_Brain-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2019_SPIEMI_Brain.pdf){:target="Li_2019_SPIEMI_Brain-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/NASCAR/nascar_main){:target="Li_2019_SPIEMI_Brain-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_SPIEMI_Brain.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -69,8 +63,7 @@
 
 * H. Akrami, A. A. Joshi, **J. Li**, R. M. Leahy,  
 "Group-wise alignment of resting fMRI in space and time",  
-*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 737--744.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2019_SPIEMI_Group.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Akrami_2019_SPIEMI_Group.pdf){:target="Akrami_2019_SPIEMI_Group-PDF"}  
-[https://doi.org/10.1117/12.2512564](https://doi.org/10.1117/12.2512564){:target="Akrami_2019_SPIEMI_Group"}  
+*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 737--744.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1117/12.2512564){:target="Akrami_2019_SPIEMI_Group-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Akrami_2019_SPIEMI_Group.pdf){:target="Akrami_2019_SPIEMI_Group-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Akrami_2019_SPIEMI_Group.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -80,8 +73,7 @@
 
 * A. A. Joshi, **J. Li**, H. Akrami, R. M. Leahy,  
 "Predicting cognitive scores from resting fMRI data and geometric features of the brain",  
-*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 619--625.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2019_SPIEMI_Predicting.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2019_SPIEMI_Predicting.pdf){:target="Joshi_2019_SPIEMI_Predicting-PDF"}  
-[https://doi.org/10.1117/12.2512063](https://doi.org/10.1117/12.2512063){:target="Joshi_2019_SPIEMI_Predicting"}  
+*Proc. SPIE Medical Imaging 2019: Image Processing*, San Diego, CA, Mar. 2019, pp. 619--625.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1117/12.2512063){:target="Joshi_2019_SPIEMI_Predicting-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Joshi_2019_SPIEMI_Predicting.pdf){:target="Joshi_2019_SPIEMI_Predicting-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2019_SPIEMI_Predicting.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -93,8 +85,7 @@
 
 * A. A. Joshi, **J. Li**, M. Chong, H. Akrami, R. M. Leahy,  
 "rfDemons: resting fMRI-based cortical surface registration using the BrainSync transform",  
-*21st International Conference on Medical Image Computing and Computer-Assisted Intervention*, Granada, Spain, Sept. 2018, pp. 198--205.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2018_MICCAI_Rfdemons.bib)  
-[https://doi.org/10.1007/978-3-030-00931-1_23](https://doi.org/10.1007/978-3-030-00931-1_23){:target="Joshi_2018_MICCAI_Rfdemons"}  
+*21st International Conference on Medical Image Computing and Computer-Assisted Intervention*, Granada, Spain, Sept. 2018, pp. 198--205.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1007/978-3-030-00931-1_23){:target="Joshi_2018_MICCAI_Rfdemons-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Joshi_2018_MICCAI_Rfdemons.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -104,8 +95,7 @@
 
 * **J. Li**, S. Choi, A. A. Joshi, J. L. Wisnowski, R. M. Leahy,  
 "Global PDF-based temporal non-local means filtering reveals individual differences in brain connectivity",  
-*IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2018_ISBI_Global.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2018_ISBI_Global.pdf){:target="Li_2018_ISBI_Global-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li_2018_ISBI_Global-CODE"}  
-[https://doi.org/10.1109/ISBI.2018.8363513](https://doi.org/10.1109/ISBI.2018.8363513){:target="Li_2018_ISBI_Global"}  
+*IEEE 15th International Symposium on Biomedical Imaging*, Washington D.C., Apr. 2018, pp. 15--19.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ISBI.2018.8363513){:target="Li_2018_ISBI_Global-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2018_ISBI_Global.pdf){:target="Li_2018_ISBI_Global-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/GPDF/gpdf_main){:target="Li_2018_ISBI_Global-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2018_ISBI_Global.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -117,8 +107,7 @@
 
 * **J. Li**, J. C. Mosher, D. R. Nair, J. Gonzalez-Martinez, R. M. Leahy,  
 "Robust tensor decomposition of resting brain networks in stereotactic EEG",  
-*IEEE 51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, Oct. 2017, pp. 1544--1548.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_ACSSC_Robust.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2017_ACSSC_Robust.pdf){:target="Li_2017_ACSSC_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li_2017_ACSSC_Robust-CODE"}  
-[https://doi.org/10.1109/ACSSC.2017.8335616](https://doi.org/10.1109/ACSSC.2017.8335616){:target="Li_2017_ACSSC_Robust"}  
+*IEEE 51st Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, Oct. 2017, pp. 1544--1548.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ACSSC.2017.8335616){:target="Li_2017_ACSSC_Robust-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2017_ACSSC_Robust.pdf){:target="Li_2017_ACSSC_Robust-PDF"} &nbsp; [<i class="fa fa-code"></i>](/software/SRSCPD_ALS/srscpd_als_main){:target="Li_2017_ACSSC_Robust-CODE"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_ACSSC_Robust.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -128,8 +117,7 @@
 
 * **J. Li**, R. M. Leahy,  
 "Parameter selection for optimized non-local means filtering of task fMRI",  
-*IEEE 14th International Symposium on Biomedical Imaging*, Melbourne, Australia, Apr. 2017, pp. 476--480.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_ISBI_Parameter.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2017_ISBI_Parameter.pdf){:target="Li_2017_ISBI_Parameter-PDF"}  
-[https://doi.org/10.1109/ISBI.2017.7950564](https://doi.org/10.1109/ISBI.2017.7950564){:target="Li_2017_ISBI_Parameter"}  
+*IEEE 14th International Symposium on Biomedical Imaging*, Melbourne, Australia, Apr. 2017, pp. 476--480.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ISBI.2017.7950564){:target="Li_2017_ISBI_Parameter-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2017_ISBI_Parameter.pdf){:target="Li_2017_ISBI_Parameter-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_ISBI_Parameter.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -141,8 +129,7 @@
 
 * A. Kuruvilla, **J. Li**, P. H. Yeomans, P. Quelhas, N. Shaikh, A. Hoberman, J. Kovačević,  
 "Otitis media vocabulary and grammar",  
-*IEEE 19th International Conference on Image Processing*, Orlando, FL, Oct. 2012, pp. 2845--2848.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Kuruvilla_2012_ICIP_Otitis.bib) &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Kuruvilla_2012_ICIP_Otitis.pdf){:target="Kuruvilla_2012_ICIP_Otitis-PDF"}  
-[https://doi.org/10.1109/ICIP.2012.6467492](https://doi.org/10.1109/ICIP.2012.6467492){:target="Kuruvilla_2012_ICIP_Otitis"}  
+*IEEE 19th International Conference on Image Processing*, Orlando, FL, Oct. 2012, pp. 2845--2848.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1109/ICIP.2012.6467492){:target="Kuruvilla_2012_ICIP_Otitis-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Kuruvilla_2012_ICIP_Otitis.pdf){:target="Kuruvilla_2012_ICIP_Otitis-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Kuruvilla_2012_ICIP_Otitis.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">

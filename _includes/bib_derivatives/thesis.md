@@ -2,8 +2,7 @@
 
 * **J. Li**,  
 "Functional connectivity analysis and network identification in the human brain",  
-*University of Southern California*, Los Angeles, CA, May 2019.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_USC_Functional.bib)  
-[https://digitallibrary.usc.edu/asset-management/2A3BF1WJGF0M](https://digitallibrary.usc.edu/asset-management/2A3BF1WJGF0M){:target="Li_2019_USC_Functional"}  
+*University of Southern California*, Los Angeles, CA, May 2019.  &nbsp; [<i class="fa fa-link"></i>](https://digitallibrary.usc.edu/asset-management/2A3BF1WJGF0M){:target="Li_2019_USC_Functional-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2019_USC_Functional.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -15,8 +14,7 @@
 
 * **J. Li**,  
 "Distributed parameter model based system identification and input determination in the estimation of blood alcohol concentration from transdermal alcohol biosensor data",  
-*University of Southern California*, Los Angeles, CA, Jul. 2017.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_USC_Distributed.bib)  
-[https://digitallibrary.usc.edu/asset-management/2A3BF16286SX](https://digitallibrary.usc.edu/asset-management/2A3BF16286SX){:target="Li_2017_USC_Distributed"}  
+*University of Southern California*, Los Angeles, CA, Jul. 2017.  &nbsp; [<i class="fa fa-link"></i>](https://digitallibrary.usc.edu/asset-management/2A3BF16286SX){:target="Li_2017_USC_Distributed-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2017_USC_Distributed.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
