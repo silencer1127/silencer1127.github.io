@@ -1,3 +1,15 @@
+### 2024
+
+* H. Shaker, **J. Li**, M. Kobayashi, O. Grinenko, I. Najm, J. Bulacio, R. Leahy, P. Chauvel,  
+"Is high-frequency activity at seizure onset inhibitory: An stereoelectroencephalographic study of motor cortex seizures",  
+*Annals of Neurology*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/ana.26883){:target="Shaker_2024_AnnNeurol_Is-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Shaker_2024_AnnNeurol_Is.pdf){:target="Shaker_2024_AnnNeurol_Is-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2024_AnnNeurol_Is.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Objective: In the era of stereoelectroencephalography (SEEG), many studies have been devoted to understanding the role of interictal high-frequency oscillations. High-frequency activity (HFA) at seizure onset has been identified as a marker of epileptogenic zone. We address the physiological significance of ictal HFAs and their relation to clinical semiology. Methods: We retrospectively identified patients with pure focal primary motor epilepsy. We selected only patients in whom SEEG electrodes were optimally placed in the motor cortex as confirmed by electrical stimulation. Based on these narrow inclusion criteria, we extensively studied 5 patients (3 males and 2 females, mean age = 22.4 years) using time-frequency analysis and time correlation with motor signs onset. Results: A total of 157 analyzable seizures were recorded in 5 subjects. The first 2 subjects had tonic or clonic semiology with rare secondary generalization. Subject 3 had atonic onset followed by clonic hand/arm flexion. Subject 4 had clusters of tonic and atonic facial movements. Subject 5 had upper extremity tonic movements. The median frequency of the fast activity extracted from the Epileptogenic Zone Fingerprint pipeline in the first 4 subjects was 76 Hz (interquartile range = 21.9 Hz). Positive motor signs did not occur concomitantly with high gamma activity developing in the motor cortex. Motor signs began at the end of HFAs. Interpretation: This study supports the hypothesis of an inhibitory effect of ictal HFAs. The frequency range in the gamma band was associated with the direction of the clinical output effect. Changes from inhibitory to excitatory effect occurred when discharge frequency dropped to low gamma or beta.
+      </p>
+  </details>
+
 ### 2023
 
 * T. Aung<sup>&dagger;</sup>, O. Grinenko<sup>&dagger;</sup>, **J. Li**, J. Mosher, P. Chauvel, J. Martinez-Gonzalez,  

@@ -4,7 +4,7 @@ category: "main"
 permalink: /
 layout: single
 author_profile: false
-date: 2023-08-20
+date: 2024-03-22
 ---
 
 {% assign author = site.author %}
@@ -26,9 +26,11 @@ Massachusetts General Hospital, Harvard Medical School
 <i class="fa fa-envelope-o" aria-hidden="true"></i> Email: jli112 <i class="fa fa-at" aria-hidden="true"></i> mgh![](/images/dot.jpg)harvard![](/images/dot.jpg)edu
 
 **About**:  
-I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://www.nmr.mgh.harvard.edu/user/5499){:target="fischl"} in the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} at the Martinos Center and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} in the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"} at MGH, HMS. I received my Ph.D degree in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}, ECE, USC in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of biomedical data. Of particular recent interest, I'm focusing on the development of computational methods for analysis and inference of brain connectivity using data from a variety of spatiotemporal imaging modalities, such as stereotactic electro-encephalography (SEEG) and functional magnetic resonance imaging (fMRI).
+I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://www.nmr.mgh.harvard.edu/user/5499){:target="fischl"}, Dr. [Adrian Dalca](https://www.mit.edu/~adalca/){:target="dalca"} in the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} at the Martinos Center and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} in the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"} at MGH, HMS. I received my Ph.D degree in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}, ECE, USC in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of neuroimaging data. Of particular recent interest, I'm focusing on the development of computational methods for functional connectivity analysis and functional registration.
 
 ## News
+
+- 2024/03: Congrats to Hussam for the study of ["Is high-frequency activity at seizure onset inhibitory? A stereoelectroencephalographic study of motor cortex seizures"](https://doi.org/10.1002/ana.26883){:target="_blank"} publised in *Annals of Neurology*.
 
 - 2023/08: Congratulations to Thandar and Olesya for the work ["Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome"](https://doi.org/10.1111/epi.17739){:target="_blank"} published in *Epilepsia*.
 
