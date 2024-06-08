@@ -1,5 +1,15 @@
 ### 2024
 
+* B. L. Edlow, M. Olchanyi, H. J. Freeman, **J. Li**, C. Maffei, S. B. Snider, L. Zöllei, J. E. Iglesias, J. Augustinack, Y. G. Bodien, R. L. Haynes, D. N. Greve, B. R. Diamond, A. Stevens, J. T. Giacino, C. Destrieux, A. Kouwe, E. N. Brown, F. R. D., B. Fischl, H. C. Kinney,  
+"Multimodal MRI reveals brainstem connections that sustain wakefulness in human consciousness",  
+*Science Translational Medicine*, vol. 16, no. 745, p. eadj4303, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1126/scitranslmed.adj4303){:target="Edlow_2024_SciTranslMed_Multimodal-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2024_SciTranslMed_Multimodal.pdf){:target="Edlow_2024_SciTranslMed_Multimodal-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2024_SciTranslMed_Multimodal.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Consciousness is composed of arousal (i.e., wakefulness) and awareness. Substantial progress has been made in mapping the cortical networks that underlie awareness in the human brain, but knowledge about the subcortical networks that sustain arousal in humans is incomplete. Here, we aimed to map the connectivity of a proposed subcortical arousal network that sustains wakefulness in the human brain, analogous to the cortical default mode network (DMN) that has been shown to contribute to awareness. We integrated data from ex vivo diffusion magnetic resonance imaging (MRI) of three human brains, obtained at autopsy from neurologically normal individuals, with immunohistochemical staining of subcortical brain sections. We identified nodes of the proposed default ascending arousal network (dAAN) in the brainstem, hypothalamus, thalamus, and basal forebrain. Deterministic and probabilistic tractography analyses of the ex vivo diffusion MRI data revealed projection, association, and commissural pathways linking dAAN nodes with one another and with DMN nodes. Complementary analyses of in vivo 7-tesla resting-state functional MRI data from the Human Connectome Project identified the dopaminergic ventral tegmental area in the midbrain as a widely connected hub node at the nexus of the subcortical arousal and cortical awareness networks. Our network-based autopsy methods and connectivity data provide a putative neuroanatomic architecture for the integration of arousal and awareness in human consciousness.
+      </p>
+  </details>
+
 * H. Shaker, **J. Li**, M. Kobayashi, O. Grinenko, I. Najm, J. Bulacio, R. Leahy, P. Chauvel,  
 "Is high-frequency activity at seizure onset inhibitory: An stereoelectroencephalographic study of motor cortex seizures",  
 *Annals of Neurology*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/ana.26883){:target="Shaker_2024_AnnNeurol_Is-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Shaker_2024_AnnNeurol_Is.pdf){:target="Shaker_2024_AnnNeurol_Is-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2024_AnnNeurol_Is.bib)  

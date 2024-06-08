@@ -1,12 +1,12 @@
 ### 2024
 
-* H. J. Freeman, A. S. Atalay, **J. Li**, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, B. R. Diamond, A. C. Seifert, D. Hunt, Y. G. Bodien, J. Hoffman, C. L. MacDonald, K. Dams-O'Connor, B. L. Edlow,  
-"Functional neuronal networks after cortical spreading depolarizations",  
-*41st Annual National Neurotrauma Society Symposium*, San Francisco, CA, Jun. 2024. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Functional.bib)
+* H. J. Freeman, A. S. Atalay, **J. Li**, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, B. R. Diamond, A. C. Seifert, D. Hunt, Y. G. Bodien, J. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Longitudinal lesion expansion in chronic traumatic brain injury",  
+*41st Annual National Neurotrauma Society Symposium*, San Francisco, CA, Jun. 2024. (Publlished) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Longitudinal.bib)
 
 * M. Öncel, J. H. Lai, **J. Li**, S. A. Aykan, J. Yang, T. Qin, A. Harriott, D. Boas, S. Sakadžić, C. Ayata, B. L. Edlow, D. Y. Chung,  
 "Functional neuronal networks after cortical spreading depolarizations",  
-*76th Annual Meeting of American Academy of Neurology*, Denver, CO, Apr. 2024. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Oncel_2024_AAN_Functional.bib)
+*76th Annual Meeting of American Academy of Neurology*, Denver, CO, Apr. 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1212/WNL.0000000000205353){:target="Oncel_2024_AAN_Functional-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Oncel_2024_AAN_Functional.bib)
 
 ### 2023
 

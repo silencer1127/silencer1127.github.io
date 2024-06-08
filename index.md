@@ -4,7 +4,7 @@ category: "main"
 permalink: /
 layout: single
 author_profile: false
-date: 2024-03-22
+date: 2024-05-22
 ---
 
 {% assign author = site.author %}
@@ -29,6 +29,8 @@ Massachusetts General Hospital, Harvard Medical School
 I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://www.nmr.mgh.harvard.edu/user/5499){:target="fischl"}, Dr. [Adrian Dalca](https://www.mit.edu/~adalca/){:target="dalca"} in the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} at the Martinos Center and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} in the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"} at MGH, HMS. I received my Ph.D degree in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}, ECE, USC in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of neuroimaging data. Of particular recent interest, I'm focusing on the development of computational methods for functional connectivity analysis and functional registration.
 
 ## News
+
+- 2024/05: Congratulations to Dr. Edlow for the publication of ["Multimodal MRI reveals brainstem connections that sustain wakefulness in human consciousness"](https://do.org/10.1126/scitranslmed.adj4303){:target="_blank"} in *Science Translational Medicine*!
 
 - 2024/03: Congrats to Hussam for the study of ["Is high-frequency activity at seizure onset inhibitory? A stereoelectroencephalographic study of motor cortex seizures"](https://doi.org/10.1002/ana.26883){:target="_blank"} publised in *Annals of Neurology*.
 
