@@ -14,7 +14,7 @@ date: 2024-08-28
 <div class="table-like authors">
   <div>
     <center>
-      <a href="https://silencer1127.github.io/">Jian Li (Andrew)</a>
+      <a href="https://silencer1127.github.io/" target="_blank">Jian Li (Andrew)</a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; CNTR</p>
@@ -22,7 +22,7 @@ date: 2024-08-28
   </div>
   <div>
   	<center>
-      <a href="http://www.tuckute.com/">Greta Tuckute</a>
+      <a href="http://www.tuckute.com/" target="_blank">Greta Tuckute</a>
     </center>
     <center>
       <p class="affiliation">MIT BCS &amp; McGovern</p>
@@ -30,7 +30,7 @@ date: 2024-08-28
   </div>
   <div>
     <center>
-      <a href="https://www.evlab.mit.edu/about-ev">Evelina Fedorenko</a>
+      <a href="https://www.evlab.mit.edu/about-ev" target="_blank">Evelina Fedorenko</a>
     </center>
     <center>
       <p class="affiliation">MIT BCS &amp; McGovern</p>
@@ -39,7 +39,7 @@ date: 2024-08-28
   <div class="break"></div>
   <div>
     <center>
-      <a href="https://www.comarecoverylab.org/brian-l-edlow-md">Brian L. Edlow</a>
+      <a href="https://www.comarecoverylab.org/brian-l-edlow-md" target="_blank">Brian L. Edlow</a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; CNTR</p>
@@ -47,7 +47,7 @@ date: 2024-08-28
   </div>
   <div>
     <center>
-      <a href="https://www.mit.edu/~adalca/">Adrian V. Dalca</a>
+      <a href="https://www.mit.edu/~adalca/" target="_blank">Adrian V. Dalca</a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; MIT CSAIL</p>
@@ -55,7 +55,7 @@ date: 2024-08-28
   </div>
   <div>
     <center>
-      <a href="https://lcn.martinos.org/people/fischl/">Bruce Fischl</a>
+      <a href="https://lcn.martinos.org/people/fischl/" target="_blank">Bruce Fischl</a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; MIT CSAIL</p>
@@ -68,9 +68,9 @@ date: 2024-08-28
 </div>
 
 <div class="text-center">
-	<a href="https://arxiv.org/abs/2312.07381"><i class="fa fa-file-pdf-o"></i> &nbsp;Paper</a>
+	<a href="https://doi.org/10.1016/j.media.2024.103292" target="_blank"><i class="fa fa-file-pdf-o"></i> &nbsp;Paper</a>
 	&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/freesurfer/freesurfer"><i class="fa fa-code"></i> &nbsp;Code</a>
+	<a href="https://github.com/freesurfer/freesurfer" target="_blank"><i class="fa fa-code"></i> &nbsp;Code</a>
 </div>
 
 ## Overview
