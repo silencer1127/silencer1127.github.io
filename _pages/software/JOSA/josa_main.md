@@ -68,7 +68,7 @@ date: 2024-08-28
 </div>
 
 <div class="text-center">
-	<a href="https://doi.org/10.1016/j.media.2024.103292" target="_blank"><i class="fa fa-file-pdf-o"></i> &nbsp;Paper</a>
+	<a href="https://silencer1127.github.io/files/pdf/Li_2024_MedImageAnal_Josa.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> &nbsp;Paper</a>
 	&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/freesurfer/freesurfer" target="_blank"><i class="fa fa-code"></i> &nbsp;Code</a>
 </div>
