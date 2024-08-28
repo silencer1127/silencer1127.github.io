@@ -1,5 +1,15 @@
 ### 2024
 
+* H. J. Freeman, A. S. Atalay, **J. Li**, E. Sobczak, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, D. Sheppard, D. Hunt, A. C. Seifert, Y. G. Bodien, J. M. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Longitudinal lesion expansion in chronic traumatic brain injury",  
+*medRxiv*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2024.06.24.24309307){:target="Freeman_2024_medRxiv_Longitudinal-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.medrxiv.org/content/10.1101/2024.06.24.24309307v1){:target="Freeman_2024_medRxiv_Longitudinal-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_medRxiv_Longitudinal.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Traumatic brain injury (TBI) is a risk factor for neurodegeneration and cognitive decline, yet the underlying pathophysiologic mechanisms are incompletely understood. This gap in knowledge is in part related to the lack of analytic methods to account for cortical lesions in prior neuroimaging studies. The objective of this study was to develop a lesion detection tool and apply it to an investigation of longitudinal changes in brain structure among individuals with chronic TBI. We identified 24 individuals with chronic moderate-to-severe TBI enrolled in the Late Effects of TBI (LETBI) study who had cortical lesions detected by T1-weighted MRI at two time points. Initial MRI scans were performed more than 1-year post-injury and follow-up scans were performed 3.1 (IQR=1.7) years later. We leveraged FreeSurfer parcellations of T1-weighted MRI volumes and a recently developed super-resolution technique, SynthSR, to identify cortical lesions in this longitudinal dataset. Trained raters received the data in a randomized order and manually corrected the automated lesion segmentation, yielding a final lesion mask for each scan at each timepoint. Lesion volume significantly increased between the two time points with a median volume change of 3.2 (IQR=5.9) mL (p<0.001), and the increases significantly exceeded the possible variance in lesion volume changes due to manual tracing errors (p < 0.001). Lesion volume significantly expanded longitudinally in 23 of 24 subjects, with all FDR corrected p-values ≤ 0.02. Inter-scan duration was not associated with the magnitude of lesion growth. We also demonstrated that the semi-automated tool showed a high level of accuracy compared to “ground truth” manual lesion segmentation. Semi-automated lesion segmentation is feasible in TBI studies and creates opportunities to elucidate mechanisms of post-traumatic neurodegeneration.
+      </p>
+  </details>
+
 * Y. Liu, **J. Li**, J. L. Wisnowski<sup>&Dagger;</sup>, R. M. Leahy<sup>&Dagger;</sup>,  
 "Graph learning for cortical parcellation from tensor decompositions of resting-state fMRI",  
 *bioRxiv*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2021.12.09.472035){:target="Liu_2024_bioRxiv_Graph-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.biorxiv.org/content/10.1101/2021.12.09.472035v2.full.pdf){:target="Liu_2024_bioRxiv_Graph-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2024_bioRxiv_Graph.bib)  
@@ -11,16 +21,6 @@
   </details>
 
 ### 2023
-
-* **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca<sup>&Dagger;</sup>, B. Fischl<sup>&Dagger;</sup>,  
-"JOSA: Joint surface-based registration and atlas construction of brain geometry and function",  
-*arXiv*, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.48550/arXiv.2311.08544){:target="Li_2023_arXiv_Josa-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://arxiv.org/pdf/2311.08544.pdf){:target="Li_2023_arXiv_Josa-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_arXiv_Josa.bib)  
-  <details>
-    <summary style="font-size:16px">Abstract</summary>
-      <p style="margin-left: 20px; text-align: justify; font-size:16px">
-      Surface-based cortical registration is an important topic in medical image analysis and facilitates many downstream applications. Current approaches for cortical registration are mainly driven by geometric features, such as sulcal depth and curvature, and often assume that registration of folding patterns leads to alignment of brain function. However, functional variability of anatomically corresponding areas across subjects has been widely reported, particularly in higher-order cognitive areas. In this work, we present JOSA, a novel cortical registration framework that jointly models the mismatch between geometry and function while simultaneously learning an unbiased population-specific atlas. Using a semi-supervised training strategy, JOSA achieves superior registration performance in both geometry and function to the state-of-the-art methods but without requiring functional data at inference. This learning framework can be extended to any auxiliary data to guide spherical registration that is available during training but is difficult or impossible to obtain during inference, such as parcellations, architectonic identity, transcriptomic information, and molecular profiles. By recognizing the mismatch between geometry and function, JOSA provides new insights into the future development of registration methods using joint analysis of the brain structure and function.
-      </p>
-  </details>
 
 * B. L. Edlow, M. Olchanyi, H. J. Freeman, S. B. Snider, **J. Li**, J. E. Iglesias, Y. G. Bodien, C. Maffei, J. Augustinack, L. Zöllei, D. N. Greve, M. Bianciardi, B. R. Diamond, R. J. Cali, J. C. Nolan, A. Stevens, A. Yendiki, J. T. Giacino, A. Kouwe, C. Destrieux, R. D. Folkerth, E. N. Brown, B. Fischl, H. C. Kinney,  
 "Sustaining wakefulness: Brainstem connectivity in human consciousness",  

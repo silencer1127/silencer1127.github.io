@@ -12,15 +12,17 @@ date: 2023-11-19
 
 Implementations of many algorithms or methods we have published will be provided here to promote [reproducibility](https://ieeexplore.ieee.org/document/4815541/){:target="reproducibility"} and productivity of brain research. Please see the details and links below.
 
-* [Nadam-accelerated Scalable and Robust CP Decomposition (NASCAR)](/software/NASCAR/nascar_main){:target="software_nascar"}
+* [(JOSA): <ins>Jo</ins>int <ins>s</ins>urface-based registration and <ins>a</ins>tlas construction of brain geometry and function](/software/JOSA/josa_main){:target="software_josa"}
 
-* [Global PDF-based Non-local Means Filter (GPDF)](/software/GPDF/gpdf_main){:target="software_gpdf"}
+* [(NASCAR): <ins>Na</ins>dam-accelerated <ins>sca</ins>lable and <ins>r</ins>obust CP decomposition](/software/NASCAR/nascar_main){:target="software_nascar"}
 
-* [Group BrainSync (GBS)](https://neuroimageusc.github.io/GBS){:target="software_gbs"}
+* [(GPDF): <ins>G</ins>lobal <ins>PDF</ins>-based non-local means filter](/software/GPDF/gpdf_main){:target="software_gpdf"}
 
-* [Scalable and Robust Sequential Canonical Polyadic Decomposition (SRSCPD)](/software/SRSCPD_ALS/srscpd_als_main){:target="software_srscpd"}
+* [(GBS): <ins>G</ins>roup <ins>B</ins>rain<ins>S</ins>ync](https://neuroimageusc.github.io/GBS){:target="software_gbs"}
 
-* [Epileptogenic Zone Fingerprint (EZF)](/software/EZ_Fingerprint/ezf_main){:target="software_ezf"}
+* [(SRSCPD): <ins>S</ins>calable and <ins>r</ins>obust <ins>s</ins>equential <ins>c</ins>anonical <ins>p</ins>olyadic <ins>d</ins>ecomposition](/software/SRSCPD_ALS/srscpd_als_main){:target="software_srscpd"}
+
+* [(EZF): <ins>E</ins>pileptogenic <ins>z</ins>one <ins>f</ins>ingerprint](/software/EZ_Fingerprint/ezf_main){:target="software_ezf"}
 
 * [BrainSync](https://neuroimage.usc.edu/neuro/Resources/BrainSync){:target="software_brainsync"}
 

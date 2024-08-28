@@ -17,7 +17,7 @@ date: 2024-05-22
 <div style="font-family:arial; font-weight: bold"><span style="font-size:32px">Jian Li</span><span style="font-size:30px; vertical-align:6%"> (</span><span style="font-size:30px; vertical-align:2%">Andrew</span><span style="font-size:30px; vertical-align:6%">)</span></div>
 <hr style="width:50%;margin-left:0;margin-top:15px;margin-bottom:2em;">
 
-Research Fellow,  
+Instructor,  
 Athinoula A. Martinos Center for Biomedical Imaging  
 Massachusetts General Hospital, Harvard Medical School
 
@@ -26,9 +26,11 @@ Massachusetts General Hospital, Harvard Medical School
 <i class="fa fa-envelope-o" aria-hidden="true"></i> Email: jli112 <i class="fa fa-at" aria-hidden="true"></i> mgh![](/images/dot.jpg)harvard![](/images/dot.jpg)edu
 
 **About**:  
-I am a Research Fellow under a joint supervision by Dr. [Bruce Fischl](http://www.nmr.mgh.harvard.edu/user/5499){:target="fischl"}, Dr. [Adrian Dalca](https://www.mit.edu/~adalca/){:target="dalca"} in the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} at the Martinos Center and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} in the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"} at MGH, HMS. I received my Ph.D degree in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}, ECE, USC in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of neuroimaging data. Of particular recent interest, I'm focusing on the development of computational methods for functional connectivity analysis and functional registration.
+I am an Instructor in investigation at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/){:target="martinos"}, [Massachusetts General Hospital](https://www.massgeneral.org/){:target="mgh"} and [Harvard Medical School](https://hms.harvard.edu/){:target="hms"}. Previously, I was a Research Fellow under a joint supervision by Dr. [Bruce Fischl](https://lcn.martinos.org/people/fischl/){:target="fischl"}, Dr. [Adrian Dalca](https://www.mit.edu/~adalca/){:target="dalca"} at the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} at the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"}. I received my Ph.D degree in [Electrical Engineering](https://minghsiehece.usc.edu/){:target="uscee"} at the [University of Southern California](https://www.usc.edu/){:target="usc"} in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"} at the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of neuroimaging data. Of particular recent interest, I'm focusing on the development of computational methods for functional connectivity analysis and functional registration.
 
 ## News
+
+- 2024/08: ["JOSA: Joint surface-based registration and atlas construction of brain geometry and function"](https://doi.org/10.1016/j.media.2024.103292){:target="_blank"} is now published in *Medical Image Analysis*. Learn more [here](/software/JOSA/josa_main).
 
 - 2024/05: Congratulations to Dr. Edlow for the publication of ["Multimodal MRI reveals brainstem connections that sustain wakefulness in human consciousness"](https://do.org/10.1126/scitranslmed.adj4303){:target="_blank"} in *Science Translational Medicine*!
 

@@ -2,7 +2,7 @@
 
 * **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, B. Fischl<sup>&Dagger;</sup>, A. V. Dalca<sup>&Dagger;</sup>,  
 "Joint cortical registration of geometry and function via semi-supervised learning",  
-*Medical Imaging with Deep Learning*, Nashville, TN, Jul. 2023.  &nbsp; [<i class="fa fa-link"></i>](https://openreview.net/forum?id=n9v_BuIcY7G){:target="Li_2023_MIDL_Joint-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_MIDL_Joint.pdf){:target="Li_2023_MIDL_Joint-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_MIDL_Joint.bib)  
+*Medical Imaging with Deep Learning*, Nashville, TN, Jul. 2023, pp. 862--876.  &nbsp; [<i class="fa fa-link"></i>](https://proceedings.mlr.press/v227/li24b.html){:target="Li_2023_MIDL_Joint-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2023_MIDL_Joint.pdf){:target="Li_2023_MIDL_Joint-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_MIDL_Joint.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
