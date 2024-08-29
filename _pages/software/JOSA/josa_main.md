@@ -6,6 +6,10 @@ layout: single
 date: 2024-08-28
 ---
 
+<i class="fa fa-link"></i> &nbsp; doi/url &nbsp;&nbsp;&nbsp; <i class="fa fa-file-pdf-o"></i> &nbsp; pdf &nbsp;&nbsp;&nbsp; <i class="fa fa-code"></i> &nbsp; code &nbsp;&nbsp;&nbsp; <i class="fa fa-quote-right"></i> &nbsp; bib &nbsp;&nbsp;&nbsp; &dagger; co-first authors; &nbsp;&nbsp;&nbsp; &Dagger; co-senior authors
+
+<br>
+
 <div class="text-center" style="font-size: 2em; font-weight: bold;">JOSA</div>
 <div class="text-center" style="font-size: 1.2em;">Joint spherical registration and altas building</div>
 
@@ -47,7 +51,7 @@ date: 2024-08-28
   </div>
   <div>
     <center>
-      <a href="https://www.mit.edu/~adalca/" target="_blank">Adrian V. Dalca</a>
+      <a href="https://www.mit.edu/~adalca/" target="_blank">Adrian V. Dalca<sup>&Dagger;</sup></a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; MIT CSAIL</p>
@@ -55,7 +59,7 @@ date: 2024-08-28
   </div>
   <div>
     <center>
-      <a href="https://lcn.martinos.org/people/fischl/" target="_blank">Bruce Fischl</a>
+      <a href="https://lcn.martinos.org/people/fischl/" target="_blank">Bruce Fischl<sup>&Dagger;</sup></a>
     </center>
     <center>
       <p class="affiliation">MGH Martinos &amp; MIT CSAIL</p>
@@ -64,7 +68,7 @@ date: 2024-08-28
 </div>
 <br>
 <div class="text-center">
-	<p style="font-size: 1.2em; font-weight: bold; color: #f79646">Medical Image Analysis</p>
+	<a href="https://doi.org/10.1016/j.media.2024.103292" target="_blank"><p style="font-size: 1.2em; font-weight: bold; color: #f79646"><i class="fa fa-link"></i> Medical Image Analysis</p></a>
 </div>
 
 <div class="text-center">
@@ -97,10 +101,29 @@ In contrast to many other learning-based methods, JOSA also estimates a populati
 
 If you find our work or any of our materials useful, please cite our papers:
 
-J. Li, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca<sup>&Dagger;</sup>, B. Fischl<sup>&Dagger;</sup>, "JOSA: Joint surface-based registration and atlas construction of brain geometry and function", *Medical Image Analysis*, , p. 103292, 2024. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2024_MedImageAnal_Josa.bib)  
+J. Li, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca<sup>&Dagger;</sup>, B. Fischl<sup>&Dagger;</sup>, "JOSA: Joint surface-based registration and atlas construction of brain geometry and function", *Medical Image Analysis*, , p. 103292, 2024. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2024_MedImageAnal_Josa.bib)
+```
+@article{Li_2024_MedImageAnal_Josa,
+    author = {Li, Jian and Tuckute, Greta and Fedorenko, Evelina and Edlow, Brian L. and Dalca, Adrian V. and Fischl, Bruce},
+    doi = {10.1016/j.media.2024.103292},
+    journal = {Medical Image Analysis},
+    pages = {103292},
+    title = {JOSA: Joint surface-based registration and atlas construction of brain geometry and function},
+    year = {2024}
+}
+```
 
 J. Li, G. Tuckute, E. Fedorenko, B. L. Edlow, B. Fischl<sup>&Dagger;</sup>, A. V. Dalca<sup>&Dagger;</sup>, "Joint cortical registration of geometry and function via semi-supervised learning", *Medical Imaging with Deep Learning*, Nashville, TN, Jul. 2023, pp. 862--876. &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2023_MIDL_Joint.bib)  
-
+```
+@inproceedings{Li_2023_MIDL_Joint,
+    author = {Li, Jian and Tuckute, Greta and Fedorenko, Evelina and Edlow, Brian L. and Fischl, Bruce and Dalca, Adrian V.},
+    booktitle = {Medical Imaging with Deep Learning},
+    city = {Nashville},
+    month = {07},
+    title = {Joint cortical registration of geometry and function via semi-supervised learning},
+    year = {2023}
+}
+```
 
 ## Disclaimer
 
