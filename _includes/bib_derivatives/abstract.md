@@ -1,12 +1,18 @@
+### 2025
+
+* Y. Mantilla-Ramos, K. Jerbi, **J. Li**, D. Nair, R. M. Leahy,  
+"Using neural signal complexity and supervised machine-learning to determine the epileptogenic zone in drug-resistant epilepsy",  
+*22nd Annual Computational and Systems Neuroscience Conference*, Montreal, Quebec, Canada, Mar. 2025. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/MantillaRamos_2025_COSYNE_Using.bib)
+
 ### 2024
 
 * M. Cambareri, **J. Li**<sup>&Dagger;</sup>, B. E. Edlow<sup>&Dagger;</sup>,  
 "Subcortical regions associated with consciousness level have high measures of resting state functional network integration",  
-*Neurocritical Care Society 22nd Annual Meeting*, San Diego, CA, Oct. 2024. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2024_NCS_Subcortical.bib)
+*Neurocritical Care Society 22nd Annual Meeting*, San Diego, CA, Oct. 2024.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2024_NCS_Subcortical.bib)
 
 * H. J. Freeman, A. S. Atalay, **J. Li**, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, B. R. Diamond, A. C. Seifert, D. Hunt, Y. G. Bodien, J. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
 "Longitudinal lesion expansion in chronic traumatic brain injury",  
-*41st Annual National Neurotrauma Society Symposium*, San Francisco, CA, Jun. 2024. (Publlished) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Longitudinal.bib)
+*41st Annual National Neurotrauma Society Symposium*, San Francisco, CA, Jun. 2024.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Longitudinal.bib)
 
 * M. Öncel, J. H. Lai, **J. Li**, S. A. Aykan, J. Yang, T. Qin, A. Harriott, D. Boas, S. Sakadžić, C. Ayata, B. L. Edlow, D. Y. Chung,  
 "Functional neuronal networks after cortical spreading depolarizations",  
