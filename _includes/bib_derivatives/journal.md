@@ -1,8 +1,60 @@
+### 2025
+
+* H. J. Freeman, A. S. Atalay, **J. Li**, E. Sobczak, N. Gilmore, S. B. Snider, B. C. Healy, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, D. Sheppard, D. Hunt, A. C. Seifert, Y. G. Bodien, J. M. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Unsupervised semi-automated MRI segmentation detects cortical lesion expansion in chronic traumatic brain injury",  
+*Frontiers in Neurology*, 2025. (In press) &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.3389/fneur.2025.1640514){:target="Freeman_2025_FrontNeurol_Unsupervised-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2025_FrontNeurol_Unsupervised.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Traumatic brain injury (TBI) is a risk factor for neurodegeneration and cognitive decline, yet the underlying pathophysiologic mechanisms are incompletely understood. This gap in knowledge is in part related to a lack of reliable and efficient methods for measuring cortical lesions in neuroimaging studies. The objective of this study was to develop a semi-automated lesion detection tool and apply it to an investigation of longitudinal changes in brain structure among individuals with chronic TBI. We identified 24 individuals with chronic moderate-to-severe TBI enrolled in the Late Effects of TBI (LETBI) study who had cortical lesions detected by T1-weighted MRI and underwent two MRI scans at least two years apart. Initial MRI scans were performed more than one year post-injury, and follow-up scans were performed 3.1 (IQR=1.7) years later. We leveraged FreeSurfer parcellations of T1-weighted MRI volumes and a recently developed super-resolution technique, SynthSR, to automate the identification of cortical lesions in this longitudinal dataset. Trained raters received the data in a randomized order and manually edited the automated lesion segmentations, yielding a final semi-automated lesion mask for each scan at each time point. Inter-rater variability was assessed in an independent cohort of 10 additional LETBI subjects with cortical lesions. The semi-automated lesion segmentations showed a high level of accuracy compared to "ground truth" lesion segmentations performed via manual segmentation by a separate blinded rater. In a longitudinal analysis of the semi-automated segmentations, lesion volume increased between the two time points with a median volume change of 4.91 (IQR=12.95) mL (p<0.0001). Lesion volume significantly expanded in 37 of 61 measured lesions (60.7%), as defined by a longitudinal volume increase that exceeded inter-rater variability. Longitudinal analyses showed similar changes in lesion volume using the ground-truth lesion segmentations. Inter-scan duration was not associated with the magnitude of lesion growth. While the proposed tool requires further refinement and validation, we show that reliable and efficient semi-automated lesion segmentation is feasible in studies of chronic TBI, creating opportunities to elucidate mechanisms of post-traumatic neurodegeneration.
+      </p>
+  </details>
+
+* M. D. Olchanyi, J. Augustinack, R. L. Haynes, L. Lewis, N. Cicero, **J. Li**, C. Destrieux, R. D. Folkerth, H. C. Kinney, B. Fischl, E. N. Brown, J. E. Iglesias<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Automated MRI segmentation of brainstem nuclei critical to consciousness",  
+*Human Brain Mapping*, vol. 46, no. 14, p. e70357, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/hbm.70357){:target="Olchanyi_2025_HumBrainMapp_Automated-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Olchanyi_2025_HumBrainMapp_Automated.pdf){:target="Olchanyi_2025_HumBrainMapp_Automated-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2025_HumBrainMapp_Automated.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Although substantial progress has been made in mapping the connectivity of cortical networks responsible for conscious awareness, neuroimaging analysis of subcortical networks that modulate arousal (i.e., wakefulness) has been limited by a lack of robust segmentation procedures for ascending arousal network (AAN) nuclei in the brainstem. Automated segmentation of brainstem AAN nuclei is an essential step toward elucidating the physiology of human consciousness and the pathophysiology of disorders of consciousness. We created a probabilistic atlas of 10 AAN nuclei built on diffusion MRI scans of 5 ex vivo human brain specimens imaged at 750 μm isotropic resolution. The neuroanatomic boundaries of AAN nuclei were manually annotated with reference to 200 μm 7 Tesla MRI scans in all five specimens and nucleus-specific immunostains in two of the scanned specimens. We then developed a Bayesian segmentation algorithm that utilizes the probabilistic atlas as a generative model and automatically identifies AAN nuclei in a resolution- and contrast-adaptive manner. The segmentation method displayed high accuracy when applied to in vivo T1 MRI scans of healthy individuals and patients with traumatic brain injury, as well as high test–retest reliability across T1 and T2 MRI contrasts. Finally, we show through classification and correlation assessments that the algorithm can detect volumetric changes and differences in magnetic susceptibility within AAN nuclei in patients with Alzheimer's disease and traumatic coma, respectively. We release the probabilistic atlas and Bayesian segmentation tool to advance the study of human consciousness and its disorders.
+      </p>
+  </details>
+
+* M. K. Cambareri, L. Lewis, A. Horn, **J. Li**<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Subcortical hubs of brain nentworks sustaining human consciousness",  
+*Human Brain Mapping*, vol. 46, no. 14, p. e70352, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/hbm.70352){:target="Cambareri_2025_HumBrainMapp_Subcortical-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cambareri_2025_HumBrainMapp_Subcortical.pdf){:target="Cambareri_2025_HumBrainMapp_Subcortical-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2025_HumBrainMapp_Subcortical.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Neuromodulation of subcortical network hubs by pharmacologic, electrical, or ultrasonic stimulation is a promising therapeutic strategy for patients with disorders of consciousness (DoC). However, optimal subcortical targets for therapeutic stimulation are not well established. Here, we leveraged 7 Tesla resting-state functional MRI (rs-fMRI) data from 168 healthy subjects from the Human Connectome Project to map the subcortical connectivity of six canonical cortical networks that modulate higher-order cognition and function: the default mode, executive control, salience, dorsal attention, visual, and somatomotor networks. Based on spatiotemporally overlapped networks generated by the Nadam-Accelerated SCAlable and Robust (NASCAR) tensor decomposition method, our goal was to identify subcortical hubs that are functionally connected to multiple cortical networks. We found that the ventral tegmental area (VTA) in the midbrain and the central lateral and parafascicular nuclei of the thalamus - regions that have historically been targeted by neuromodulatory therapies to restore consciousness - are subcortical hubs widely connected to multiple cortical networks. Further, we identified a subcortical hub in the pontomesencephalic tegmentum that overlapped with multiple reticular and extrareticular arousal nuclei and that encompassed a well-established “hot spot” for coma-causing brainstem lesions. Multiple hubs within the brainstem arousal nuclei and thalamic intralaminar nuclei were functionally connected to both the default mode and salience networks, emphasizing the importance of these cortical networks in integrative subcortico-cortical signaling. Additional subcortical connectivity hubs were observed within the caudate head, putamen, amygdala, hippocampus, and bed nucleus of the stria terminalis, regions classically associated with modulation of cognition, behavior, and sensorimotor function. Collectively, these results suggest that multiple subcortical hubs in the brainstem tegmentum, thalamus, basal ganglia, and medial temporal lobe modulate cortical function in the human brain. Our findings strengthen the evidence for targeting subcortical hubs in the VTA, thalamic intralaminar nuclei, and pontomesencephalic tegmentum to restore consciousness in patients with DoC. We release the subcortical connectivity maps to support ongoing efforts at therapeutic neuromodulation of consciousness.
+      </p>
+  </details>
+
+* Warren, M. Raguz̆, H. Friedrich, Schaper, J. Tasserie, S. B. Snider, **J. Li**, Chua, K. Butenko, M. Friedrich, R. Jha, J. E. Iglesias, P. W. Carney, M. D. Fox, A. D. Boes, B. L. Edlow, A. Horn, D. Chudy<sup>&Dagger;</sup>, J. D. Rolston<sup>&Dagger;</sup>,  
+"A human brain network linked to restoration of consciousness after deep brain stimulation",  
+*Nature Communications*, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1038/s41467-025-61988-4){:target="Warren_2025_NatCommun_Human-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Warren_2025_NatCommun_Human.pdf){:target="Warren_2025_NatCommun_Human-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Warren_2025_NatCommun_Human.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Disorders of consciousness (DoC) are states of impaired arousal or awareness. Deep brain stimulation (DBS) is a potential treatment, but outcomes vary, possibly due to differences in patient characteristics, electrode placement, or stimulation of specific brain networks. We studied 40 patients with DoC who underwent DBS targeting the thalamic centromedian-parafascicular complex. Better-preserved gray matter, especially in the striatum, correlated with consciousness improvement. Stimulation was most effective when electric fields extended into parafascicular and subparafascicular nuclei—ventral to the centromedian nucleus, near the midbrain—and when it engaged projection pathways of the ascending arousal network, including the hypothalamus, brainstem, and frontal lobe. Moreover, effective DBS sites were connected to networks similar to those underlying impaired consciousness due to generalized absence seizures and acquired lesions. These findings support the therapeutic potential of DBS for DoC, emphasizing the importance of precise targeting and revealing a broader link between effective DoC treatment and mechanisms underlying other consciousness-impairing conditions.
+      </p>
+  </details>
+
+* A. Khalaf, E. Lopez, **J. Li**, A. Horn, B. L. Edlow, H. Blumenfeld,  
+"Shared subcortical arousal systems across sensory modalities during transient modulation of attention",  
+*Neuroimage*, , p. 121224, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.neuroimage.2025.121224){:target="Khalaf_2025_Neuroimage_Shared-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Khalaf_2025_Neuroimage_Shared.pdf){:target="Khalaf_2025_Neuroimage_Shared-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Khalaf_2025_Neuroimage_Shared.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Subcortical arousal systems are known to play a key role in controlling sustained changes in attention and conscious awareness. Recent studies indicate that these systems have a major influence on short-term dynamic modulation of visual attention, but their role across sensory modalities is not fully understood. In this study, we investigated shared subcortical arousal systems across sensory modalities during transient changes in attention using block and event-related fMRI paradigms. We analyzed massive publicly available fMRI datasets collected while 1,561 participants performed visual, auditory, tactile, and taste perception tasks. Our analyses revealed a shared circuit of subcortical arousal systems exhibiting early transient increases in activity in midbrain reticular formation and central thalamus across perceptual modalities, as well as less consistent increases in pons, hypothalamus, basal forebrain, and basal ganglia. Identifying these networks is critical for understanding mechanisms of normal attention and consciousness and may help facilitate subcortical targeting for therapeutic neuromodulation.
+      </p>
+  </details>
+
 ### 2024
 
 * **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca<sup>&Dagger;</sup>, B. Fischl<sup>&Dagger;</sup>,  
 "JOSA: Joint surface-based registration and atlas construction of brain geometry and function",  
-*Medical Image Analysis*, , p. 103292, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.media.2024.103292){:target="Li_2024_MedImageAnal_Josa-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2024_MedImageAnal_Josa.pdf){:target="Li_2024_MedImageAnal_Josa-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2024_MedImageAnal_Josa.bib)  
+*Medical Image Analysis*, vol. 98, p. 103292, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.media.2024.103292){:target="Li_2024_MedImageAnal_Josa-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Li_2024_MedImageAnal_Josa.pdf){:target="Li_2024_MedImageAnal_Josa-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Li_2024_MedImageAnal_Josa.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -31,8 +83,8 @@
   </details>
 
 * H. Shaker, **J. Li**, M. Kobayashi, O. Grinenko, I. Najm, J. Bulacio, R. Leahy, P. Chauvel,  
-"Is high-frequency activity at seizure onset inhibitory: An stereoelectroencephalographic study of motor cortex seizures",  
-*Annals of Neurology*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/ana.26883){:target="Shaker_2024_AnnNeurol_Is-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Shaker_2024_AnnNeurol_Is.pdf){:target="Shaker_2024_AnnNeurol_Is-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2024_AnnNeurol_Is.bib)  
+"Is high-frequency activity at seizure onset inhibitory: A stereoelectroencephalographic study of motor cortex seizures",  
+*Annals of Neurology*, vol. 95, no. 6, pp. 1127--1137, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/ana.26883){:target="Shaker_2024_AnnNeurol_Is-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Shaker_2024_AnnNeurol_Is.pdf){:target="Shaker_2024_AnnNeurol_Is-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Shaker_2024_AnnNeurol_Is.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -44,7 +96,7 @@
 
 * T. Aung<sup>&dagger;</sup>, O. Grinenko<sup>&dagger;</sup>, **J. Li**, J. Mosher, P. Chauvel, J. Martinez-Gonzalez,  
 "Stereo-electroencephalography guided laser ablation in neocortical epilepsy: Electrophysiological correlations and outcome",  
-*Epilepsia*, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Aung_2023_Epilepsia_Stereo.pdf){:target="Aung_2023_Epilepsia_Stereo-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib)  
+*Epilepsia*, vol. 64, no. 11, pp. 2993--3012, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1111/epi.17739){:target="Aung_2023_Epilepsia_Stereo-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Aung_2023_Epilepsia_Stereo.pdf){:target="Aung_2023_Epilepsia_Stereo-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Aung_2023_Epilepsia_Stereo.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -54,7 +106,7 @@
 
 * B. L. Edlow, M. Fecchio, Y. G. Bodien, A. Comanducci, M. Rosanova, S. Casarotto, M. J. Young, **J. Li**, D. D. Dougherty, C. Koch, G. Tononi, M. Massimini, M. Boly,  
 "Measuring consciousness in the intensive care unit",  
-*Neurocritical Care*, , no. 38, pp. 584--590, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib)  
+*Neurocritical Care*, vol. 38, pp. 584--590, 2023.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1007/s12028-023-01706-4){:target="Edlow_2023_NeurocritCare_Measuring-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Edlow_2023_NeurocritCare_Measuring.pdf){:target="Edlow_2023_NeurocritCare_Measuring-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2023_NeurocritCare_Measuring.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -190,16 +242,6 @@
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
       Objective: Identification of networks from resting brain signals is an important step in understanding the dynamics of spontaneous brain activity. We approach this problem using a tensor-based model. Methods: We develope a rank-recursive scalable and robust sequential canonical polyadic decomposition (SRSCPD) framework to decompose a tensor into several rank-1 components. Robustness and scalability are achieved using a warm start for each rank based on the results from the previous rank. Results: In simulations we show that SRSCPD consistently outperforms the multistart alternating least square (ALS) algorithm over a range of ranks and signal-to-noise ratios (SNRs), with lower computation cost. When applying SRSCPD to resting in-vivo stereotactic EEG (SEEG) data from two subjects with epilepsy, we found components corresponding to default mode and motor networks in both subjects. These components were also highly consistent within subject between two sessions recorded several hours apart. Similar components were not obtained using the conventional ALS algorithm. Conclusion: Consistent brain networks and their dynamic behaviors were identified from resting SEEG data using SRSCPD. Significance: SRSCPD is scalable to large datasets and therefore a promising tool for identification of brain networks in long recordings from single subjects.
-      </p>
-  </details>
-
-* E. Cvetkovska, W. A. Martins, J. Gonzalez-Martinez, K. Taylor, **J. Li**, O. Grinenko, J. C. Mosher, R. M. Leahy, P. Chauvel, D. Nair,  
-"Heterotopia or overlaying cortex: What about in-between?",  
-*Epilepsy and Behavior Case Reports*, vol. 11, pp. 4--9, 2019.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1016/j.ebcr.2018.09.007){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.pdf){:target="Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cvetkovska_2019_EpilepsyBehavCaseRep_Heterotopia.bib)  
-  <details>
-    <summary style="font-size:16px">Abstract</summary>
-      <p style="margin-left: 20px; text-align: justify; font-size:16px">
-      We describe a patient with unilateral periventricular nodular heterotopia (PNH) and drug-resistant epilepsy, whose SEEG revealed that seizures were arising from the PNH, with the almost simultaneous involvement of heterotopic neurons ("micronodules") scattered within the white matter, and subsequently the overlying cortex. Laser ablation of heterotopic nodules and the adjacent white matter rendered the patient seizure free. This case elucidates that “micronodules” scattered in white matter between heterotopic nodules and overlying cortex might be another contributor in complex epileptogenicity of heterotopia. Detecting patient-specific targets in the epileptic network of heterotopia creates the possibility to disrupt the pathological circuit by minimally invasive procedures.
       </p>
   </details>
 

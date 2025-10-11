@@ -1,18 +1,42 @@
 ### 2025
 
+* B. Coughlin, A. Paulk, P. Hadar, **J. Li**, D. Rubin, L. Hochberg, Z. Williams, S. Cash,  
+"A pipeline for 3D-printing full-scale brains and skulls in high resolution using imaging data",  
+*2025 MGB Neurology Research Retreat*, Boston, MA, Jul. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Coughlin_2025_NRR_Pipeline.bib)
+
+* C. Belly, T. Aung, **J. Li**, T. Tumnark, J. Gonzalez-Martinez, B. Frauscher,  
+"Neuronal coupling between subcortical structure and temporal lobe structures in patients with drug resistant temporal lobe epilepsy",  
+*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Belly_2025_AES_Neuronal.bib)
+
+* D. S. Jin, B. B. Ayvaz, J. R. Wheelock, J. Appleton, **J. Li**, L. J. Hirsch, B. Omay, S. F. Zafar, A. F. Struck, A. V. Dalca, B. L. Edlow, M. B. Westover, E. J. Gilmore, J. A. Kim,  
+"Acute phase magnetic resonance imaging (MRI) measurements predict post traumatic epilepsy (PTE) and functional outcome after traumatic brain injury (TBI)",  
+*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_AES_Acute.bib)
+
+* D. S. Jin, B. B. Ayvaz, J. R. Wheelock, J. Appleton, **J. Li**, L. J. Hirsch, B. Omay, S. F. Zafar, A. F. Struck, A. V. Dalca, B. L. Edlow, M. B. Westover, E. J. Gilmore, J. A. Kim,  
+"Cortical measurements from acute phase magnetic resonance imaging (MRI) predict post-traumatic epilepsy (PTE)",  
+*54th Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_SFN_Cortical.bib)
+
+* B. L. Edlow, M. E. Barra, D. R. Schreier, M. Fecchio, H. J. Freeman, **J. Li**, P. K. Lawrence, W. R. Sanders, A. Meydan, M. Masood, J. E. Kirsch, T. P. Bleck, J. J. Fins, G. J. T., L. R. Hochberg, B. C. Healy, K. Solt, E. N. Brown, Y. G. Bodien,  
+"Intravenous methylphenidate for acute traumatic disorders of consciousness: a phase 1, open-label, safety and dose-finding study",  
+*42st Annual Symposium of National Neurotrauma Society*, Philadelphia, PA, Jun. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2025_NNS_Intravenous.bib)
+
 * Y. Mantilla-Ramos, K. Jerbi, **J. Li**, D. Nair, R. M. Leahy,  
-"Using neural signal complexity and supervised machine-learning to determine the epileptogenic zone in drug-resistant epilepsy",  
-*22nd Annual Computational and Systems Neuroscience Conference*, Montreal, Quebec, Canada, Mar. 2025. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/MantillaRamos_2025_COSYNE_Using.bib)
+"Using complexity and machine-learning to determine the epileptogenic zone in drug-resistant epilepsy",  
+*46th International Conference for Technology and Analysis of Seizures*, Montreal, Quebec, Canada, Jun. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/MantillaRamos_2025_ICTALS_Using.bib)
+
+* D. R. Schreier, M. Fecchio, M. E. Barra, H. J. Freeman, **J. Li**, B. Healy, P. K. Lawrence, W. R. Sanders, A. Meydan, M. Masood, J. E. Kirsch, T. P. Bleck, J. J. Fins, G. J. T., L. R. Hochberg, K. Solt, E. N. Brown, Y. G. Bodien, B. L. Edlow,  
+"Electroencephalographic and behavioral findings from a phase 1 trial using intravenousmethylphenidate to promote consciousness in patients with acute traumatic brain injury",  
+*Consciousness, Anesthesia and Evolutionary Biology Gordon Research Conference*, Lucca, Tuscany, Italy, Jan. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Schreier_2025_GRCConsciousness_Electroencephalographic.bib)
 
 ### 2024
 
-* M. Cambareri, **J. Li**<sup>&Dagger;</sup>, B. E. Edlow<sup>&Dagger;</sup>,  
+* M. K. Cambareri, **J. Li**<sup>&Dagger;</sup>, B. E. Edlow<sup>&Dagger;</sup>,  
 "Subcortical regions associated with consciousness level have high measures of resting state functional network integration",  
 *Neurocritical Care Society 22nd Annual Meeting*, San Diego, CA, Oct. 2024.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2024_NCS_Subcortical.bib)
 
 * H. J. Freeman, A. S. Atalay, **J. Li**, N. Gilmore, S. B. Snider, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, B. R. Diamond, A. C. Seifert, D. Hunt, Y. G. Bodien, J. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
 "Longitudinal lesion expansion in chronic traumatic brain injury",  
-*41st Annual National Neurotrauma Society Symposium*, San Francisco, CA, Jun. 2024.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Longitudinal.bib)
+*41st Annual Symposium of National Neurotrauma Society*, San Francisco, CA, Jun. 2024.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2024_NNS_Longitudinal.bib)
 
 * M. Öncel, J. H. Lai, **J. Li**, S. A. Aykan, J. Yang, T. Qin, A. Harriott, D. Boas, S. Sakadžić, C. Ayata, B. L. Edlow, D. Y. Chung,  
 "Functional neuronal networks after cortical spreading depolarizations",  
@@ -40,7 +64,7 @@
 "Identifying brain networks in a clinically rich and naturalistic dataset using tensor decomposition",  
 *29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023.  &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Mentch_2023_OHBM_Identifying.pdf){:target="Mentch_2023_OHBM_Identifying-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Mentch_2023_OHBM_Identifying.bib)
 
-* M. Olchanyi, H. J. Freeman, H. C. Kinney, S. B. Snider, **J. Li**, J. E. Iglesias, Y. G. Bodien, C. Maffei, J. Augustinack, L. Zöllei, D. N. Greve, M. Bianciardi, B. R. Diamond, R. J. Cali, J. C. Nolan, A. Stevens, A. Yendiki, J. T. Giacino, A. Kouwe, C. Destrieux, R. D. Folkerth, B. Fischl, E. N. Brown, B. L. Edlow,  
+* M. D. Olchanyi, H. J. Freeman, H. C. Kinney, S. B. Snider, **J. Li**, J. E. Iglesias, Y. G. Bodien, C. Maffei, J. Augustinack, L. Zöllei, D. N. Greve, M. Bianciardi, B. R. Diamond, R. J. Cali, J. C. Nolan, A. Stevens, A. Yendiki, J. T. Giacino, A. Kouwe, C. Destrieux, R. D. Folkerth, B. Fischl, E. N. Brown, B. L. Edlow,  
 "Mapping the human default arousal network connectome",  
 *29th Annual Meeting of the Organization for Human Brain Mapping*, Montreal, Canada, Jul. 2023.  &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Olchanyi_2023_OHBM_Mapping.pdf){:target="Olchanyi_2023_OHBM_Mapping-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2023_OHBM_Mapping.bib)
 

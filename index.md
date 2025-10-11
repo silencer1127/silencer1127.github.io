@@ -4,7 +4,7 @@ category: "main"
 permalink: /
 layout: single
 author_profile: false
-date: 2024-05-22
+date: 2025-10-11
 ---
 
 {% assign author = site.author %}
@@ -29,6 +29,14 @@ Massachusetts General Hospital, Harvard Medical School
 I am an Instructor in investigation at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org/){:target="martinos"}, [Massachusetts General Hospital](https://www.massgeneral.org/){:target="mgh"} and [Harvard Medical School](https://hms.harvard.edu/){:target="hms"}. Previously, I was a Research Fellow under a joint supervision by Dr. [Bruce Fischl](https://lcn.martinos.org/people/fischl/){:target="fischl"}, Dr. [Adrian Dalca](https://www.mit.edu/~adalca/){:target="dalca"} at the [Laboratory for Computational Neuroimaging (LCN)](http://www.nmr.mgh.harvard.edu/lab/lcn){:target="lcn"} and Dr. [Brian Edlow](https://www.comarecoverylab.org/brian-l-edlow-md){:target="edlow"} at the [Laboratory for NeuroImaging of Coma and Consciousness (NICC)](https://www.comarecoverylab.org/){:target="nicc"}. I received my Ph.D degree in [Electrical Engineering](https://minghsiehece.usc.edu/){:target="uscee"} at the [University of Southern California](https://www.usc.edu/){:target="usc"} in 2019, advised by Dr. [Richard Leahy](https://neuroimage.usc.edu/neuro/Members/Leahy){:target="leahy"} at the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro){:target="biglab"}. My research interests lie in the application of statistical signal and image processing and machine learning theory to modeling and analysis of neuroimaging data. Of particular recent interest, I'm focusing on the development of computational methods for functional connectivity analysis and functional registration.
 
 ## News
+
+- 2025/09: Congratulations Mark for the awesome work ["Automated MRI segmentation of brainstem nuclei critical to consciousness"](https://doi.org/10.1002/hbm.70357) now available in *Human Brain Mapping*.
+
+- 2025/09: Check out our recently work ["Subcortical hubs of brain networks sustaining human consciousness"](https://doi.org/10.1002/hbm.70352) published in *Human Brain Mapping*. Congratulations Morgan!
+
+- 2025/07: Congratulations to Aaron the the team for the publication of ["A human brain network linked to restoration of consciousness after deep brain stimulation"](https://doi.org/10.1038/s41467-025-61988-4){:target="_blank"} in *Nature Communications*.
+
+- 2025/04: Congrats to Aya for the work ["Shared subcortical arousal systems across sensory modalities during transient modulation of attention"](https://doi.org/10.1016/j.neuroimage.2025.121224){:target="_blank"} published in *Neuroimage*.
 
 - 2024/08: ["JOSA: Joint surface-based registration and atlas construction of brain geometry and function"](https://doi.org/10.1016/j.media.2024.103292){:target="_blank"} is now published in *Medical Image Analysis*. Learn more [here](/software/JOSA/josa_main).
 

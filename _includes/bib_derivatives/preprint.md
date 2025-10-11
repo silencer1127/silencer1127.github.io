@@ -1,4 +1,26 @@
+### 2025
+
+* C. Maschke<sup>&dagger;</sup>, P. Hadar<sup>&dagger;</sup>, Y. Zhang<sup>&dagger;</sup>, **J. Li**<sup>&dagger;</sup>, G. Ganjoo<sup>&dagger;</sup>, A. Hoopes, A. Guazzo, A. Gupta, M. Ghanta, B. Nearing, C. T. Silvers, B. Gunapati, R. Thomas, J. A. Kim<sup>&Dagger;</sup>, S. Mukerji S.<sup>&Dagger;</sup>, A. Dalca<sup>&Dagger;</sup>, S. Zafar<sup>&Dagger;</sup>, A. Lam<sup>&Dagger;</sup>, E. Mignot<sup>&Dagger;</sup>, B. Westover<sup>&Dagger;</sup>,  
+"The Brain imaging and neurophysiology database: BINDing multimodal neural data into a large-scale repository",  
+*medRxiv*, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2024.09.26.24314117){:target="Maschke_2025_medRxiv_Brain-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.medrxiv.org/content/10.1101/2024.09.26.24314117){:target="Maschke_2025_medRxiv_Brain-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Maschke_2025_medRxiv_Brain.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      The Brain Imaging and Neurophysiology Database (BIND) represents one of the largest multi-institutional, multimodal, clinical neuroimaging repositories, comprising 1.8 million brain scans from 38,945 patients, linked to neurophysiological recordings. This comprehensive dataset addresses critical limitations in neuroimaging research by providing unprecedented scale and diversity across pathologies and health. BIND integrates de-identified data from Massachusetts General Hospital, Brigham and Women's Hospital, and Stanford University, including 1,723,699 MRI scans (1.5 Tesla, 3 Tesla, and 7 Tesla), 54,137 CT scans, 5,093 PET scans, and 526 SPECT scans, converted to standardized NIfTI format following BIDS organization. The database spans the full age spectrum (newborn to 106 years) and encompasses diverse neurological conditions alongside healthy patients. We deployed Bio-Medical Large Language Models to extract structured clinical metadata from 84,960 brain-related reports, categorizing findings into standardized pathology classifications. All imaging data are linked to previously published EEG and polysomnography recordings from the Harvard Electroencephalography Database, enabling unprecedented multimodal analyses. BIND is freely accessible for academic research through the Brain Data Science Platform (https://bdsp.io/). This resource facilitates large-scale neuroimaging studies, machine learning applications, and multimodal brain research to accelerate discoveries in clinical neuroscience.
+      </p>
+  </details>
+
 ### 2024
+
+* M. D. Olchanyi, J. Augustinack, R. L. Haynes, L. Lewis, N. Cicero, **J. Li**, C. Destrieux, R. D. Folkerth, H. C. Kinney, B. Fischl, E. N. Brown, J. E. Iglesias<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Histology-guided MRI segmentation of brainstem nuclei critical to consciousness",  
+*medRxiv*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2024.09.26.24314117){:target="Olchanyi_2024_medRxiv_Histology-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.medrxiv.org/content/10.1101/2024.09.26.24314117){:target="Olchanyi_2024_medRxiv_Histology-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2024_medRxiv_Histology.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      While substantial progress has been made in mapping the connectivity of cortical networks responsible for conscious awareness, neuroimaging analysis of subcortical arousal networks that modulate arousal (i.e., wakefulness) has been limited by a lack of a robust segmentation procedures for brainstem arousal nuclei. Automated segmentation of brainstem arousal nuclei is an essential step toward elucidating the physiology of arousal in human consciousness and the pathophysiology of disorders of consciousness. We created a probabilistic atlas of brainstem arousal nuclei built on diffusion MRI scans of five ex vivo human brain specimens scanned at 750 µm isotropic resolution. Labels of arousal nuclei used to generate the probabilistic atlas were manually annotated with reference to nucleus-specific immunostaining in two of the five brain specimens. We then developed a Bayesian segmentation algorithm that utilizes the probabilistic atlas as a generative model and automatically identifies brainstem arousal nuclei in a resolution- and contrast-agnostic manner. The segmentation method displayed high accuracy in both healthy and lesioned in vivo T1 MRI scans and high test-retest reliability across both T1 and T2 MRI contrasts. Finally, we show that the segmentation algorithm can detect volumetric changes and differences in magnetic susceptibility within brainstem arousal nuclei in Alzheimer’s disease and traumatic coma, respectively. We release the probabilistic atlas and Bayesian segmentation tool in FreeSurfer to advance the study of human consciousness and its disorders.
+      </p>
+  </details>
 
 * M. K. Cambareri, L. Lewis, A. Horn, **J. Li**<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
 "Subcortical hubs of brain nentworks sustaining human consciousness",  
@@ -13,16 +35,6 @@
 * Warren, M. Raguz̆, H. Friedrich, Schaper, J. Tasserie, S. B. Snider, **J. Li**, Chua, K. Butenko, M. Friedrich, R. Jha, J. E. Iglesias, P. W. Carney, M. D. Fox, A. D. Boes, B. L. Edlow, A. Horn, D. Chudy<sup>&Dagger;</sup>, J. D. Rolston<sup>&Dagger;</sup>,  
 "A human brain network linked to restoration of consciousness after deep brain stimulation",  
 *medRxiv*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2024.10.17.24314458){:target="Warren_2024_medRxiv_Human-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.medrxiv.org/content/10.1101/2024.10.17.24314458v1){:target="Warren_2024_medRxiv_Human-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Warren_2024_medRxiv_Human.bib)  
-  <details>
-    <summary style="font-size:16px">Abstract</summary>
-      <p style="margin-left: 20px; text-align: justify; font-size:16px">
-      Subcortical arousal systems are known to play a key role in controlling sustained changes in attention and conscious awareness. Recent studies indicate that these systems have a major influence on short-term dynamic modulation of visual attention, but their role across sensory modalities is not fully understood. In this study, we investigated shared subcortical arousal systems across sensory modalities during transient changes in attention using block and event-related fMRI paradigms. We analyzed massive publicly available fMRI datasets collected while 1,561 participants performed visual, auditory, tactile, and taste perception tasks. Our analyses revealed a shared circuit of subcortical arousal systems exhibiting early transient increases in activity in midbrain reticular formation and central thalamus across perceptual modalities, as well as less consistent increases in pons, hypothalamus, basal forebrain, and basal ganglia. Identifying these networks is critical for understanding mechanisms of normal attention and consciousness and may help facilitate subcortical targeting for therapeutic neuromodulation.
-      </p>
-  </details>
-
-* A. Khalaf, E. Lopez, **J. Li**, A. Horn, B. L. Edlow, H. Blumenfeld,  
-"Shared subcortical arousal systems across sensory modalities during transient modulation of attention",  
-*bioRxiv*, 2024.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1101/2024.09.16.613316){:target="Khalaf_2024_bioRxiv_Shared-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](https://www.biorxiv.org/content/10.1101/2024.09.16.613316v1){:target="Khalaf_2024_bioRxiv_Shared-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Khalaf_2024_bioRxiv_Shared.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
