@@ -1,3 +1,9 @@
+### 2026
+
+* Z. Zhou, **J. Li**, J. Williams, B. Fischl, I. Aganj,  
+"Deep learning cortical registration guided by structural and diffusion MRI and connectivity",  
+*IEEE 22nd International Symposium on Biomedical Imaging*, London, UK, Jun. 2026. (Accepted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Zhou_2026_ISBI_Deep.bib)
+
 ### 2023
 
 * **J. Li**, G. Tuckute, E. Fedorenko, B. L. Edlow, B. Fischl<sup>&Dagger;</sup>, A. V. Dalca<sup>&Dagger;</sup>,  

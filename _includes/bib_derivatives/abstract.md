@@ -1,3 +1,21 @@
+### 2026
+
+* S. Choi, V. Vasudev, L. Kelley-Quon, R. M. Leahy, A. A. Joshi, **J. Li**, V. Rajagopalan, J. L. Wisnowski,  
+"Emergence of anti-correlated functional networks in neonates: Initial results from HBCD release 1.0",  
+*HEALthy Brain and ChildDevelopment (HBCD) Annual Meeting*, Mar. 2026.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi_2026_HBCD_Emergence.bib)
+
+* P. Klimes, P. Bosque, I. Dolezalova, L. Wadi, M. Moye, K. Jaber, Y. Zhu, J. Stuart, T. Aung, **J. Li**, J. Gotman, D. Southwell, D. Carlson, B. Frauscher,  
+"Deep phenotyping with unsupervised clustering reveals new subtypes of temporal lobe epilepsy",  
+*4th Artificial Intelligence in Epilepsy and Neurological Disorders Conference*, San Juan, Mar. 2026.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Klimes_2026_AIEpilepsy_Deep.bib)
+
+* S. Choi, V. Vasudev, L. Kelley-Quon, R. M. Leahy, A. A. Joshi, **J. Li**, V. Rajagopalan, J. L. Wisnowski,  
+"Early life developmental functional connectivity changes in anti-correlated networks using HBCD R1.0",  
+*32th Annual Meeting of the Organization for Human Brain Mapping*, Bordeaux, France, Jun. 2026. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Choi_2026_OHBM_Early.bib)
+
+* M. K. Cambareri, H. J. Freman, D. Schreier, J. A. Yeager, S. Bruno, **J. Li**<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>, M. Fecchio<sup>&Dagger;</sup>,  
+"Resting-state functional connectivity predicts TMS-EEG-derived brain complexity",  
+*32th Annual Meeting of the Organization for Human Brain Mapping*, Bordeaux, France, Jun. 2026. (Submitted) &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Cambareri_2026_OHBM_Resting.bib)
+
 ### 2025
 
 * B. Coughlin, A. Paulk, P. Hadar, **J. Li**, D. Rubin, L. Hochberg, Z. Williams, S. Cash,  
@@ -6,19 +24,19 @@
 
 * C. Belly, T. Aung, **J. Li**, T. Tumnark, J. Gonzalez-Martinez, B. Frauscher,  
 "Neuronal coupling between subcortical structure and temporal lobe structures in patients with drug resistant temporal lobe epilepsy",  
-*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Belly_2025_AES_Neuronal.bib)
+*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-link"></i>](https://aesnet.org/abstractslisting/neuronal-coupling-between-subcortical-structure-and-temporal-lobe-structures-in-patients-with-drug-resistant-temporal-lobe-epilepsy){:target="Belly_2025_AES_Neuronal-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Belly_2025_AES_Neuronal.bib)
 
 * D. S. Jin, B. B. Ayvaz, J. R. Wheelock, J. Appleton, **J. Li**, L. J. Hirsch, B. Omay, S. F. Zafar, A. F. Struck, A. V. Dalca, B. L. Edlow, M. B. Westover, E. J. Gilmore, J. A. Kim,  
 "Acute phase magnetic resonance imaging (MRI) measurements predict post traumatic epilepsy (PTE) and functional outcome after traumatic brain injury (TBI)",  
-*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_AES_Acute.bib)
+*79th Annual Meeting of the American Epilepsy Society*, Atlanta, GA, Dec. 2025.  &nbsp; [<i class="fa fa-link"></i>](https://aesnet.org/abstractslisting/cortical-measurements-from-acute-phase-magnetic-resonance-imaging-mri-predict-post-traumatic-epilepsy-pte-and-functional-outcome-after-traumatic-brain-injury-tbi){:target="Jin_2025_AES_Acute-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_AES_Acute.bib)
 
 * D. S. Jin, B. B. Ayvaz, J. R. Wheelock, J. Appleton, **J. Li**, L. J. Hirsch, B. Omay, S. F. Zafar, A. F. Struck, A. V. Dalca, B. L. Edlow, M. B. Westover, E. J. Gilmore, J. A. Kim,  
 "Cortical measurements from acute phase magnetic resonance imaging (MRI) predict post-traumatic epilepsy (PTE)",  
-*54th Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_SFN_Cortical.bib)
+*54th Annual Meeting of the Society for Neuroscience*, San Diego, CA, Nov. 2025.  &nbsp; [<i class="fa fa-link"></i>](https://www.abstractsonline.com/pp8/#!/21171/presentation/41644){:target="Jin_2025_SFN_Cortical-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Jin_2025_SFN_Cortical.bib)
 
 * B. L. Edlow, M. E. Barra, D. R. Schreier, M. Fecchio, H. J. Freeman, **J. Li**, P. K. Lawrence, W. R. Sanders, A. Meydan, M. Masood, J. E. Kirsch, T. P. Bleck, J. J. Fins, G. J. T., L. R. Hochberg, B. C. Healy, K. Solt, E. N. Brown, Y. G. Bodien,  
 "Intravenous methylphenidate for acute traumatic disorders of consciousness: a phase 1, open-label, safety and dose-finding study",  
-*42st Annual Symposium of National Neurotrauma Society*, Philadelphia, PA, Jun. 2025.  &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2025_NNS_Intravenous.bib)
+*42nd Annual Symposium of National Neurotrauma Society*, Philadelphia, PA, Jun. 2025.  &nbsp; [<i class="fa fa-link"></i>](https://www.liebertpub.com/doi/10.1089/neu.2025.86661.abstract#sec-76){:target="Edlow_2025_NNS_Intravenous-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Edlow_2025_NNS_Intravenous.bib)
 
 * Y. Mantilla-Ramos, K. Jerbi, **J. Li**, D. Nair, R. M. Leahy,  
 "Using complexity and machine-learning to determine the epileptogenic zone in drug-resistant epilepsy",  

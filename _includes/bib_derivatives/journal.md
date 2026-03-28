@@ -1,8 +1,30 @@
+### 2026
+
+* Y. Liu, **J. Li**, J. L. Wisnowski, R. M. Leahy,  
+"Untamed: Unconstrained tensor decomposition and graph node embedding for cortical parcellation",  
+*Human Brain Mapping*, 2026.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1002/hbm.70483){:target="Liu_2026_HumBrainMapp_Untamed-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Liu_2026_HumBrainMapp_Untamed.pdf){:target="Liu_2026_HumBrainMapp_Untamed-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Liu_2026_HumBrainMapp_Untamed.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Cortical parcellation is fundamental to neuroscience, enabling the division of cerebral cortex into distinct, non-overlapping regions to support interpretation and comparison of complex neuroimaging data. Although extensive literature has investigated cortical parcellation and its connection to functional brain networks, the optimal spatial features for deriving parcellations from resting-state fMRI (rsfMRI) remain unclear. Traditional methods such as Independent Component Analysis (ICA) have been widely used to identify large-scale functional networks, while other approaches deﬁne disjoint cortical parcellations. However, bridging these perspectives through effective feature extraction remains an open challenge. To address this, we introduce Untamed, a novel framework that integrates unconstrained tensor decomposition using NASCAR to identify functional networks, with state-of-the-art graph node embedding to generate cortical parcellations. Our method produces near-homogeneous, spatially coherent regions aligned with large-scale functional networks, while avoiding strong assumptions like statistical independence required in ICA. Across multiple datasets, Untamed consistently demonstrates improved or comparable performance in functional connectivity homogeneity and task contrast alignment compared to existing atlases. The pipeline is fully automated, allowing for rapid adaptation to new datasets and the generation of custom parcellations. The atlases derived from the Genomics Superstruct Project (GSP) dataset, along with the code for generating customizable parcel numbers, are publicly available at https://untamed-atlas.github.io.
+      </p>
+  </details>
+
+* M. D. Olchanyi, D. R. Schreier, **J. Li**, C. Maffei, A. Sorby-Adams, H. C. Kinney, B. C. Healy, H. J. Freeman, J. Shless, C. Destrieux, H. Tregidgo, J. E. Iglesias<sup>&Dagger;</sup>, E. N. Brown<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
+"Probabilistic mapping and automated segmentation of human brainstem white matter bundles",  
+*Proceedings of the National Academy of Sciences*, vol. 123, no. 6, p. e2509321123, 2026.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1073/pnas.2509321123){:target="Olchanyi_2026_ProcNatlAcadSciUSA_Probabilistic-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Olchanyi_2026_ProcNatlAcadSciUSA_Probabilistic.pdf){:target="Olchanyi_2026_ProcNatlAcadSciUSA_Probabilistic-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Olchanyi_2026_ProcNatlAcadSciUSA_Probabilistic.bib)  
+  <details>
+    <summary style="font-size:16px">Abstract</summary>
+      <p style="margin-left: 20px; text-align: justify; font-size:16px">
+      Brainstem white matter (WM) bundles are essential conduits for neural signals that modulate homeostasis and consciousness. Their architecture forms the anatomic basis for brainstem connectomics, subcortical circuit models, and deep brain navigation tools. However, their small size and complex morphology, compared to cerebral WM, makes mapping and segmentation challenging in neuroimaging. As a result, fundamental questions about brainstem modulation of human homeostasis and consciousness remain unanswered. We leverage diffusion MRI tractography to create BrainStem Bundle Tool (BSBT), which automatically segments eight WM bundles in the rostral brainstem. BSBT performs segmentation on a custom probabilistic fiber map using a convolutional neural network architecture tailored to detect small anatomic structures. We demonstrate BSBT’s robustness across diffusion MRI acquisition protocols with in vivo scans of healthy subjects and ex vivo scans of human brain specimens with corresponding histology. BSBT also detected distinct brainstem bundle alterations in patients with Alzheimer’s disease, Parkinson’s disease, multiple sclerosis, and traumatic brain injury through tract-based analysis and classification tasks. Finally, we provide proof-of-principle evidence for the prognostic utility of BSBT in a longitudinal analysis of traumatic coma recovery. BSBT creates opportunities for scalable mapping of brainstem WM bundles and investigation of their role in a broad spectrum of neurological disorders.
+      </p>
+  </details>
+
 ### 2025
 
 * H. J. Freeman, A. S. Atalay, **J. Li**, E. Sobczak, N. Gilmore, S. B. Snider, B. C. Healy, H. Carrington, E. Selmanovic, A. Pruyser, L. Bura, D. Sheppard, D. Hunt, A. C. Seifert, Y. G. Bodien, J. M. Hoffman, C. L. MacDonald, K. Dams-O'Connor<sup>&Dagger;</sup>, B. L. Edlow<sup>&Dagger;</sup>,  
 "Unsupervised semi-automated MRI segmentation detects cortical lesion expansion in chronic traumatic brain injury",  
-*Frontiers in Neurology*, 2025. (In press) &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.3389/fneur.2025.1640514){:target="Freeman_2025_FrontNeurol_Unsupervised-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2025_FrontNeurol_Unsupervised.bib)  
+*Frontiers in Neurology*, vol. 16, no. 1640514, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.3389/fneur.2025.1640514){:target="Freeman_2025_FrontNeurol_Unsupervised-LINK"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Freeman_2025_FrontNeurol_Unsupervised.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
@@ -32,7 +54,7 @@
 
 * Warren, M. Raguz̆, H. Friedrich, Schaper, J. Tasserie, S. B. Snider, **J. Li**, Chua, K. Butenko, M. Friedrich, R. Jha, J. E. Iglesias, P. W. Carney, M. D. Fox, A. D. Boes, B. L. Edlow, A. Horn, D. Chudy<sup>&Dagger;</sup>, J. D. Rolston<sup>&Dagger;</sup>,  
 "A human brain network linked to restoration of consciousness after deep brain stimulation",  
-*Nature Communications*, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1038/s41467-025-61988-4){:target="Warren_2025_NatCommun_Human-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Warren_2025_NatCommun_Human.pdf){:target="Warren_2025_NatCommun_Human-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Warren_2025_NatCommun_Human.bib)  
+*Nature Communications*, vol. 16, no. 1, p. 6721, 2025.  &nbsp; [<i class="fa fa-link"></i>](https://doi.org/10.1038/s41467-025-61988-4){:target="Warren_2025_NatCommun_Human-LINK"} &nbsp; [<i class="fa fa-file-pdf-o"></i>](/files/pdf/Warren_2025_NatCommun_Human.pdf){:target="Warren_2025_NatCommun_Human-PDF"} &nbsp; [<i class="fa fa-quote-right"></i>](/files/bib/Warren_2025_NatCommun_Human.bib)  
   <details>
     <summary style="font-size:16px">Abstract</summary>
       <p style="margin-left: 20px; text-align: justify; font-size:16px">
